@@ -1,12 +1,12 @@
 {
   "hsn_code": "29221800",
   "years": {
-    "2023": {
+    "2018": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:18:41.012449",
+        "scraped_at": "2026-01-26T21:38:03.145770",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29221800",
-        "financial_year": "2023",
+        "financial_year": "2018",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -20,15 +20,82 @@
       "countries": [
         {
           "sno": 1,
-          "country": "BHUTAN",
+          "country": "FRANCE",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
+            "y2023_2024": 0.01,
+            "y2024_2025": null,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 20,
+            "y2023_2024": 1870,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 2,
+          "country": "OMAN",
+          "values_usd": {
+            "y2023_2024": 0.27,
+            "y2024_2025": 0.07,
+            "pct_growth": -74.08
+          },
+          "values_quantity": {
+            "y2023_2024": 22672,
+            "y2024_2025": 5824,
+            "pct_growth": -74.31
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.07,
+            "y2024_2025": -75.13,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 330078.09,
+            "y2024_2025": 8.75,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0,
+          "y2024_2025": null
+        }
+      }
+    },
+    "2021": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:38:03.223274",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "29221800",
+        "financial_year": "2021",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "29221800",
+        "description": "2-(N, N-DIISOPROPYLAMINO)ETHANOL",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "OMAN",
+          "values_usd": {
+            "y2023_2024": 0.07,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 6448,
+            "y2024_2025": null,
             "pct_growth": null
           }
         }
@@ -36,133 +103,27 @@
       "totals": {
         "total": {
           "values_usd": {
-            "y2023_2024": 0.0,
+            "y2023_2024": null,
             "y2024_2025": null,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 437072.03,
-            "y2024_2025": -3.1,
+            "y2023_2024": 422004.4,
+            "y2024_2025": 44.62,
             "pct_growth": null
           }
         },
         "pct_share": {
-          "y2023_2024": 0.0,
-          "y2024_2025": null
-        }
-      }
-    },
-    "2020": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:18:41.099072",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "29221800",
-        "financial_year": "2020",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "29221800",
-        "description": "2-(N, N-DIISOPROPYLAMINO)ETHANOL",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "OMAN",
-          "values_usd": {
-            "y2023_2024": 0.23,
-            "y2024_2025": 0.07,
-            "pct_growth": -68.08
-          },
-          "values_quantity": {
-            "y2023_2024": 19472,
-            "y2024_2025": 6448,
-            "pct_growth": -66.89
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.07,
-            "y2024_2025": -68.08,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 291808.48,
-            "y2024_2025": -6.88,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0,
-          "y2024_2025": null
-        }
-      }
-    },
-    "2019": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:18:41.160258",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "29221800",
-        "financial_year": "2019",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "29221800",
-        "description": "2-(N, N-DIISOPROPYLAMINO)ETHANOL",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "OMAN",
-          "values_usd": {
-            "y2023_2024": 0.07,
-            "y2024_2025": 0.23,
-            "pct_growth": 232.76
-          },
-          "values_quantity": {
-            "y2023_2024": 5824,
-            "y2024_2025": 19472,
-            "pct_growth": 234.34
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.23,
-            "y2024_2025": 232.76,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 313361.04,
-            "y2024_2025": -5.06,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0001,
+          "y2023_2024": null,
           "y2024_2025": null
         }
       }
     },
     "2024": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:18:41.275306",
+        "scraped_at": "2026-01-26T21:38:03.168917",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29221800",
         "financial_year": "2024",
@@ -241,12 +202,12 @@
         }
       }
     },
-    "2018": {
+    "2020": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:18:41.306135",
+        "scraped_at": "2026-01-26T21:38:03.278786",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29221800",
-        "financial_year": "2018",
+        "financial_year": "2020",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -260,30 +221,16 @@
       "countries": [
         {
           "sno": 1,
-          "country": "FRANCE",
-          "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 1870,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 2,
           "country": "OMAN",
           "values_usd": {
-            "y2023_2024": 0.27,
+            "y2023_2024": 0.23,
             "y2024_2025": 0.07,
-            "pct_growth": -74.08
+            "pct_growth": -68.08
           },
           "values_quantity": {
-            "y2023_2024": 22672,
-            "y2024_2025": 5824,
-            "pct_growth": -74.31
+            "y2023_2024": 19472,
+            "y2024_2025": 6448,
+            "pct_growth": -66.89
           }
         }
       ],
@@ -291,14 +238,14 @@
         "total": {
           "values_usd": {
             "y2023_2024": 0.07,
-            "y2024_2025": -75.13,
+            "y2024_2025": -68.08,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 330078.09,
-            "y2024_2025": 8.75,
+            "y2023_2024": 291808.48,
+            "y2024_2025": -6.88,
             "pct_growth": null
           }
         },
@@ -308,12 +255,65 @@
         }
       }
     },
-    "2021": {
+    "2023": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:18:41.299779",
+        "scraped_at": "2026-01-26T21:38:03.325134",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29221800",
-        "financial_year": "2021",
+        "financial_year": "2023",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "29221800",
+        "description": "2-(N, N-DIISOPROPYLAMINO)ETHANOL",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "BHUTAN",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 20,
+            "pct_growth": null
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 437072.03,
+            "y2024_2025": -3.1,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0,
+          "y2024_2025": null
+        }
+      }
+    },
+    "2019": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:38:03.589982",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "29221800",
+        "financial_year": "2019",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -330,40 +330,40 @@
           "country": "OMAN",
           "values_usd": {
             "y2023_2024": 0.07,
-            "y2024_2025": null,
-            "pct_growth": null
+            "y2024_2025": 0.23,
+            "pct_growth": 232.76
           },
           "values_quantity": {
-            "y2023_2024": 6448,
-            "y2024_2025": null,
-            "pct_growth": null
+            "y2023_2024": 5824,
+            "y2024_2025": 19472,
+            "pct_growth": 234.34
           }
         }
       ],
       "totals": {
         "total": {
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": null,
+            "y2023_2024": 0.23,
+            "y2024_2025": 232.76,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 422004.4,
-            "y2024_2025": 44.62,
+            "y2023_2024": 313361.04,
+            "y2024_2025": -5.06,
             "pct_growth": null
           }
         },
         "pct_share": {
-          "y2023_2024": null,
+          "y2023_2024": 0.0001,
           "y2024_2025": null
         }
       }
     }
   },
   "metadata": {
-    "consolidated_at": "2026-01-26T20:18:41.326541",
+    "consolidated_at": "2026-01-26T21:38:03.647781",
     "trade_type": "export",
     "years_count": 6,
     "schema_version": "2.0"

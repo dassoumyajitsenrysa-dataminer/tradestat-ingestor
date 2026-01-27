@@ -1,9 +1,227 @@
 {
   "hsn_code": "29222932",
   "years": {
+    "2020": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:38:08.338941",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "29222932",
+        "financial_year": "2020",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "29222932",
+        "description": "2:5 DIMETHOXY ANILINE",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "CHINA P RP",
+          "values_usd": {
+            "y2023_2024": 0.05,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 2450,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 2,
+          "country": "FRANCE",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 2,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 3,
+          "country": "JAPAN",
+          "values_usd": {
+            "y2023_2024": 0.17,
+            "y2024_2025": 0.17,
+            "pct_growth": -3.75
+          },
+          "values_quantity": {
+            "y2023_2024": 7250,
+            "y2024_2025": 7125,
+            "pct_growth": -1.72
+          }
+        },
+        {
+          "sno": 4,
+          "country": "SWITZERLAND",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 5,
+          "country": "THAILAND",
+          "values_usd": {
+            "y2023_2024": 0.09,
+            "y2024_2025": 0.03,
+            "pct_growth": -67.92
+          },
+          "values_quantity": {
+            "y2023_2024": 5910,
+            "y2024_2025": 1975,
+            "pct_growth": -66.58
+          }
+        },
+        {
+          "sno": 6,
+          "country": "U S A",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 51,
+            "pct_growth": null
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.2,
+            "y2024_2025": -37.09,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 291808.48,
+            "y2024_2025": -6.88,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0001,
+          "y2024_2025": null
+        }
+      }
+    },
+    "2019": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:38:08.364650",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "29222932",
+        "financial_year": "2019",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "29222932",
+        "description": "2:5 DIMETHOXY ANILINE",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "CHINA P RP",
+          "values_usd": {
+            "y2023_2024": 0.02,
+            "y2024_2025": 0.05,
+            "pct_growth": 134.5
+          },
+          "values_quantity": {
+            "y2023_2024": 1000,
+            "y2024_2025": 2450,
+            "pct_growth": 145.0
+          }
+        },
+        {
+          "sno": 2,
+          "country": "CZECH REPUBLIC",
+          "values_usd": {
+            "y2023_2024": 0.04,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 2600,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 3,
+          "country": "JAPAN",
+          "values_usd": {
+            "y2023_2024": 0.34,
+            "y2024_2025": 0.17,
+            "pct_growth": -49.24
+          },
+          "values_quantity": {
+            "y2023_2024": 11700,
+            "y2024_2025": 7250,
+            "pct_growth": -38.03
+          }
+        },
+        {
+          "sno": 4,
+          "country": "THAILAND",
+          "values_usd": {
+            "y2023_2024": 0.04,
+            "y2024_2025": 0.09,
+            "pct_growth": 156.64
+          },
+          "values_quantity": {
+            "y2023_2024": 2475,
+            "y2024_2025": 5910,
+            "pct_growth": 138.79
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.32,
+            "y2024_2025": -28.15,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 313361.04,
+            "y2024_2025": -5.06,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0001,
+          "y2024_2025": null
+        }
+      }
+    },
     "2024": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:18:46.229241",
+        "scraped_at": "2026-01-26T21:38:08.354532",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29222932",
         "financial_year": "2024",
@@ -112,7 +330,7 @@
     },
     "2022": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:18:46.439150",
+        "scraped_at": "2026-01-26T21:38:08.396137",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29222932",
         "financial_year": "2022",
@@ -249,7 +467,7 @@
     },
     "2018": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:18:46.566664",
+        "scraped_at": "2026-01-26T21:38:08.423959",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29222932",
         "financial_year": "2018",
@@ -370,350 +588,9 @@
         }
       }
     },
-    "2019": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:18:46.571680",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "29222932",
-        "financial_year": "2019",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "29222932",
-        "description": "2:5 DIMETHOXY ANILINE",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "CHINA P RP",
-          "values_usd": {
-            "y2023_2024": 0.02,
-            "y2024_2025": 0.05,
-            "pct_growth": 134.5
-          },
-          "values_quantity": {
-            "y2023_2024": 1000,
-            "y2024_2025": 2450,
-            "pct_growth": 145.0
-          }
-        },
-        {
-          "sno": 2,
-          "country": "CZECH REPUBLIC",
-          "values_usd": {
-            "y2023_2024": 0.04,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 2600,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 3,
-          "country": "JAPAN",
-          "values_usd": {
-            "y2023_2024": 0.34,
-            "y2024_2025": 0.17,
-            "pct_growth": -49.24
-          },
-          "values_quantity": {
-            "y2023_2024": 11700,
-            "y2024_2025": 7250,
-            "pct_growth": -38.03
-          }
-        },
-        {
-          "sno": 4,
-          "country": "THAILAND",
-          "values_usd": {
-            "y2023_2024": 0.04,
-            "y2024_2025": 0.09,
-            "pct_growth": 156.64
-          },
-          "values_quantity": {
-            "y2023_2024": 2475,
-            "y2024_2025": 5910,
-            "pct_growth": 138.79
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.32,
-            "y2024_2025": -28.15,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 313361.04,
-            "y2024_2025": -5.06,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0001,
-          "y2024_2025": null
-        }
-      }
-    },
-    "2020": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:18:46.626592",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "29222932",
-        "financial_year": "2020",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "29222932",
-        "description": "2:5 DIMETHOXY ANILINE",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "CHINA P RP",
-          "values_usd": {
-            "y2023_2024": 0.05,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 2450,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 2,
-          "country": "FRANCE",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 2,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 3,
-          "country": "JAPAN",
-          "values_usd": {
-            "y2023_2024": 0.17,
-            "y2024_2025": 0.17,
-            "pct_growth": -3.75
-          },
-          "values_quantity": {
-            "y2023_2024": 7250,
-            "y2024_2025": 7125,
-            "pct_growth": -1.72
-          }
-        },
-        {
-          "sno": 4,
-          "country": "SWITZERLAND",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 5,
-          "country": "THAILAND",
-          "values_usd": {
-            "y2023_2024": 0.09,
-            "y2024_2025": 0.03,
-            "pct_growth": -67.92
-          },
-          "values_quantity": {
-            "y2023_2024": 5910,
-            "y2024_2025": 1975,
-            "pct_growth": -66.58
-          }
-        },
-        {
-          "sno": 6,
-          "country": "U S A",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 51,
-            "pct_growth": null
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.2,
-            "y2024_2025": -37.09,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 291808.48,
-            "y2024_2025": -6.88,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0001,
-          "y2024_2025": null
-        }
-      }
-    },
-    "2021": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:18:46.653290",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "29222932",
-        "financial_year": "2021",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "29222932",
-        "description": "2:5 DIMETHOXY ANILINE",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "BELGIUM",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.11,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 4500,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 2,
-          "country": "FRANCE",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.03,
-            "pct_growth": 5095.19
-          },
-          "values_quantity": {
-            "y2023_2024": 2,
-            "y2024_2025": 1000,
-            "pct_growth": 49900.0
-          }
-        },
-        {
-          "sno": 3,
-          "country": "JAPAN",
-          "values_usd": {
-            "y2023_2024": 0.17,
-            "y2024_2025": 0.13,
-            "pct_growth": -22.29
-          },
-          "values_quantity": {
-            "y2023_2024": 7125,
-            "y2024_2025": 4525,
-            "pct_growth": -36.49
-          }
-        },
-        {
-          "sno": 4,
-          "country": "SWITZERLAND",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 5,
-          "country": "THAILAND",
-          "values_usd": {
-            "y2023_2024": 0.03,
-            "y2024_2025": 0.03,
-            "pct_growth": -7.57
-          },
-          "values_quantity": {
-            "y2023_2024": 1975,
-            "y2024_2025": 1175,
-            "pct_growth": -40.51
-          }
-        },
-        {
-          "sno": 6,
-          "country": "U S A",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 51,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.3,
-            "y2024_2025": 50.25,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 422004.4,
-            "y2024_2025": 44.62,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0001,
-          "y2024_2025": null
-        }
-      }
-    },
     "2023": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:18:46.656883",
+        "scraped_at": "2026-01-26T21:38:08.438629",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29222932",
         "financial_year": "2023",
@@ -847,10 +724,133 @@
           "y2024_2025": null
         }
       }
+    },
+    "2021": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:38:08.486606",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "29222932",
+        "financial_year": "2021",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "29222932",
+        "description": "2:5 DIMETHOXY ANILINE",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "BELGIUM",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.11,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 4500,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 2,
+          "country": "FRANCE",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.03,
+            "pct_growth": 5095.19
+          },
+          "values_quantity": {
+            "y2023_2024": 2,
+            "y2024_2025": 1000,
+            "pct_growth": 49900.0
+          }
+        },
+        {
+          "sno": 3,
+          "country": "JAPAN",
+          "values_usd": {
+            "y2023_2024": 0.17,
+            "y2024_2025": 0.13,
+            "pct_growth": -22.29
+          },
+          "values_quantity": {
+            "y2023_2024": 7125,
+            "y2024_2025": 4525,
+            "pct_growth": -36.49
+          }
+        },
+        {
+          "sno": 4,
+          "country": "SWITZERLAND",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 5,
+          "country": "THAILAND",
+          "values_usd": {
+            "y2023_2024": 0.03,
+            "y2024_2025": 0.03,
+            "pct_growth": -7.57
+          },
+          "values_quantity": {
+            "y2023_2024": 1975,
+            "y2024_2025": 1175,
+            "pct_growth": -40.51
+          }
+        },
+        {
+          "sno": 6,
+          "country": "U S A",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 51,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.3,
+            "y2024_2025": 50.25,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 422004.4,
+            "y2024_2025": 44.62,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0001,
+          "y2024_2025": null
+        }
+      }
     }
   },
   "metadata": {
-    "consolidated_at": "2026-01-26T20:18:46.738740",
+    "consolidated_at": "2026-01-26T21:38:08.494075",
     "trade_type": "export",
     "years_count": 7,
     "schema_version": "2.0"

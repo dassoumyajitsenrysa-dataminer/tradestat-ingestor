@@ -1,62 +1,9 @@
 {
   "hsn_code": "31039000",
   "years": {
-    "2021": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:21:12.403278",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "31039000",
-        "financial_year": "2021",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": null,
-        "description": null,
-        "unit": null
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "NEPAL",
-          "values_usd": {
-            "y2023_2024": 0.03,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 72952,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 422004.4,
-            "y2024_2025": 44.62,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": null,
-          "y2024_2025": null
-        }
-      }
-    },
     "2024": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:21:12.607119",
+        "scraped_at": "2026-01-26T21:40:15.103590",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "31039000",
         "financial_year": "2024",
@@ -107,62 +54,9 @@
         }
       }
     },
-    "2020": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:21:12.679627",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "31039000",
-        "financial_year": "2020",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": null,
-        "description": null,
-        "unit": null
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "NEPAL",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.03,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 72952,
-            "pct_growth": null
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.03,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 291808.48,
-            "y2024_2025": -6.88,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0,
-          "y2024_2025": null
-        }
-      }
-    },
     "2019": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:21:12.711746",
+        "scraped_at": "2026-01-26T21:40:15.221276",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "31039000",
         "financial_year": "2019",
@@ -353,9 +247,62 @@
         }
       }
     },
+    "2020": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:40:15.293333",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "31039000",
+        "financial_year": "2020",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": null,
+        "description": null,
+        "unit": null
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "NEPAL",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.03,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 72952,
+            "pct_growth": null
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.03,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 291808.48,
+            "y2024_2025": -6.88,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0,
+          "y2024_2025": null
+        }
+      }
+    },
     "2018": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:21:12.803645",
+        "scraped_at": "2026-01-26T21:40:15.315325",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "31039000",
         "financial_year": "2018",
@@ -601,10 +548,63 @@
           "y2024_2025": null
         }
       }
+    },
+    "2021": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:40:15.475136",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "31039000",
+        "financial_year": "2021",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": null,
+        "description": null,
+        "unit": null
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "NEPAL",
+          "values_usd": {
+            "y2023_2024": 0.03,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 72952,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 422004.4,
+            "y2024_2025": 44.62,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": null,
+          "y2024_2025": null
+        }
+      }
     }
   },
   "metadata": {
-    "consolidated_at": "2026-01-26T20:21:12.831348",
+    "consolidated_at": "2026-01-26T21:40:15.489593",
     "trade_type": "export",
     "years_count": 5,
     "schema_version": "2.0"

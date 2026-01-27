@@ -3,7 +3,7 @@
   "years": {
     "2024": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:14:34.413000",
+        "scraped_at": "2026-01-26T21:34:08.842424",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "25232940",
         "financial_year": "2024",
@@ -124,12 +124,12 @@
         }
       }
     },
-    "2018": {
+    "2022": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:14:34.416953",
+        "scraped_at": "2026-01-26T21:34:08.933774",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "25232940",
-        "financial_year": "2018",
+        "financial_year": "2022",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -143,71 +143,57 @@
       "countries": [
         {
           "sno": 1,
-          "country": "COMOROS",
+          "country": "BHUTAN",
           "values_usd": {
             "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
+            "y2024_2025": 0.0,
+            "pct_growth": 221.57
           },
           "values_quantity": {
-            "y2023_2024": 19000,
-            "y2024_2025": null,
-            "pct_growth": null
+            "y2023_2024": 2000,
+            "y2024_2025": 8500,
+            "pct_growth": 325.0
           }
         },
         {
           "sno": 2,
-          "country": "GERMANY",
+          "country": "JAPAN",
           "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": 12,
-            "y2024_2025": null,
+            "y2023_2024": null,
+            "y2024_2025": 100,
             "pct_growth": null
           }
         },
         {
           "sno": 3,
-          "country": "NEPAL",
+          "country": "MAURITIUS",
           "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
+            "y2023_2024": 0.39,
+            "y2024_2025": 0.14,
+            "pct_growth": -64.82
           },
           "values_quantity": {
-            "y2023_2024": 22550,
-            "y2024_2025": null,
-            "pct_growth": null
+            "y2023_2024": 3985000,
+            "y2024_2025": 1425000,
+            "pct_growth": -64.24
           }
         },
         {
           "sno": 4,
-          "country": "SRI LANKA DSR",
+          "country": "NEPAL",
           "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
+            "y2023_2024": null,
+            "y2024_2025": 0.01,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": 10000,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 5,
-          "country": "TANZANIA REP",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 5,
-            "y2024_2025": null,
+            "y2023_2024": null,
+            "y2024_2025": 29005,
             "pct_growth": null
           }
         }
@@ -215,27 +201,27 @@
       "totals": {
         "total": {
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": null,
+            "y2023_2024": 0.15,
+            "y2024_2025": -61.9,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 330078.09,
-            "y2024_2025": 8.75,
+            "y2023_2024": 451070.0,
+            "y2024_2025": 6.89,
             "pct_growth": null
           }
         },
         "pct_share": {
-          "y2023_2024": null,
+          "y2023_2024": 0.0,
           "y2024_2025": null
         }
       }
     },
     "2023": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:14:34.651472",
+        "scraped_at": "2026-01-26T21:34:09.251703",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "25232940",
         "financial_year": "2023",
@@ -342,104 +328,9 @@
         }
       }
     },
-    "2022": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:14:34.664512",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "25232940",
-        "financial_year": "2022",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "25232940",
-        "description": "PORTLAND SLAG CEMENT",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "BHUTAN",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.0,
-            "pct_growth": 221.57
-          },
-          "values_quantity": {
-            "y2023_2024": 2000,
-            "y2024_2025": 8500,
-            "pct_growth": 325.0
-          }
-        },
-        {
-          "sno": 2,
-          "country": "JAPAN",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 100,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 3,
-          "country": "MAURITIUS",
-          "values_usd": {
-            "y2023_2024": 0.39,
-            "y2024_2025": 0.14,
-            "pct_growth": -64.82
-          },
-          "values_quantity": {
-            "y2023_2024": 3985000,
-            "y2024_2025": 1425000,
-            "pct_growth": -64.24
-          }
-        },
-        {
-          "sno": 4,
-          "country": "NEPAL",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.01,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 29005,
-            "pct_growth": null
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.15,
-            "y2024_2025": -61.9,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 451070.0,
-            "y2024_2025": 6.89,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0,
-          "y2024_2025": null
-        }
-      }
-    },
     "2019": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:14:34.694661",
+        "scraped_at": "2026-01-26T21:34:09.387433",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "25232940",
         "financial_year": "2019",
@@ -532,76 +423,9 @@
         }
       }
     },
-    "2021": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:14:34.814457",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "25232940",
-        "financial_year": "2021",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "25232940",
-        "description": "PORTLAND SLAG CEMENT",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "BHUTAN",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 2000,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 2,
-          "country": "MAURITIUS",
-          "values_usd": {
-            "y2023_2024": 0.24,
-            "y2024_2025": 0.39,
-            "pct_growth": 65.35
-          },
-          "values_quantity": {
-            "y2023_2024": 3130000,
-            "y2024_2025": 3985000,
-            "pct_growth": 27.32
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.39,
-            "y2024_2025": 65.44,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 422004.4,
-            "y2024_2025": 44.62,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0001,
-          "y2024_2025": null
-        }
-      }
-    },
     "2020": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:14:34.832030",
+        "scraped_at": "2026-01-26T21:34:09.413792",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "25232940",
         "financial_year": "2020",
@@ -693,10 +517,186 @@
           "y2024_2025": null
         }
       }
+    },
+    "2018": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:34:09.522937",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "25232940",
+        "financial_year": "2018",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "25232940",
+        "description": "PORTLAND SLAG CEMENT",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "COMOROS",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 19000,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 2,
+          "country": "GERMANY",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 12,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 3,
+          "country": "NEPAL",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 22550,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 4,
+          "country": "SRI LANKA DSR",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 10000,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 5,
+          "country": "TANZANIA REP",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 5,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 330078.09,
+            "y2024_2025": 8.75,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": null,
+          "y2024_2025": null
+        }
+      }
+    },
+    "2021": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:34:09.647583",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "25232940",
+        "financial_year": "2021",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "25232940",
+        "description": "PORTLAND SLAG CEMENT",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "BHUTAN",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 2000,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 2,
+          "country": "MAURITIUS",
+          "values_usd": {
+            "y2023_2024": 0.24,
+            "y2024_2025": 0.39,
+            "pct_growth": 65.35
+          },
+          "values_quantity": {
+            "y2023_2024": 3130000,
+            "y2024_2025": 3985000,
+            "pct_growth": 27.32
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.39,
+            "y2024_2025": 65.44,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 422004.4,
+            "y2024_2025": 44.62,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0001,
+          "y2024_2025": null
+        }
+      }
     }
   },
   "metadata": {
-    "consolidated_at": "2026-01-26T20:14:34.857516",
+    "consolidated_at": "2026-01-26T21:34:09.717652",
     "trade_type": "export",
     "years_count": 7,
     "schema_version": "2.0"

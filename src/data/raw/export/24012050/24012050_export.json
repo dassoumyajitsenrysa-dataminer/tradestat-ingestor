@@ -1,9 +1,62 @@
 {
   "hsn_code": "24012050",
   "years": {
+    "2021": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:33:38.567191",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "24012050",
+        "financial_year": "2021",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "24012050",
+        "description": "TOBACCO FOR MANUFACTURE OF BIDIS, PARTLY /WHOLLY STMD/STRIPPED",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "SRI LANKA DSR",
+          "values_usd": {
+            "y2023_2024": 0.04,
+            "y2024_2025": 0.02,
+            "pct_growth": -47.43
+          },
+          "values_quantity": {
+            "y2023_2024": 155020,
+            "y2024_2025": 63298,
+            "pct_growth": -59.17
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.02,
+            "y2024_2025": -47.43,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 422004.4,
+            "y2024_2025": 44.62,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0,
+          "y2024_2025": null
+        }
+      }
+    },
     "2022": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:14:04.953659",
+        "scraped_at": "2026-01-26T21:33:38.840449",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "24012050",
         "financial_year": "2022",
@@ -82,224 +135,9 @@
         }
       }
     },
-    "2024": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:14:05.275274",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "24012050",
-        "financial_year": "2024",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "24012050",
-        "description": "TOBACCO FOR MANUFACTURE OF BIDIS, PARTLY /WHOLLY STMD/STRIPPED",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "SRI LANKA DSR",
-          "values_usd": {
-            "y2023_2024": 0.02,
-            "y2024_2025": 0.01,
-            "pct_growth": -44.39
-          },
-          "values_quantity": {
-            "y2023_2024": 65850,
-            "y2024_2025": 39000,
-            "pct_growth": -40.77
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": -44.39,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 437704.58,
-            "y2024_2025": 0.14,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0,
-          "y2024_2025": null
-        }
-      }
-    },
-    "2023": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:14:05.351618",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "24012050",
-        "financial_year": "2023",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "24012050",
-        "description": "TOBACCO FOR MANUFACTURE OF BIDIS, PARTLY /WHOLLY STMD/STRIPPED",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "AUSTRALIA",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 750,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 2,
-          "country": "CHINA P RP",
-          "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 5184,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 3,
-          "country": "SRI LANKA DSR",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.02,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 65850,
-            "pct_growth": null
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.02,
-            "y2024_2025": 80.12,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 437072.03,
-            "y2024_2025": -3.1,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0,
-          "y2024_2025": null
-        }
-      }
-    },
-    "2018": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:14:05.367386",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "24012050",
-        "financial_year": "2018",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "24012050",
-        "description": "TOBACCO FOR MANUFACTURE OF BIDIS, PARTLY /WHOLLY STMD/STRIPPED",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "AFGHANISTAN",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.04,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 3000,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 2,
-          "country": "NEPAL",
-          "values_usd": {
-            "y2023_2024": 0.09,
-            "y2024_2025": 0.0,
-            "pct_growth": -99.18
-          },
-          "values_quantity": {
-            "y2023_2024": 103639,
-            "y2024_2025": 1100,
-            "pct_growth": -98.94
-          }
-        },
-        {
-          "sno": 3,
-          "country": "SRI LANKA DSR",
-          "values_usd": {
-            "y2023_2024": 0.22,
-            "y2024_2025": 0.03,
-            "pct_growth": -87.54
-          },
-          "values_quantity": {
-            "y2023_2024": 633885,
-            "y2024_2025": 112465,
-            "pct_growth": -82.26
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.07,
-            "y2024_2025": -79.23,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 330078.09,
-            "y2024_2025": 8.75,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0,
-          "y2024_2025": null
-        }
-      }
-    },
     "2020": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:14:05.500751",
+        "scraped_at": "2026-01-26T21:33:39.052122",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "24012050",
         "financial_year": "2020",
@@ -378,62 +216,9 @@
         }
       }
     },
-    "2021": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:14:05.540796",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "24012050",
-        "financial_year": "2021",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "24012050",
-        "description": "TOBACCO FOR MANUFACTURE OF BIDIS, PARTLY /WHOLLY STMD/STRIPPED",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "SRI LANKA DSR",
-          "values_usd": {
-            "y2023_2024": 0.04,
-            "y2024_2025": 0.02,
-            "pct_growth": -47.43
-          },
-          "values_quantity": {
-            "y2023_2024": 155020,
-            "y2024_2025": 63298,
-            "pct_growth": -59.17
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.02,
-            "y2024_2025": -47.43,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 422004.4,
-            "y2024_2025": 44.62,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0,
-          "y2024_2025": null
-        }
-      }
-    },
     "2019": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:14:05.596499",
+        "scraped_at": "2026-01-26T21:33:39.193637",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "24012050",
         "financial_year": "2019",
@@ -525,10 +310,225 @@
           "y2024_2025": null
         }
       }
+    },
+    "2023": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:33:39.131310",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "24012050",
+        "financial_year": "2023",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "24012050",
+        "description": "TOBACCO FOR MANUFACTURE OF BIDIS, PARTLY /WHOLLY STMD/STRIPPED",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "AUSTRALIA",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 750,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 2,
+          "country": "CHINA P RP",
+          "values_usd": {
+            "y2023_2024": 0.01,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 5184,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 3,
+          "country": "SRI LANKA DSR",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.02,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 65850,
+            "pct_growth": null
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.02,
+            "y2024_2025": 80.12,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 437072.03,
+            "y2024_2025": -3.1,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0,
+          "y2024_2025": null
+        }
+      }
+    },
+    "2018": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:33:39.266110",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "24012050",
+        "financial_year": "2018",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "24012050",
+        "description": "TOBACCO FOR MANUFACTURE OF BIDIS, PARTLY /WHOLLY STMD/STRIPPED",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "AFGHANISTAN",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.04,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 3000,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 2,
+          "country": "NEPAL",
+          "values_usd": {
+            "y2023_2024": 0.09,
+            "y2024_2025": 0.0,
+            "pct_growth": -99.18
+          },
+          "values_quantity": {
+            "y2023_2024": 103639,
+            "y2024_2025": 1100,
+            "pct_growth": -98.94
+          }
+        },
+        {
+          "sno": 3,
+          "country": "SRI LANKA DSR",
+          "values_usd": {
+            "y2023_2024": 0.22,
+            "y2024_2025": 0.03,
+            "pct_growth": -87.54
+          },
+          "values_quantity": {
+            "y2023_2024": 633885,
+            "y2024_2025": 112465,
+            "pct_growth": -82.26
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.07,
+            "y2024_2025": -79.23,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 330078.09,
+            "y2024_2025": 8.75,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0,
+          "y2024_2025": null
+        }
+      }
+    },
+    "2024": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:33:39.271561",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "24012050",
+        "financial_year": "2024",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "24012050",
+        "description": "TOBACCO FOR MANUFACTURE OF BIDIS, PARTLY /WHOLLY STMD/STRIPPED",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "SRI LANKA DSR",
+          "values_usd": {
+            "y2023_2024": 0.02,
+            "y2024_2025": 0.01,
+            "pct_growth": -44.39
+          },
+          "values_quantity": {
+            "y2023_2024": 65850,
+            "y2024_2025": 39000,
+            "pct_growth": -40.77
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.01,
+            "y2024_2025": -44.39,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 437704.58,
+            "y2024_2025": 0.14,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0,
+          "y2024_2025": null
+        }
+      }
     }
   },
   "metadata": {
-    "consolidated_at": "2026-01-26T20:14:05.605458",
+    "consolidated_at": "2026-01-26T21:33:39.282874",
     "trade_type": "export",
     "years_count": 7,
     "schema_version": "2.0"

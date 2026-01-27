@@ -1,12 +1,12 @@
 {
   "hsn_code": "17024031",
   "years": {
-    "2022": {
+    "2019": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:12:54.896635",
+        "scraped_at": "2026-01-26T21:32:28.416599",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "17024031",
-        "financial_year": "2022",
+        "financial_year": "2019",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -22,14 +22,14 @@
           "sno": 1,
           "country": "MALDIVES",
           "values_usd": {
-            "y2023_2024": null,
+            "y2023_2024": 0.0,
             "y2024_2025": 0.0,
-            "pct_growth": null
+            "pct_growth": 17.62
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 191,
-            "pct_growth": null
+            "y2023_2024": 763,
+            "y2024_2025": 1095,
+            "pct_growth": 43.51
           }
         }
       ],
@@ -37,14 +37,14 @@
         "total": {
           "values_usd": {
             "y2023_2024": 0.0,
-            "y2024_2025": null,
+            "y2024_2025": 17.62,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 451070.0,
-            "y2024_2025": 6.89,
+            "y2023_2024": 313361.04,
+            "y2024_2025": -5.06,
             "pct_growth": null
           }
         },
@@ -54,62 +54,9 @@
         }
       }
     },
-    "2020": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:12:55.234043",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "17024031",
-        "financial_year": "2020",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "17024031",
-        "description": "DEXTROSE SOLID",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "MALDIVES",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 1095,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 291808.48,
-            "y2024_2025": -6.88,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": null,
-          "y2024_2025": null
-        }
-      }
-    },
     "2018": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:12:55.259646",
+        "scraped_at": "2026-01-26T21:32:28.463044",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "17024031",
         "financial_year": "2018",
@@ -176,7 +123,7 @@
     },
     "2023": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:12:55.393058",
+        "scraped_at": "2026-01-26T21:32:28.553758",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "17024031",
         "financial_year": "2023",
@@ -255,12 +202,65 @@
         }
       }
     },
-    "2019": {
+    "2022": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:12:55.415310",
+        "scraped_at": "2026-01-26T21:32:28.465694",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "17024031",
-        "financial_year": "2019",
+        "financial_year": "2022",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "17024031",
+        "description": "DEXTROSE SOLID",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "MALDIVES",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 191,
+            "pct_growth": null
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 451070.0,
+            "y2024_2025": 6.89,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0,
+          "y2024_2025": null
+        }
+      }
+    },
+    "2020": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:32:28.591464",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "17024031",
+        "financial_year": "2020",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -277,40 +277,40 @@
           "country": "MALDIVES",
           "values_usd": {
             "y2023_2024": 0.0,
-            "y2024_2025": 0.0,
-            "pct_growth": 17.62
+            "y2024_2025": null,
+            "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": 763,
-            "y2024_2025": 1095,
-            "pct_growth": 43.51
+            "y2023_2024": 1095,
+            "y2024_2025": null,
+            "pct_growth": null
           }
         }
       ],
       "totals": {
         "total": {
           "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 17.62,
+            "y2023_2024": null,
+            "y2024_2025": null,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 313361.04,
-            "y2024_2025": -5.06,
+            "y2023_2024": 291808.48,
+            "y2024_2025": -6.88,
             "pct_growth": null
           }
         },
         "pct_share": {
-          "y2023_2024": 0.0,
+          "y2023_2024": null,
           "y2024_2025": null
         }
       }
     },
     "2024": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:12:55.426856",
+        "scraped_at": "2026-01-26T21:32:28.646145",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "17024031",
         "financial_year": "2024",
@@ -377,7 +377,7 @@
     }
   },
   "metadata": {
-    "consolidated_at": "2026-01-26T20:12:55.434831",
+    "consolidated_at": "2026-01-26T21:32:28.659276",
     "trade_type": "export",
     "years_count": 6,
     "schema_version": "2.0"

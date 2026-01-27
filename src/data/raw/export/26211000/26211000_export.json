@@ -1,12 +1,12 @@
 {
   "hsn_code": "26211000",
   "years": {
-    "2024": {
+    "2023": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:15:03.187765",
+        "scraped_at": "2026-01-26T21:34:35.769766",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "26211000",
-        "financial_year": "2024",
+        "financial_year": "2023",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -22,61 +22,19 @@
           "sno": 1,
           "country": "BAHARAIN IS",
           "values_usd": {
-            "y2023_2024": 0.11,
-            "y2024_2025": null,
-            "pct_growth": null
+            "y2023_2024": 0.05,
+            "y2024_2025": 0.11,
+            "pct_growth": 107.57
           },
           "values_quantity": {
-            "y2023_2024": 3359800,
-            "y2024_2025": null,
-            "pct_growth": null
+            "y2023_2024": 1959300,
+            "y2024_2025": 3359800,
+            "pct_growth": 71.48
           }
         },
         {
           "sno": 2,
           "country": "BHUTAN",
-          "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": 0.0,
-            "pct_growth": -93.78
-          },
-          "values_quantity": {
-            "y2023_2024": 258340,
-            "y2024_2025": 84,
-            "pct_growth": -99.97
-          }
-        },
-        {
-          "sno": 3,
-          "country": "NEPAL",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 4200,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 4,
-          "country": "QATAR",
-          "values_usd": {
-            "y2023_2024": 0.03,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 1344000,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 5,
-          "country": "SAUDI ARAB",
           "values_usd": {
             "y2023_2024": null,
             "y2024_2025": 0.01,
@@ -84,27 +42,83 @@
           },
           "values_quantity": {
             "y2023_2024": null,
-            "y2024_2025": 20000,
+            "y2024_2025": 258340,
             "pct_growth": null
           }
         },
         {
-          "sno": 6,
-          "country": "U ARAB EMTS",
+          "sno": 3,
+          "country": "CANADA",
           "values_usd": {
             "y2023_2024": 0.0,
             "y2024_2025": null,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": 2000,
+            "y2023_2024": 10,
             "y2024_2025": null,
             "pct_growth": null
           }
         },
         {
+          "sno": 4,
+          "country": "KENYA",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 103350,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 5,
+          "country": "NEPAL",
+          "values_usd": {
+            "y2023_2024": 0.02,
+            "y2024_2025": 0.0,
+            "pct_growth": -98.01
+          },
+          "values_quantity": {
+            "y2023_2024": 1641610,
+            "y2024_2025": 4200,
+            "pct_growth": -99.74
+          }
+        },
+        {
+          "sno": 6,
+          "country": "QATAR",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.03,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 1344000,
+            "pct_growth": null
+          }
+        },
+        {
           "sno": 7,
-          "country": "U S A",
+          "country": "SAUDI ARAB",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 5400,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 8,
+          "country": "U ARAB EMTS",
           "values_usd": {
             "y2023_2024": null,
             "y2024_2025": 0.0,
@@ -112,7 +126,7 @@
           },
           "values_quantity": {
             "y2023_2024": null,
-            "y2024_2025": 150,
+            "y2024_2025": 2000,
             "pct_growth": null
           }
         }
@@ -120,15 +134,15 @@
       "totals": {
         "total": {
           "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": -94.34,
+            "y2023_2024": 0.15,
+            "y2024_2025": 79.22,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 437704.58,
-            "y2024_2025": 0.14,
+            "y2023_2024": 437072.03,
+            "y2024_2025": -3.1,
             "pct_growth": null
           }
         },
@@ -138,9 +152,241 @@
         }
       }
     },
+    "2022": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:34:35.888555",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "26211000",
+        "financial_year": "2022",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "26211000",
+        "description": "ASH AND RESIDUES FROM INCINERATION OF       MUNICIPAL WASTE",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "BAHARAIN IS",
+          "values_usd": {
+            "y2023_2024": 0.05,
+            "y2024_2025": 0.05,
+            "pct_growth": 1.58
+          },
+          "values_quantity": {
+            "y2023_2024": 2324000,
+            "y2024_2025": 1959300,
+            "pct_growth": -15.69
+          }
+        },
+        {
+          "sno": 2,
+          "country": "BHUTAN",
+          "values_usd": {
+            "y2023_2024": 0.09,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 3295710,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 3,
+          "country": "CANADA",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 10,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 4,
+          "country": "KENYA",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 103350,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 5,
+          "country": "NEPAL",
+          "values_usd": {
+            "y2023_2024": 0.14,
+            "y2024_2025": 0.02,
+            "pct_growth": -82.11
+          },
+          "values_quantity": {
+            "y2023_2024": 6534754,
+            "y2024_2025": 1641610,
+            "pct_growth": -74.88
+          }
+        },
+        {
+          "sno": 6,
+          "country": "SAUDI ARAB",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.0,
+            "pct_growth": -18.35
+          },
+          "values_quantity": {
+            "y2023_2024": 5000,
+            "y2024_2025": 5400,
+            "pct_growth": 8.0
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.08,
+            "y2024_2025": -70.38,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 451070.0,
+            "y2024_2025": 6.89,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0,
+          "y2024_2025": null
+        }
+      }
+    },
+    "2021": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:34:35.876240",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "26211000",
+        "financial_year": "2021",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "26211000",
+        "description": "ASH AND RESIDUES FROM INCINERATION OF       MUNICIPAL WASTE",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "BAHARAIN IS",
+          "values_usd": {
+            "y2023_2024": 0.31,
+            "y2024_2025": 0.05,
+            "pct_growth": -83.17
+          },
+          "values_quantity": {
+            "y2023_2024": 13300000,
+            "y2024_2025": 2324000,
+            "pct_growth": -82.53
+          }
+        },
+        {
+          "sno": 2,
+          "country": "BHUTAN",
+          "values_usd": {
+            "y2023_2024": 0.77,
+            "y2024_2025": 0.09,
+            "pct_growth": -88.39
+          },
+          "values_quantity": {
+            "y2023_2024": 35239000,
+            "y2024_2025": 3295710,
+            "pct_growth": -90.65
+          }
+        },
+        {
+          "sno": 3,
+          "country": "NEPAL",
+          "values_usd": {
+            "y2023_2024": 0.11,
+            "y2024_2025": 0.14,
+            "pct_growth": 28.43
+          },
+          "values_quantity": {
+            "y2023_2024": 6060990,
+            "y2024_2025": 6534754,
+            "pct_growth": 7.82
+          }
+        },
+        {
+          "sno": 4,
+          "country": "SAUDI ARAB",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 5000,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 5,
+          "country": "SPAIN",
+          "values_usd": {
+            "y2023_2024": 0.12,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 222647,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.28,
+            "y2024_2025": -78.67,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 422004.4,
+            "y2024_2025": 44.62,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0001,
+          "y2024_2025": null
+        }
+      }
+    },
     "2018": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:15:03.254214",
+        "scraped_at": "2026-01-26T21:34:35.980696",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "26211000",
         "financial_year": "2018",
@@ -443,12 +689,12 @@
         }
       }
     },
-    "2021": {
+    "2024": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:15:03.338629",
+        "scraped_at": "2026-01-26T21:34:36.026480",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "26211000",
-        "financial_year": "2021",
+        "financial_year": "2024",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -463,252 +709,62 @@
         {
           "sno": 1,
           "country": "BAHARAIN IS",
-          "values_usd": {
-            "y2023_2024": 0.31,
-            "y2024_2025": 0.05,
-            "pct_growth": -83.17
-          },
-          "values_quantity": {
-            "y2023_2024": 13300000,
-            "y2024_2025": 2324000,
-            "pct_growth": -82.53
-          }
-        },
-        {
-          "sno": 2,
-          "country": "BHUTAN",
-          "values_usd": {
-            "y2023_2024": 0.77,
-            "y2024_2025": 0.09,
-            "pct_growth": -88.39
-          },
-          "values_quantity": {
-            "y2023_2024": 35239000,
-            "y2024_2025": 3295710,
-            "pct_growth": -90.65
-          }
-        },
-        {
-          "sno": 3,
-          "country": "NEPAL",
           "values_usd": {
             "y2023_2024": 0.11,
-            "y2024_2025": 0.14,
-            "pct_growth": 28.43
-          },
-          "values_quantity": {
-            "y2023_2024": 6060990,
-            "y2024_2025": 6534754,
-            "pct_growth": 7.82
-          }
-        },
-        {
-          "sno": 4,
-          "country": "SAUDI ARAB",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 5000,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 5,
-          "country": "SPAIN",
-          "values_usd": {
-            "y2023_2024": 0.12,
             "y2024_2025": null,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": 222647,
+            "y2023_2024": 3359800,
             "y2024_2025": null,
             "pct_growth": null
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.28,
-            "y2024_2025": -78.67,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 422004.4,
-            "y2024_2025": 44.62,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0001,
-          "y2024_2025": null
-        }
-      }
-    },
-    "2022": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:15:03.303583",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "26211000",
-        "financial_year": "2022",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "26211000",
-        "description": "ASH AND RESIDUES FROM INCINERATION OF       MUNICIPAL WASTE",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "BAHARAIN IS",
-          "values_usd": {
-            "y2023_2024": 0.05,
-            "y2024_2025": 0.05,
-            "pct_growth": 1.58
-          },
-          "values_quantity": {
-            "y2023_2024": 2324000,
-            "y2024_2025": 1959300,
-            "pct_growth": -15.69
           }
         },
         {
           "sno": 2,
           "country": "BHUTAN",
           "values_usd": {
-            "y2023_2024": 0.09,
-            "y2024_2025": null,
-            "pct_growth": null
+            "y2023_2024": 0.01,
+            "y2024_2025": 0.0,
+            "pct_growth": -93.78
           },
           "values_quantity": {
-            "y2023_2024": 3295710,
-            "y2024_2025": null,
-            "pct_growth": null
+            "y2023_2024": 258340,
+            "y2024_2025": 84,
+            "pct_growth": -99.97
           }
         },
         {
           "sno": 3,
-          "country": "CANADA",
+          "country": "NEPAL",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 10,
+            "y2023_2024": 4200,
+            "y2024_2025": null,
             "pct_growth": null
           }
         },
         {
           "sno": 4,
-          "country": "KENYA",
+          "country": "QATAR",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
+            "y2023_2024": 0.03,
+            "y2024_2025": null,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 103350,
+            "y2023_2024": 1344000,
+            "y2024_2025": null,
             "pct_growth": null
           }
         },
         {
           "sno": 5,
-          "country": "NEPAL",
-          "values_usd": {
-            "y2023_2024": 0.14,
-            "y2024_2025": 0.02,
-            "pct_growth": -82.11
-          },
-          "values_quantity": {
-            "y2023_2024": 6534754,
-            "y2024_2025": 1641610,
-            "pct_growth": -74.88
-          }
-        },
-        {
-          "sno": 6,
           "country": "SAUDI ARAB",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.0,
-            "pct_growth": -18.35
-          },
-          "values_quantity": {
-            "y2023_2024": 5000,
-            "y2024_2025": 5400,
-            "pct_growth": 8.0
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.08,
-            "y2024_2025": -70.38,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 451070.0,
-            "y2024_2025": 6.89,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0,
-          "y2024_2025": null
-        }
-      }
-    },
-    "2023": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:15:03.446097",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "26211000",
-        "financial_year": "2023",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "26211000",
-        "description": "ASH AND RESIDUES FROM INCINERATION OF       MUNICIPAL WASTE",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "BAHARAIN IS",
-          "values_usd": {
-            "y2023_2024": 0.05,
-            "y2024_2025": 0.11,
-            "pct_growth": 107.57
-          },
-          "values_quantity": {
-            "y2023_2024": 1959300,
-            "y2024_2025": 3359800,
-            "pct_growth": 71.48
-          }
-        },
-        {
-          "sno": 2,
-          "country": "BHUTAN",
           "values_usd": {
             "y2023_2024": null,
             "y2024_2025": 0.01,
@@ -716,83 +772,27 @@
           },
           "values_quantity": {
             "y2023_2024": null,
-            "y2024_2025": 258340,
+            "y2024_2025": 20000,
             "pct_growth": null
-          }
-        },
-        {
-          "sno": 3,
-          "country": "CANADA",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 10,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 4,
-          "country": "KENYA",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 103350,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 5,
-          "country": "NEPAL",
-          "values_usd": {
-            "y2023_2024": 0.02,
-            "y2024_2025": 0.0,
-            "pct_growth": -98.01
-          },
-          "values_quantity": {
-            "y2023_2024": 1641610,
-            "y2024_2025": 4200,
-            "pct_growth": -99.74
           }
         },
         {
           "sno": 6,
-          "country": "QATAR",
+          "country": "U ARAB EMTS",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.03,
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 1344000,
+            "y2023_2024": 2000,
+            "y2024_2025": null,
             "pct_growth": null
           }
         },
         {
           "sno": 7,
-          "country": "SAUDI ARAB",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 5400,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 8,
-          "country": "U ARAB EMTS",
+          "country": "U S A",
           "values_usd": {
             "y2023_2024": null,
             "y2024_2025": 0.0,
@@ -800,7 +800,7 @@
           },
           "values_quantity": {
             "y2023_2024": null,
-            "y2024_2025": 2000,
+            "y2024_2025": 150,
             "pct_growth": null
           }
         }
@@ -808,15 +808,15 @@
       "totals": {
         "total": {
           "values_usd": {
-            "y2023_2024": 0.15,
-            "y2024_2025": 79.22,
+            "y2023_2024": 0.01,
+            "y2024_2025": -94.34,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 437072.03,
-            "y2024_2025": -3.1,
+            "y2023_2024": 437704.58,
+            "y2024_2025": 0.14,
             "pct_growth": null
           }
         },
@@ -828,7 +828,7 @@
     },
     "2019": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:15:03.397371",
+        "scraped_at": "2026-01-26T21:34:36.095713",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "26211000",
         "financial_year": "2019",
@@ -1105,7 +1105,7 @@
     },
     "2020": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:15:03.495901",
+        "scraped_at": "2026-01-26T21:34:36.119184",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "26211000",
         "financial_year": "2020",
@@ -1298,7 +1298,7 @@
     }
   },
   "metadata": {
-    "consolidated_at": "2026-01-26T20:15:03.509478",
+    "consolidated_at": "2026-01-26T21:34:36.149983",
     "trade_type": "export",
     "years_count": 7,
     "schema_version": "2.0"

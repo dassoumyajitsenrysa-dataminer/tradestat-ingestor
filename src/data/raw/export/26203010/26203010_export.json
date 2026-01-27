@@ -1,12 +1,12 @@
 {
   "hsn_code": "26203010",
   "years": {
-    "2024": {
+    "2023": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:15:01.730838",
+        "scraped_at": "2026-01-26T21:34:35.581526",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "26203010",
-        "financial_year": "2024",
+        "financial_year": "2023",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -20,43 +20,43 @@
       "countries": [
         {
           "sno": 1,
-          "country": "BELGIUM",
+          "country": "CANADA",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.06,
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 32999,
+            "y2023_2024": 9,
+            "y2024_2025": null,
             "pct_growth": null
           }
         },
         {
           "sno": 2,
-          "country": "GERMANY",
+          "country": "KUWAIT",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": null,
+            "y2023_2024": 30,
             "y2024_2025": null,
             "pct_growth": null
           }
         },
         {
           "sno": 3,
-          "country": "ITALY",
+          "country": "NEPAL",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
+            "y2023_2024": 0.01,
+            "y2024_2025": null,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 49,
+            "y2023_2024": 41000,
+            "y2024_2025": null,
             "pct_growth": null
           }
         },
@@ -66,27 +66,41 @@
           "values_usd": {
             "y2023_2024": 0.0,
             "y2024_2025": 0.0,
-            "pct_growth": 169.07
+            "pct_growth": -77.88
           },
           "values_quantity": {
-            "y2023_2024": 5,
-            "y2024_2025": 6,
-            "pct_growth": 20.0
+            "y2023_2024": 28,
+            "y2024_2025": 5,
+            "pct_growth": -82.14
+          }
+        },
+        {
+          "sno": 5,
+          "country": "U S A",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 24,
+            "y2024_2025": null,
+            "pct_growth": null
           }
         }
       ],
       "totals": {
         "total": {
           "values_usd": {
-            "y2023_2024": 0.06,
-            "y2024_2025": 102383.68,
+            "y2023_2024": 0.0,
+            "y2024_2025": -99.34,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 437704.58,
-            "y2024_2025": 0.14,
+            "y2023_2024": 437072.03,
+            "y2024_2025": -3.1,
             "pct_growth": null
           }
         },
@@ -96,9 +110,90 @@
         }
       }
     },
+    "2018": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:34:35.636293",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "26203010",
+        "financial_year": "2018",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "26203010",
+        "description": "BRASS DR0SS",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "CAMBODIA",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 2,
+          "country": "CANADA",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 10,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 3,
+          "country": "HONG KONG",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 20,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 330078.09,
+            "y2024_2025": 8.75,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": null,
+          "y2024_2025": null
+        }
+      }
+    },
     "2021": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:15:01.836240",
+        "scraped_at": "2026-01-26T21:34:35.642103",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "26203010",
         "financial_year": "2021",
@@ -247,12 +342,12 @@
         }
       }
     },
-    "2023": {
+    "2024": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:15:01.869691",
+        "scraped_at": "2026-01-26T21:34:35.677978",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "26203010",
-        "financial_year": "2023",
+        "financial_year": "2024",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -266,43 +361,43 @@
       "countries": [
         {
           "sno": 1,
-          "country": "CANADA",
+          "country": "BELGIUM",
           "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
+            "y2023_2024": null,
+            "y2024_2025": 0.06,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": 9,
-            "y2024_2025": null,
+            "y2023_2024": null,
+            "y2024_2025": 32999,
             "pct_growth": null
           }
         },
         {
           "sno": 2,
-          "country": "KUWAIT",
+          "country": "GERMANY",
           "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": 30,
+            "y2023_2024": null,
             "y2024_2025": null,
             "pct_growth": null
           }
         },
         {
           "sno": 3,
-          "country": "NEPAL",
+          "country": "ITALY",
           "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": null,
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": 41000,
-            "y2024_2025": null,
+            "y2023_2024": null,
+            "y2024_2025": 49,
             "pct_growth": null
           }
         },
@@ -312,41 +407,27 @@
           "values_usd": {
             "y2023_2024": 0.0,
             "y2024_2025": 0.0,
-            "pct_growth": -77.88
+            "pct_growth": 169.07
           },
           "values_quantity": {
-            "y2023_2024": 28,
-            "y2024_2025": 5,
-            "pct_growth": -82.14
-          }
-        },
-        {
-          "sno": 5,
-          "country": "U S A",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 24,
-            "y2024_2025": null,
-            "pct_growth": null
+            "y2023_2024": 5,
+            "y2024_2025": 6,
+            "pct_growth": 20.0
           }
         }
       ],
       "totals": {
         "total": {
           "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": -99.34,
+            "y2023_2024": 0.06,
+            "y2024_2025": 102383.68,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 437072.03,
-            "y2024_2025": -3.1,
+            "y2023_2024": 437704.58,
+            "y2024_2025": 0.14,
             "pct_growth": null
           }
         },
@@ -358,7 +439,7 @@
     },
     "2022": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:15:01.897068",
+        "scraped_at": "2026-01-26T21:34:35.739523",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "26203010",
         "financial_year": "2022",
@@ -534,91 +615,10 @@
           "y2024_2025": null
         }
       }
-    },
-    "2018": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:15:01.912900",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "26203010",
-        "financial_year": "2018",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "26203010",
-        "description": "BRASS DR0SS",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "CAMBODIA",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 2,
-          "country": "CANADA",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 10,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 3,
-          "country": "HONG KONG",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 20,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 330078.09,
-            "y2024_2025": 8.75,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": null,
-          "y2024_2025": null
-        }
-      }
     }
   },
   "metadata": {
-    "consolidated_at": "2026-01-26T20:15:01.929618",
+    "consolidated_at": "2026-01-26T21:34:35.756564",
     "trade_type": "export",
     "years_count": 5,
     "schema_version": "2.0"

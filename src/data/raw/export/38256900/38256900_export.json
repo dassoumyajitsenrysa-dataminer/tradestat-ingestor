@@ -1,9 +1,104 @@
 {
   "hsn_code": "38256900",
   "years": {
+    "2020": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:43:26.541849",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "38256900",
+        "financial_year": "2020",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "38256900",
+        "description": "OTHR WASTE OF ORGANIC AND ALIED INDUSTRIES",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "ETHIOPIA",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.0,
+            "pct_growth": 48.35
+          },
+          "values_quantity": {
+            "y2023_2024": 210,
+            "y2024_2025": 315,
+            "pct_growth": 50.0
+          }
+        },
+        {
+          "sno": 2,
+          "country": "KENYA",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.01,
+            "pct_growth": 581.86
+          },
+          "values_quantity": {
+            "y2023_2024": 3000,
+            "y2024_2025": 20000,
+            "pct_growth": 566.67
+          }
+        },
+        {
+          "sno": 3,
+          "country": "NEPAL",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 15,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 4,
+          "country": "U S A",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.04,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 21344,
+            "pct_growth": null
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.05,
+            "y2024_2025": 3133.47,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 291808.48,
+            "y2024_2025": -6.88,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0,
+          "y2024_2025": null
+        }
+      }
+    },
     "2024": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:25:23.389324",
+        "scraped_at": "2026-01-26T21:43:26.583380",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "38256900",
         "financial_year": "2024",
@@ -98,7 +193,7 @@
     },
     "2022": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:25:23.398222",
+        "scraped_at": "2026-01-26T21:43:27.204772",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "38256900",
         "financial_year": "2022",
@@ -177,90 +272,9 @@
         }
       }
     },
-    "2023": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:25:23.606366",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "38256900",
-        "financial_year": "2023",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "38256900",
-        "description": "OTHR WASTE OF ORGANIC AND ALIED INDUSTRIES",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "BHUTAN",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.0,
-            "pct_growth": -64.53
-          },
-          "values_quantity": {
-            "y2023_2024": 235,
-            "y2024_2025": 150,
-            "pct_growth": -36.17
-          }
-        },
-        {
-          "sno": 2,
-          "country": "KENYA",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.0,
-            "pct_growth": -55.55
-          },
-          "values_quantity": {
-            "y2023_2024": 8000,
-            "y2024_2025": 5000,
-            "pct_growth": -37.5
-          }
-        },
-        {
-          "sno": 3,
-          "country": "NEPAL",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.0,
-            "pct_growth": -36.97
-          },
-          "values_quantity": {
-            "y2023_2024": 360,
-            "y2024_2025": 200,
-            "pct_growth": -44.44
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": -55.2,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 437072.03,
-            "y2024_2025": -3.1,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0,
-          "y2024_2025": null
-        }
-      }
-    },
     "2021": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:25:23.828326",
+        "scraped_at": "2026-01-26T21:43:27.347294",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "38256900",
         "financial_year": "2021",
@@ -367,104 +381,9 @@
         }
       }
     },
-    "2020": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:25:23.845436",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "38256900",
-        "financial_year": "2020",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "38256900",
-        "description": "OTHR WASTE OF ORGANIC AND ALIED INDUSTRIES",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "ETHIOPIA",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.0,
-            "pct_growth": 48.35
-          },
-          "values_quantity": {
-            "y2023_2024": 210,
-            "y2024_2025": 315,
-            "pct_growth": 50.0
-          }
-        },
-        {
-          "sno": 2,
-          "country": "KENYA",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.01,
-            "pct_growth": 581.86
-          },
-          "values_quantity": {
-            "y2023_2024": 3000,
-            "y2024_2025": 20000,
-            "pct_growth": 566.67
-          }
-        },
-        {
-          "sno": 3,
-          "country": "NEPAL",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 15,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 4,
-          "country": "U S A",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.04,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 21344,
-            "pct_growth": null
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.05,
-            "y2024_2025": 3133.47,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 291808.48,
-            "y2024_2025": -6.88,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0,
-          "y2024_2025": null
-        }
-      }
-    },
     "2018": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:25:23.884038",
+        "scraped_at": "2026-01-26T21:43:27.320835",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "38256900",
         "financial_year": "2018",
@@ -557,9 +476,90 @@
         }
       }
     },
+    "2023": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:43:27.470016",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "38256900",
+        "financial_year": "2023",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "38256900",
+        "description": "OTHR WASTE OF ORGANIC AND ALIED INDUSTRIES",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "BHUTAN",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.0,
+            "pct_growth": -64.53
+          },
+          "values_quantity": {
+            "y2023_2024": 235,
+            "y2024_2025": 150,
+            "pct_growth": -36.17
+          }
+        },
+        {
+          "sno": 2,
+          "country": "KENYA",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.0,
+            "pct_growth": -55.55
+          },
+          "values_quantity": {
+            "y2023_2024": 8000,
+            "y2024_2025": 5000,
+            "pct_growth": -37.5
+          }
+        },
+        {
+          "sno": 3,
+          "country": "NEPAL",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.0,
+            "pct_growth": -36.97
+          },
+          "values_quantity": {
+            "y2023_2024": 360,
+            "y2024_2025": 200,
+            "pct_growth": -44.44
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": -55.2,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 437072.03,
+            "y2024_2025": -3.1,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0,
+          "y2024_2025": null
+        }
+      }
+    },
     "2019": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:25:23.896879",
+        "scraped_at": "2026-01-26T21:43:27.589107",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "38256900",
         "financial_year": "2019",
@@ -654,7 +654,7 @@
     }
   },
   "metadata": {
-    "consolidated_at": "2026-01-26T20:25:23.914261",
+    "consolidated_at": "2026-01-26T21:43:27.655874",
     "trade_type": "export",
     "years_count": 7,
     "schema_version": "2.0"

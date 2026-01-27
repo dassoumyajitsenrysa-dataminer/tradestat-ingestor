@@ -1,9 +1,185 @@
 {
   "hsn_code": "29394300",
   "years": {
+    "2021": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:39:00.587685",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "29394300",
+        "financial_year": "2021",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "29394300",
+        "description": "CATHINE (INN) AND ITS SALTS (ALKALOIDS OF EPHEDRA AND THEIR DERIVATIVES; SALTS THEIR OF)",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "MEXICO",
+          "values_usd": {
+            "y2023_2024": 1.4,
+            "y2024_2025": 0.87,
+            "pct_growth": -38.19
+          },
+          "values_quantity": {
+            "y2023_2024": 2000,
+            "y2024_2025": 1000,
+            "pct_growth": -50.0
+          }
+        },
+        {
+          "sno": 2,
+          "country": "SOUTH AFRICA",
+          "values_usd": {
+            "y2023_2024": 0.2,
+            "y2024_2025": 0.27,
+            "pct_growth": 32.25
+          },
+          "values_quantity": {
+            "y2023_2024": 300,
+            "y2024_2025": 400,
+            "pct_growth": 33.33
+          }
+        },
+        {
+          "sno": 3,
+          "country": "SWITZERLAND",
+          "values_usd": {
+            "y2023_2024": 0.01,
+            "y2024_2025": 0.01,
+            "pct_growth": -28.56
+          },
+          "values_quantity": {
+            "y2023_2024": 6,
+            "y2024_2025": 4,
+            "pct_growth": -33.33
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 1.14,
+            "y2024_2025": -29.27,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 422004.4,
+            "y2024_2025": 44.62,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0003,
+          "y2024_2025": null
+        }
+      }
+    },
+    "2024": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:39:00.848307",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "29394300",
+        "financial_year": "2024",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "29394300",
+        "description": "CATHINE (INN) AND ITS SALTS (ALKALOIDS OF EPHEDRA AND THEIR DERIVATIVES; SALTS THEIR OF)",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "BRAZIL",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 2,
+          "country": "SOUTH AFRICA",
+          "values_usd": {
+            "y2023_2024": 0.4,
+            "y2024_2025": 0.24,
+            "pct_growth": -38.73
+          },
+          "values_quantity": {
+            "y2023_2024": 500,
+            "y2024_2025": 300,
+            "pct_growth": -40.0
+          }
+        },
+        {
+          "sno": 3,
+          "country": "SWITZERLAND",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 1,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 4,
+          "country": "TURKEY",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.25,
+            "y2024_2025": -38.3,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 437704.58,
+            "y2024_2025": 0.14,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0001,
+          "y2024_2025": null
+        }
+      }
+    },
     "2020": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:19:42.975392",
+        "scraped_at": "2026-01-26T21:39:00.905091",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29394300",
         "financial_year": "2020",
@@ -96,118 +272,9 @@
         }
       }
     },
-    "2018": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:19:42.978664",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "29394300",
-        "financial_year": "2018",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "29394300",
-        "description": "CATHINE (INN) AND ITS SALTS (ALKALOIDS OF EPHEDRA AND THEIR DERIVATIVES; SALTS THEIR OF)",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "GERMANY",
-          "values_usd": {
-            "y2023_2024": 0.11,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 100,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 2,
-          "country": "JORDAN",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.13,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 1500,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 3,
-          "country": "MEXICO",
-          "values_usd": {
-            "y2023_2024": 2.97,
-            "y2024_2025": 1.38,
-            "pct_growth": -53.55
-          },
-          "values_quantity": {
-            "y2023_2024": 4250,
-            "y2024_2025": 2000,
-            "pct_growth": -52.94
-          }
-        },
-        {
-          "sno": 4,
-          "country": "SAUDI ARAB",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 5,
-          "country": "SOUTH AFRICA",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.34,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 500,
-            "pct_growth": null
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 1.84,
-            "y2024_2025": -40.06,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 330078.09,
-            "y2024_2025": 8.75,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0006,
-          "y2024_2025": null
-        }
-      }
-    },
     "2023": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:19:43.013436",
+        "scraped_at": "2026-01-26T21:39:00.893046",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29394300",
         "financial_year": "2023",
@@ -328,12 +395,12 @@
         }
       }
     },
-    "2021": {
+    "2022": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:19:43.075978",
+        "scraped_at": "2026-01-26T21:39:00.951197",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29394300",
-        "financial_year": "2021",
+        "financial_year": "2022",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -347,71 +414,85 @@
       "countries": [
         {
           "sno": 1,
-          "country": "MEXICO",
+          "country": "FINLAND",
           "values_usd": {
-            "y2023_2024": 1.4,
-            "y2024_2025": 0.87,
-            "pct_growth": -38.19
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": 2000,
-            "y2024_2025": 1000,
-            "pct_growth": -50.0
+            "y2023_2024": null,
+            "y2024_2025": null,
+            "pct_growth": null
           }
         },
         {
           "sno": 2,
-          "country": "SOUTH AFRICA",
+          "country": "MEXICO",
           "values_usd": {
-            "y2023_2024": 0.2,
-            "y2024_2025": 0.27,
-            "pct_growth": 32.25
+            "y2023_2024": 0.87,
+            "y2024_2025": 2.01,
+            "pct_growth": 132.84
           },
           "values_quantity": {
-            "y2023_2024": 300,
-            "y2024_2025": 400,
-            "pct_growth": 33.33
+            "y2023_2024": 1000,
+            "y2024_2025": 2030,
+            "pct_growth": 103.0
           }
         },
         {
           "sno": 3,
+          "country": "SOUTH AFRICA",
+          "values_usd": {
+            "y2023_2024": 0.27,
+            "y2024_2025": 0.34,
+            "pct_growth": 26.81
+          },
+          "values_quantity": {
+            "y2023_2024": 400,
+            "y2024_2025": 500,
+            "pct_growth": 25.0
+          }
+        },
+        {
+          "sno": 4,
           "country": "SWITZERLAND",
           "values_usd": {
             "y2023_2024": 0.01,
             "y2024_2025": 0.01,
-            "pct_growth": -28.56
+            "pct_growth": 5.05
           },
           "values_quantity": {
-            "y2023_2024": 6,
-            "y2024_2025": 4,
-            "pct_growth": -33.33
+            "y2023_2024": 4,
+            "y2024_2025": 5,
+            "pct_growth": 25.0
           }
         }
       ],
       "totals": {
         "total": {
           "values_usd": {
-            "y2023_2024": 1.14,
-            "y2024_2025": -29.27,
+            "y2023_2024": 2.36,
+            "y2024_2025": 107.34,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 422004.4,
-            "y2024_2025": 44.62,
+            "y2023_2024": 451070.0,
+            "y2024_2025": 6.89,
             "pct_growth": null
           }
         },
         "pct_share": {
-          "y2023_2024": 0.0003,
+          "y2023_2024": 0.0005,
           "y2024_2025": null
         }
       }
     },
     "2019": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:19:43.244252",
+        "scraped_at": "2026-01-26T21:39:01.011172",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29394300",
         "financial_year": "2019",
@@ -532,12 +613,12 @@
         }
       }
     },
-    "2024": {
+    "2018": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:19:43.319382",
+        "scraped_at": "2026-01-26T21:39:01.047215",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29394300",
-        "financial_year": "2024",
+        "financial_year": "2018",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -551,180 +632,99 @@
       "countries": [
         {
           "sno": 1,
-          "country": "BRAZIL",
+          "country": "GERMANY",
           "values_usd": {
-            "y2023_2024": 0.0,
+            "y2023_2024": 0.11,
             "y2024_2025": null,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": null,
+            "y2023_2024": 100,
             "y2024_2025": null,
             "pct_growth": null
           }
         },
         {
           "sno": 2,
-          "country": "SOUTH AFRICA",
+          "country": "JORDAN",
           "values_usd": {
-            "y2023_2024": 0.4,
-            "y2024_2025": 0.24,
-            "pct_growth": -38.73
+            "y2023_2024": null,
+            "y2024_2025": 0.13,
+            "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": 500,
-            "y2024_2025": 300,
-            "pct_growth": -40.0
+            "y2023_2024": null,
+            "y2024_2025": 1500,
+            "pct_growth": null
           }
         },
         {
           "sno": 3,
-          "country": "SWITZERLAND",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 1,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 4,
-          "country": "TURKEY",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.25,
-            "y2024_2025": -38.3,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 437704.58,
-            "y2024_2025": 0.14,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0001,
-          "y2024_2025": null
-        }
-      }
-    },
-    "2022": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:19:43.311734",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "29394300",
-        "financial_year": "2022",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "29394300",
-        "description": "CATHINE (INN) AND ITS SALTS (ALKALOIDS OF EPHEDRA AND THEIR DERIVATIVES; SALTS THEIR OF)",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "FINLAND",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 2,
           "country": "MEXICO",
           "values_usd": {
-            "y2023_2024": 0.87,
-            "y2024_2025": 2.01,
-            "pct_growth": 132.84
+            "y2023_2024": 2.97,
+            "y2024_2025": 1.38,
+            "pct_growth": -53.55
           },
           "values_quantity": {
-            "y2023_2024": 1000,
-            "y2024_2025": 2030,
-            "pct_growth": 103.0
-          }
-        },
-        {
-          "sno": 3,
-          "country": "SOUTH AFRICA",
-          "values_usd": {
-            "y2023_2024": 0.27,
-            "y2024_2025": 0.34,
-            "pct_growth": 26.81
-          },
-          "values_quantity": {
-            "y2023_2024": 400,
-            "y2024_2025": 500,
-            "pct_growth": 25.0
+            "y2023_2024": 4250,
+            "y2024_2025": 2000,
+            "pct_growth": -52.94
           }
         },
         {
           "sno": 4,
-          "country": "SWITZERLAND",
+          "country": "SAUDI ARAB",
           "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": 0.01,
-            "pct_growth": 5.05
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": 4,
-            "y2024_2025": 5,
-            "pct_growth": 25.0
+            "y2023_2024": null,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 5,
+          "country": "SOUTH AFRICA",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.34,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 500,
+            "pct_growth": null
           }
         }
       ],
       "totals": {
         "total": {
           "values_usd": {
-            "y2023_2024": 2.36,
-            "y2024_2025": 107.34,
+            "y2023_2024": 1.84,
+            "y2024_2025": -40.06,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 451070.0,
-            "y2024_2025": 6.89,
+            "y2023_2024": 330078.09,
+            "y2024_2025": 8.75,
             "pct_growth": null
           }
         },
         "pct_share": {
-          "y2023_2024": 0.0005,
+          "y2023_2024": 0.0006,
           "y2024_2025": null
         }
       }
     }
   },
   "metadata": {
-    "consolidated_at": "2026-01-26T20:19:43.347562",
+    "consolidated_at": "2026-01-26T21:39:01.078886",
     "trade_type": "export",
     "years_count": 7,
     "schema_version": "2.0"

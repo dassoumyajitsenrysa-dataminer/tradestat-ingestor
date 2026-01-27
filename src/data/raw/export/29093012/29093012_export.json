@@ -1,12 +1,12 @@
 {
   "hsn_code": "29093012",
   "years": {
-    "2022": {
+    "2023": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:17:16.002077",
+        "scraped_at": "2026-01-26T21:36:45.869669",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29093012",
-        "financial_year": "2022",
+        "financial_year": "2023",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -20,97 +20,125 @@
       "countries": [
         {
           "sno": 1,
-          "country": "AUSTRALIA",
+          "country": "AUSTRIA",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 600,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 2,
+          "country": "GERMANY",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 400,
+            "pct_growth": null
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.01,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 437072.03,
+            "y2024_2025": -3.1,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0,
+          "y2024_2025": null
+        }
+      }
+    },
+    "2024": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:36:46.259512",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "29093012",
+        "financial_year": "2024",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "29093012",
+        "description": "ORTHO NITRO ANISOLE",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "AUSTRIA",
           "values_usd": {
             "y2023_2024": 0.0,
             "y2024_2025": null,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": 114,
+            "y2023_2024": 600,
             "y2024_2025": null,
             "pct_growth": null
           }
         },
         {
           "sno": 2,
-          "country": "CHINA P RP",
+          "country": "GERMANY",
           "values_usd": {
-            "y2023_2024": 0.04,
+            "y2023_2024": 0.0,
             "y2024_2025": null,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": 7250,
+            "y2023_2024": 400,
             "y2024_2025": null,
             "pct_growth": null
           }
         },
         {
           "sno": 3,
-          "country": "JAPAN",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 800,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        }
-      ],
-      "totals": {
-        "total": {
+          "country": "RUSSIA",
           "values_usd": {
             "y2023_2024": null,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 451070.0,
-            "y2024_2025": 6.89,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": null,
-          "y2024_2025": null
-        }
-      }
-    },
-    "2020": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:17:16.144271",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "29093012",
-        "financial_year": "2020",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "29093012",
-        "description": "ORTHO NITRO ANISOLE",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "U K",
-          "values_usd": {
-            "y2023_2024": 0.0,
             "y2024_2025": 0.0,
-            "pct_growth": 235.9
+            "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": 15,
-            "y2024_2025": 50,
-            "pct_growth": 233.33
+            "y2023_2024": null,
+            "y2024_2025": 3,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 4,
+          "country": "U S A",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 20,
+            "pct_growth": null
           }
         }
       ],
@@ -118,14 +146,14 @@
         "total": {
           "values_usd": {
             "y2023_2024": 0.0,
-            "y2024_2025": 235.9,
+            "y2024_2025": -48.77,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 291808.48,
-            "y2024_2025": -6.88,
+            "y2023_2024": 437704.58,
+            "y2024_2025": 0.14,
             "pct_growth": null
           }
         },
@@ -137,7 +165,7 @@
     },
     "2018": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:17:16.270161",
+        "scraped_at": "2026-01-26T21:36:46.376007",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29093012",
         "financial_year": "2018",
@@ -260,7 +288,7 @@
     },
     "2021": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:17:16.333872",
+        "scraped_at": "2026-01-26T21:36:46.646946",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29093012",
         "financial_year": "2021",
@@ -355,7 +383,7 @@
     },
     "2019": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:17:16.348776",
+        "scraped_at": "2026-01-26T21:36:46.712059",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29093012",
         "financial_year": "2019",
@@ -448,12 +476,12 @@
         }
       }
     },
-    "2024": {
+    "2022": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:17:16.401723",
+        "scraped_at": "2026-01-26T21:36:46.792272",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29093012",
-        "financial_year": "2024",
+        "financial_year": "2022",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -467,57 +495,43 @@
       "countries": [
         {
           "sno": 1,
-          "country": "AUSTRIA",
+          "country": "AUSTRALIA",
           "values_usd": {
             "y2023_2024": 0.0,
             "y2024_2025": null,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": 600,
+            "y2023_2024": 114,
             "y2024_2025": null,
             "pct_growth": null
           }
         },
         {
           "sno": 2,
-          "country": "GERMANY",
+          "country": "CHINA P RP",
           "values_usd": {
-            "y2023_2024": 0.0,
+            "y2023_2024": 0.04,
             "y2024_2025": null,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": 400,
+            "y2023_2024": 7250,
             "y2024_2025": null,
             "pct_growth": null
           }
         },
         {
           "sno": 3,
-          "country": "RUSSIA",
+          "country": "JAPAN",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 3,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 4,
-          "country": "U S A",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 20,
+            "y2023_2024": 800,
+            "y2024_2025": null,
             "pct_growth": null
           }
         }
@@ -525,30 +539,30 @@
       "totals": {
         "total": {
           "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": -48.77,
+            "y2023_2024": null,
+            "y2024_2025": null,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 437704.58,
-            "y2024_2025": 0.14,
+            "y2023_2024": 451070.0,
+            "y2024_2025": 6.89,
             "pct_growth": null
           }
         },
         "pct_share": {
-          "y2023_2024": 0.0,
+          "y2023_2024": null,
           "y2024_2025": null
         }
       }
     },
-    "2023": {
+    "2020": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:17:16.406499",
+        "scraped_at": "2026-01-26T21:36:46.827180",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29093012",
-        "financial_year": "2023",
+        "financial_year": "2020",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -562,45 +576,31 @@
       "countries": [
         {
           "sno": 1,
-          "country": "AUSTRIA",
+          "country": "U K",
           "values_usd": {
-            "y2023_2024": null,
+            "y2023_2024": 0.0,
             "y2024_2025": 0.0,
-            "pct_growth": null
+            "pct_growth": 235.9
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 600,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 2,
-          "country": "GERMANY",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 400,
-            "pct_growth": null
+            "y2023_2024": 15,
+            "y2024_2025": 50,
+            "pct_growth": 233.33
           }
         }
       ],
       "totals": {
         "total": {
           "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": null,
+            "y2023_2024": 0.0,
+            "y2024_2025": 235.9,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 437072.03,
-            "y2024_2025": -3.1,
+            "y2023_2024": 291808.48,
+            "y2024_2025": -6.88,
             "pct_growth": null
           }
         },
@@ -612,7 +612,7 @@
     }
   },
   "metadata": {
-    "consolidated_at": "2026-01-26T20:17:16.425583",
+    "consolidated_at": "2026-01-26T21:36:46.914287",
     "trade_type": "export",
     "years_count": 7,
     "schema_version": "2.0"

@@ -3,7 +3,7 @@
   "years": {
     "2021": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:16:47.500156",
+        "scraped_at": "2026-01-26T21:36:19.328109",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29038200",
         "financial_year": "2021",
@@ -56,7 +56,7 @@
     },
     "2024": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:16:47.568539",
+        "scraped_at": "2026-01-26T21:36:19.408788",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29038200",
         "financial_year": "2024",
@@ -121,62 +121,9 @@
         }
       }
     },
-    "2020": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:16:47.588457",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "29038200",
-        "financial_year": "2020",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "29038200",
-        "description": "ALDRIN (ISO), CHLORDANE (ISO)",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "U S A",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 291808.48,
-            "y2024_2025": -6.88,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0,
-          "y2024_2025": null
-        }
-      }
-    },
     "2023": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:16:47.903930",
+        "scraped_at": "2026-01-26T21:36:19.467758",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29038200",
         "financial_year": "2023",
@@ -226,10 +173,63 @@
           "y2024_2025": null
         }
       }
+    },
+    "2020": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:36:19.679653",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "29038200",
+        "financial_year": "2020",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "29038200",
+        "description": "ALDRIN (ISO), CHLORDANE (ISO)",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "U S A",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 291808.48,
+            "y2024_2025": -6.88,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0,
+          "y2024_2025": null
+        }
+      }
     }
   },
   "metadata": {
-    "consolidated_at": "2026-01-26T20:16:48.161580",
+    "consolidated_at": "2026-01-26T21:36:19.721755",
     "trade_type": "export",
     "years_count": 4,
     "schema_version": "2.0"

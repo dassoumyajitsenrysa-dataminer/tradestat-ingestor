@@ -3,7 +3,7 @@
   "years": {
     "2024": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:11:55.151756",
+        "scraped_at": "2026-01-26T21:31:25.234471",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "12092400",
         "financial_year": "2024",
@@ -54,9 +54,62 @@
         }
       }
     },
+    "2020": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:31:25.811099",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "12092400",
+        "financial_year": "2020",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "12092400",
+        "description": "KENTUCKY BLUE GRASS (POA PRATENSIS L)     SEEDOF FORAGE PLANTS",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "NEPAL",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 3100,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 291808.48,
+            "y2024_2025": -6.88,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": null,
+          "y2024_2025": null
+        }
+      }
+    },
     "2018": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:11:55.335098",
+        "scraped_at": "2026-01-26T21:31:25.876998",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "12092400",
         "financial_year": "2018",
@@ -121,62 +174,9 @@
         }
       }
     },
-    "2020": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:11:55.351024",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "12092400",
-        "financial_year": "2020",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "12092400",
-        "description": "KENTUCKY BLUE GRASS (POA PRATENSIS L)     SEEDOF FORAGE PLANTS",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "NEPAL",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 3100,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 291808.48,
-            "y2024_2025": -6.88,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": null,
-          "y2024_2025": null
-        }
-      }
-    },
     "2019": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:11:55.373797",
+        "scraped_at": "2026-01-26T21:31:26.219702",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "12092400",
         "financial_year": "2019",
@@ -257,7 +257,7 @@
     }
   },
   "metadata": {
-    "consolidated_at": "2026-01-26T20:11:55.383698",
+    "consolidated_at": "2026-01-26T21:31:26.245734",
     "trade_type": "export",
     "years_count": 4,
     "schema_version": "2.0"

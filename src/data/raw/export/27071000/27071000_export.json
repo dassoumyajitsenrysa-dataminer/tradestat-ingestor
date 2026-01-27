@@ -1,12 +1,149 @@
 {
   "hsn_code": "27071000",
   "years": {
-    "2023": {
+    "2019": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:15:07.492288",
+        "scraped_at": "2026-01-26T21:34:40.212600",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "27071000",
-        "financial_year": "2023",
+        "financial_year": "2019",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "27071000",
+        "description": "BANZOLE (BENZENE)",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "CHILE",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 200,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 2,
+          "country": "CHINA P RP",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.34,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 797000,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 3,
+          "country": "FRANCE",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 12,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 4,
+          "country": "KOREA RP",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.35,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 796000,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 5,
+          "country": "NETHERLAND",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.67,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 1722000,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 6,
+          "country": "NIGERIA",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 12000,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 7,
+          "country": "U S A",
+          "values_usd": {
+            "y2023_2024": 4.59,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 5950000,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 1.35,
+            "y2024_2025": -70.56,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 313361.04,
+            "y2024_2025": -5.06,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0004,
+          "y2024_2025": null
+        }
+      }
+    },
+    "2024": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:34:40.662918",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "27071000",
+        "financial_year": "2024",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -22,55 +159,55 @@
           "sno": 1,
           "country": "BHUTAN",
           "values_usd": {
-            "y2023_2024": null,
+            "y2023_2024": 0.0,
             "y2024_2025": 0.0,
-            "pct_growth": null
+            "pct_growth": -64.84
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 30,
-            "pct_growth": null
+            "y2023_2024": 30,
+            "y2024_2025": 5,
+            "pct_growth": -83.33
           }
         },
         {
           "sno": 2,
           "country": "CHINA P RP",
           "values_usd": {
-            "y2023_2024": 1.61,
-            "y2024_2025": 7.92,
-            "pct_growth": 393.43
+            "y2023_2024": 7.92,
+            "y2024_2025": 3.05,
+            "pct_growth": -61.5
           },
           "values_quantity": {
-            "y2023_2024": 2413380,
-            "y2024_2025": 12664206,
-            "pct_growth": 424.75
+            "y2023_2024": 12664206,
+            "y2024_2025": 4328280,
+            "pct_growth": -65.82
           }
         },
         {
           "sno": 3,
           "country": "KOREA RP",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.6,
-            "pct_growth": null
+            "y2023_2024": 0.6,
+            "y2024_2025": 11.37,
+            "pct_growth": 1792.87
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 933000,
-            "pct_growth": null
+            "y2023_2024": 933000,
+            "y2024_2025": 16470810,
+            "pct_growth": 1665.36
           }
         },
         {
           "sno": 4,
           "country": "NEPAL",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 200,
+            "y2023_2024": 200,
+            "y2024_2025": null,
             "pct_growth": null
           }
         },
@@ -78,55 +215,41 @@
           "sno": 5,
           "country": "TAIWAN",
           "values_usd": {
-            "y2023_2024": 0.13,
-            "y2024_2025": 0.24,
-            "pct_growth": 86.29
+            "y2023_2024": 0.24,
+            "y2024_2025": 1.66,
+            "pct_growth": 585.88
           },
           "values_quantity": {
-            "y2023_2024": 199350,
-            "y2024_2025": 398240,
-            "pct_growth": 99.77
-          }
-        },
-        {
-          "sno": 6,
-          "country": "U S A",
-          "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 7080,
-            "y2024_2025": null,
-            "pct_growth": null
+            "y2023_2024": 398240,
+            "y2024_2025": 2344860,
+            "pct_growth": 488.81
           }
         }
       ],
       "totals": {
         "total": {
           "values_usd": {
-            "y2023_2024": 8.77,
-            "y2024_2025": 400.72,
+            "y2023_2024": 16.08,
+            "y2024_2025": 83.44,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 437072.03,
-            "y2024_2025": -3.1,
+            "y2023_2024": 437704.58,
+            "y2024_2025": 0.14,
             "pct_growth": null
           }
         },
         "pct_share": {
-          "y2023_2024": 0.002,
+          "y2023_2024": 0.0037,
           "y2024_2025": null
         }
       }
     },
     "2021": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:15:07.536480",
+        "scraped_at": "2026-01-26T21:34:40.683889",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "27071000",
         "financial_year": "2021",
@@ -289,364 +412,9 @@
         }
       }
     },
-    "2019": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:15:07.632721",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "27071000",
-        "financial_year": "2019",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "27071000",
-        "description": "BANZOLE (BENZENE)",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "CHILE",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 200,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 2,
-          "country": "CHINA P RP",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.34,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 797000,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 3,
-          "country": "FRANCE",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 12,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 4,
-          "country": "KOREA RP",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.35,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 796000,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 5,
-          "country": "NETHERLAND",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.67,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 1722000,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 6,
-          "country": "NIGERIA",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 12000,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 7,
-          "country": "U S A",
-          "values_usd": {
-            "y2023_2024": 4.59,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 5950000,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 1.35,
-            "y2024_2025": -70.56,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 313361.04,
-            "y2024_2025": -5.06,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0004,
-          "y2024_2025": null
-        }
-      }
-    },
-    "2020": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:15:07.650837",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "27071000",
-        "financial_year": "2020",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "27071000",
-        "description": "BANZOLE (BENZENE)",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "CHINA P RP",
-          "values_usd": {
-            "y2023_2024": 0.34,
-            "y2024_2025": 0.17,
-            "pct_growth": -50.0
-          },
-          "values_quantity": {
-            "y2023_2024": 797000,
-            "y2024_2025": 339000,
-            "pct_growth": -57.47
-          }
-        },
-        {
-          "sno": 2,
-          "country": "FRANCE",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 12,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 3,
-          "country": "KENYA",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 5,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 4,
-          "country": "KOREA RP",
-          "values_usd": {
-            "y2023_2024": 0.35,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 796000,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 5,
-          "country": "NETHERLAND",
-          "values_usd": {
-            "y2023_2024": 0.67,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 1722000,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.17,
-            "y2024_2025": -87.48,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 291808.48,
-            "y2024_2025": -6.88,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0001,
-          "y2024_2025": null
-        }
-      }
-    },
-    "2024": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:15:07.669331",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "27071000",
-        "financial_year": "2024",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "27071000",
-        "description": "BANZOLE (BENZENE)",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "BHUTAN",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.0,
-            "pct_growth": -64.84
-          },
-          "values_quantity": {
-            "y2023_2024": 30,
-            "y2024_2025": 5,
-            "pct_growth": -83.33
-          }
-        },
-        {
-          "sno": 2,
-          "country": "CHINA P RP",
-          "values_usd": {
-            "y2023_2024": 7.92,
-            "y2024_2025": 3.05,
-            "pct_growth": -61.5
-          },
-          "values_quantity": {
-            "y2023_2024": 12664206,
-            "y2024_2025": 4328280,
-            "pct_growth": -65.82
-          }
-        },
-        {
-          "sno": 3,
-          "country": "KOREA RP",
-          "values_usd": {
-            "y2023_2024": 0.6,
-            "y2024_2025": 11.37,
-            "pct_growth": 1792.87
-          },
-          "values_quantity": {
-            "y2023_2024": 933000,
-            "y2024_2025": 16470810,
-            "pct_growth": 1665.36
-          }
-        },
-        {
-          "sno": 4,
-          "country": "NEPAL",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 200,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 5,
-          "country": "TAIWAN",
-          "values_usd": {
-            "y2023_2024": 0.24,
-            "y2024_2025": 1.66,
-            "pct_growth": 585.88
-          },
-          "values_quantity": {
-            "y2023_2024": 398240,
-            "y2024_2025": 2344860,
-            "pct_growth": 488.81
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 16.08,
-            "y2024_2025": 83.44,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 437704.58,
-            "y2024_2025": 0.14,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0037,
-          "y2024_2025": null
-        }
-      }
-    },
     "2018": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:15:07.708121",
+        "scraped_at": "2026-01-26T21:34:40.754898",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "27071000",
         "financial_year": "2018",
@@ -767,9 +535,241 @@
         }
       }
     },
+    "2020": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:34:41.004331",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "27071000",
+        "financial_year": "2020",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "27071000",
+        "description": "BANZOLE (BENZENE)",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "CHINA P RP",
+          "values_usd": {
+            "y2023_2024": 0.34,
+            "y2024_2025": 0.17,
+            "pct_growth": -50.0
+          },
+          "values_quantity": {
+            "y2023_2024": 797000,
+            "y2024_2025": 339000,
+            "pct_growth": -57.47
+          }
+        },
+        {
+          "sno": 2,
+          "country": "FRANCE",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 12,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 3,
+          "country": "KENYA",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 5,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 4,
+          "country": "KOREA RP",
+          "values_usd": {
+            "y2023_2024": 0.35,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 796000,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 5,
+          "country": "NETHERLAND",
+          "values_usd": {
+            "y2023_2024": 0.67,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 1722000,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.17,
+            "y2024_2025": -87.48,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 291808.48,
+            "y2024_2025": -6.88,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0001,
+          "y2024_2025": null
+        }
+      }
+    },
+    "2023": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:34:41.071190",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "27071000",
+        "financial_year": "2023",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "27071000",
+        "description": "BANZOLE (BENZENE)",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "BHUTAN",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 30,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 2,
+          "country": "CHINA P RP",
+          "values_usd": {
+            "y2023_2024": 1.61,
+            "y2024_2025": 7.92,
+            "pct_growth": 393.43
+          },
+          "values_quantity": {
+            "y2023_2024": 2413380,
+            "y2024_2025": 12664206,
+            "pct_growth": 424.75
+          }
+        },
+        {
+          "sno": 3,
+          "country": "KOREA RP",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.6,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 933000,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 4,
+          "country": "NEPAL",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 200,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 5,
+          "country": "TAIWAN",
+          "values_usd": {
+            "y2023_2024": 0.13,
+            "y2024_2025": 0.24,
+            "pct_growth": 86.29
+          },
+          "values_quantity": {
+            "y2023_2024": 199350,
+            "y2024_2025": 398240,
+            "pct_growth": 99.77
+          }
+        },
+        {
+          "sno": 6,
+          "country": "U S A",
+          "values_usd": {
+            "y2023_2024": 0.01,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 7080,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 8.77,
+            "y2024_2025": 400.72,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 437072.03,
+            "y2024_2025": -3.1,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.002,
+          "y2024_2025": null
+        }
+      }
+    },
     "2022": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:15:07.722967",
+        "scraped_at": "2026-01-26T21:34:41.165433",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "27071000",
         "financial_year": "2022",
@@ -934,7 +934,7 @@
     }
   },
   "metadata": {
-    "consolidated_at": "2026-01-26T20:15:07.732721",
+    "consolidated_at": "2026-01-26T21:34:41.238110",
     "trade_type": "export",
     "years_count": 7,
     "schema_version": "2.0"

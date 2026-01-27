@@ -1,9 +1,143 @@
 {
   "hsn_code": "23062010",
   "years": {
+    "2020": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:33:28.001194",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "23062010",
+        "financial_year": "2020",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "23062010",
+        "description": "OILCAKE AND OIL-CAKE MEAL OF LINSEED        EXPELLER VARIETY",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "BANGLADESH PR",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.02,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 40000,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 2,
+          "country": "BHUTAN",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.01,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 16005,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 3,
+          "country": "U S A",
+          "values_usd": {
+            "y2023_2024": 0.06,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 105000,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.03,
+            "y2024_2025": -53.06,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 291808.48,
+            "y2024_2025": -6.88,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0,
+          "y2024_2025": null
+        }
+      }
+    },
+    "2024": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:33:28.166800",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "23062010",
+        "financial_year": "2024",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "23062010",
+        "description": "OILCAKE AND OIL-CAKE MEAL OF LINSEED        EXPELLER VARIETY",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "BANGLADESH PR",
+          "values_usd": {
+            "y2023_2024": 0.2,
+            "y2024_2025": 0.08,
+            "pct_growth": -57.32
+          },
+          "values_quantity": {
+            "y2023_2024": 472895,
+            "y2024_2025": 164250,
+            "pct_growth": -65.27
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.08,
+            "y2024_2025": -57.32,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 437704.58,
+            "y2024_2025": 0.14,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0,
+          "y2024_2025": null
+        }
+      }
+    },
     "2018": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:13:53.485482",
+        "scraped_at": "2026-01-26T21:33:28.158313",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "23062010",
         "financial_year": "2018",
@@ -68,210 +202,9 @@
         }
       }
     },
-    "2022": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:13:53.524040",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "23062010",
-        "financial_year": "2022",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "23062010",
-        "description": "OILCAKE AND OIL-CAKE MEAL OF LINSEED        EXPELLER VARIETY",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "BANGLADESH PR",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.64,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 1150395,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 2,
-          "country": "BHUTAN",
-          "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": 0.0,
-            "pct_growth": -28.16
-          },
-          "values_quantity": {
-            "y2023_2024": 13925,
-            "y2024_2025": 10040,
-            "pct_growth": -27.9
-          }
-        },
-        {
-          "sno": 3,
-          "country": "NEPAL",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 25190,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.64,
-            "y2024_2025": 6320.12,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 451070.0,
-            "y2024_2025": 6.89,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0001,
-          "y2024_2025": null
-        }
-      }
-    },
-    "2024": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:13:53.611548",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "23062010",
-        "financial_year": "2024",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "23062010",
-        "description": "OILCAKE AND OIL-CAKE MEAL OF LINSEED        EXPELLER VARIETY",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "BANGLADESH PR",
-          "values_usd": {
-            "y2023_2024": 0.2,
-            "y2024_2025": 0.08,
-            "pct_growth": -57.32
-          },
-          "values_quantity": {
-            "y2023_2024": 472895,
-            "y2024_2025": 164250,
-            "pct_growth": -65.27
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.08,
-            "y2024_2025": -57.32,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 437704.58,
-            "y2024_2025": 0.14,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0,
-          "y2024_2025": null
-        }
-      }
-    },
-    "2023": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:13:53.604962",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "23062010",
-        "financial_year": "2023",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "23062010",
-        "description": "OILCAKE AND OIL-CAKE MEAL OF LINSEED        EXPELLER VARIETY",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "BANGLADESH PR",
-          "values_usd": {
-            "y2023_2024": 0.64,
-            "y2024_2025": 0.2,
-            "pct_growth": -69.19
-          },
-          "values_quantity": {
-            "y2023_2024": 1150395,
-            "y2024_2025": 472895,
-            "pct_growth": -58.89
-          }
-        },
-        {
-          "sno": 2,
-          "country": "BHUTAN",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 10040,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.2,
-            "y2024_2025": -69.41,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 437072.03,
-            "y2024_2025": -3.1,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0,
-          "y2024_2025": null
-        }
-      }
-    },
     "2019": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:13:53.723276",
+        "scraped_at": "2026-01-26T21:33:28.268527",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "23062010",
         "financial_year": "2019",
@@ -350,9 +283,76 @@
         }
       }
     },
+    "2023": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:33:28.310524",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "23062010",
+        "financial_year": "2023",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "23062010",
+        "description": "OILCAKE AND OIL-CAKE MEAL OF LINSEED        EXPELLER VARIETY",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "BANGLADESH PR",
+          "values_usd": {
+            "y2023_2024": 0.64,
+            "y2024_2025": 0.2,
+            "pct_growth": -69.19
+          },
+          "values_quantity": {
+            "y2023_2024": 1150395,
+            "y2024_2025": 472895,
+            "pct_growth": -58.89
+          }
+        },
+        {
+          "sno": 2,
+          "country": "BHUTAN",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 10040,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.2,
+            "y2024_2025": -69.41,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 437072.03,
+            "y2024_2025": -3.1,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0,
+          "y2024_2025": null
+        }
+      }
+    },
     "2021": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:13:53.760316",
+        "scraped_at": "2026-01-26T21:33:28.459770",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "23062010",
         "financial_year": "2021",
@@ -431,12 +431,12 @@
         }
       }
     },
-    "2020": {
+    "2022": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:13:53.743583",
+        "scraped_at": "2026-01-26T21:33:28.474229",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "23062010",
-        "financial_year": "2020",
+        "financial_year": "2022",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -453,12 +453,12 @@
           "country": "BANGLADESH PR",
           "values_usd": {
             "y2023_2024": null,
-            "y2024_2025": 0.02,
+            "y2024_2025": 0.64,
             "pct_growth": null
           },
           "values_quantity": {
             "y2023_2024": null,
-            "y2024_2025": 40000,
+            "y2024_2025": 1150395,
             "pct_growth": null
           }
         },
@@ -466,26 +466,26 @@
           "sno": 2,
           "country": "BHUTAN",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.01,
-            "pct_growth": null
+            "y2023_2024": 0.01,
+            "y2024_2025": 0.0,
+            "pct_growth": -28.16
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 16005,
-            "pct_growth": null
+            "y2023_2024": 13925,
+            "y2024_2025": 10040,
+            "pct_growth": -27.9
           }
         },
         {
           "sno": 3,
-          "country": "U S A",
+          "country": "NEPAL",
           "values_usd": {
-            "y2023_2024": 0.06,
+            "y2023_2024": 0.0,
             "y2024_2025": null,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": 105000,
+            "y2023_2024": 25190,
             "y2024_2025": null,
             "pct_growth": null
           }
@@ -494,27 +494,27 @@
       "totals": {
         "total": {
           "values_usd": {
-            "y2023_2024": 0.03,
-            "y2024_2025": -53.06,
+            "y2023_2024": 0.64,
+            "y2024_2025": 6320.12,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 291808.48,
-            "y2024_2025": -6.88,
+            "y2023_2024": 451070.0,
+            "y2024_2025": 6.89,
             "pct_growth": null
           }
         },
         "pct_share": {
-          "y2023_2024": 0.0,
+          "y2023_2024": 0.0001,
           "y2024_2025": null
         }
       }
     }
   },
   "metadata": {
-    "consolidated_at": "2026-01-26T20:13:53.799711",
+    "consolidated_at": "2026-01-26T21:33:28.478984",
     "trade_type": "export",
     "years_count": 7,
     "schema_version": "2.0"

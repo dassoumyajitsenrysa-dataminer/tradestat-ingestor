@@ -1,12 +1,12 @@
 {
   "hsn_code": "32041932",
   "years": {
-    "2022": {
+    "2023": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:22:22.573701",
+        "scraped_at": "2026-01-26T21:41:04.227946",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "32041932",
-        "financial_year": "2022",
+        "financial_year": "2023",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -22,36 +22,8 @@
           "sno": 1,
           "country": "BANGLADESH PR",
           "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 500,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 2,
-          "country": "BRAZIL",
-          "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": 0.02,
-            "pct_growth": 112.07
-          },
-          "values_quantity": {
-            "y2023_2024": 1200,
-            "y2024_2025": 2000,
-            "pct_growth": 66.67
-          }
-        },
-        {
-          "sno": 3,
-          "country": "CHINA P RP",
-          "values_usd": {
             "y2023_2024": null,
-            "y2024_2025": 0.01,
+            "y2024_2025": 0.0,
             "pct_growth": null
           },
           "values_quantity": {
@@ -61,60 +33,116 @@
           }
         },
         {
+          "sno": 2,
+          "country": "BRAZIL",
+          "values_usd": {
+            "y2023_2024": 0.02,
+            "y2024_2025": 0.03,
+            "pct_growth": 28.99
+          },
+          "values_quantity": {
+            "y2023_2024": 2000,
+            "y2024_2025": 3500,
+            "pct_growth": 75.0
+          }
+        },
+        {
+          "sno": 3,
+          "country": "CHINA P RP",
+          "values_usd": {
+            "y2023_2024": 0.01,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 1000,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
           "sno": 4,
           "country": "GHANA",
           "values_usd": {
-            "y2023_2024": 0.01,
+            "y2023_2024": 0.0,
             "y2024_2025": 0.0,
-            "pct_growth": -89.74
+            "pct_growth": 7.1
           },
           "values_quantity": {
-            "y2023_2024": 2300,
-            "y2024_2025": 200,
-            "pct_growth": -91.3
+            "y2023_2024": 200,
+            "y2024_2025": 300,
+            "pct_growth": 50.0
           }
         },
         {
           "sno": 5,
           "country": "INDONESIA",
           "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": null,
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": 1300,
-            "y2024_2025": null,
+            "y2023_2024": null,
+            "y2024_2025": 1120,
             "pct_growth": null
           }
         },
         {
           "sno": 6,
-          "country": "MYANMAR",
+          "country": "MALAYSIA",
           "values_usd": {
-            "y2023_2024": 0.04,
-            "y2024_2025": 0.01,
-            "pct_growth": -63.89
+            "y2023_2024": null,
+            "y2024_2025": 0.02,
+            "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": 4500,
-            "y2024_2025": 1500,
-            "pct_growth": -66.67
+            "y2023_2024": null,
+            "y2024_2025": 2500,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 7,
+          "country": "MYANMAR",
+          "values_usd": {
+            "y2023_2024": 0.01,
+            "y2024_2025": 0.0,
+            "pct_growth": -67.22
+          },
+          "values_quantity": {
+            "y2023_2024": 1500,
+            "y2024_2025": 1000,
+            "pct_growth": -33.33
+          }
+        },
+        {
+          "sno": 8,
+          "country": "THAILAND",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.01,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 4000,
+            "pct_growth": null
           }
         }
       ],
       "totals": {
         "total": {
           "values_usd": {
-            "y2023_2024": 0.04,
-            "y2024_2025": -30.35,
+            "y2023_2024": 0.08,
+            "y2024_2025": 68.42,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 451070.0,
-            "y2024_2025": 6.89,
+            "y2023_2024": 437072.03,
+            "y2024_2025": -3.1,
             "pct_growth": null
           }
         },
@@ -126,7 +154,7 @@
     },
     "2018": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:22:23.046609",
+        "scraped_at": "2026-01-26T21:41:04.302525",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "32041932",
         "financial_year": "2018",
@@ -219,9 +247,241 @@
         }
       }
     },
+    "2020": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:41:04.591739",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "32041932",
+        "financial_year": "2020",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "32041932",
+        "description": "AZOIC DIAZO COMPNT 2(FST ORNG G/GC BASE)",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "BANGLADESH PR",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.0,
+            "pct_growth": 162.07
+          },
+          "values_quantity": {
+            "y2023_2024": 1505,
+            "y2024_2025": 980,
+            "pct_growth": -34.88
+          }
+        },
+        {
+          "sno": 2,
+          "country": "BRAZIL",
+          "values_usd": {
+            "y2023_2024": 0.02,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 2500,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 3,
+          "country": "GHANA",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.01,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 1300,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 4,
+          "country": "INDONESIA",
+          "values_usd": {
+            "y2023_2024": 0.03,
+            "y2024_2025": 0.01,
+            "pct_growth": -80.88
+          },
+          "values_quantity": {
+            "y2023_2024": 5400,
+            "y2024_2025": 1000,
+            "pct_growth": -81.48
+          }
+        },
+        {
+          "sno": 5,
+          "country": "MYANMAR",
+          "values_usd": {
+            "y2023_2024": 0.03,
+            "y2024_2025": 0.09,
+            "pct_growth": 192.99
+          },
+          "values_quantity": {
+            "y2023_2024": 5550,
+            "y2024_2025": 11550,
+            "pct_growth": 108.11
+          }
+        },
+        {
+          "sno": 6,
+          "country": "U K",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 500,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.1,
+            "y2024_2025": 18.03,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 291808.48,
+            "y2024_2025": -6.88,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0,
+          "y2024_2025": null
+        }
+      }
+    },
+    "2019": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:41:04.657352",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "32041932",
+        "financial_year": "2019",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "32041932",
+        "description": "AZOIC DIAZO COMPNT 2(FST ORNG G/GC BASE)",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "BANGLADESH PR",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 1505,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 2,
+          "country": "BRAZIL",
+          "values_usd": {
+            "y2023_2024": 0.02,
+            "y2024_2025": 0.02,
+            "pct_growth": 23.06
+          },
+          "values_quantity": {
+            "y2023_2024": 2000,
+            "y2024_2025": 2500,
+            "pct_growth": 25.0
+          }
+        },
+        {
+          "sno": 3,
+          "country": "INDONESIA",
+          "values_usd": {
+            "y2023_2024": 0.01,
+            "y2024_2025": 0.03,
+            "pct_growth": 120.07
+          },
+          "values_quantity": {
+            "y2023_2024": 2475,
+            "y2024_2025": 5400,
+            "pct_growth": 118.18
+          }
+        },
+        {
+          "sno": 4,
+          "country": "MYANMAR",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.03,
+            "pct_growth": 537.08
+          },
+          "values_quantity": {
+            "y2023_2024": 1000,
+            "y2024_2025": 5550,
+            "pct_growth": 455.0
+          }
+        },
+        {
+          "sno": 5,
+          "country": "U K",
+          "values_usd": {
+            "y2023_2024": 0.03,
+            "y2024_2025": 0.0,
+            "pct_growth": -88.83
+          },
+          "values_quantity": {
+            "y2023_2024": 4500,
+            "y2024_2025": 500,
+            "pct_growth": -88.89
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.09,
+            "y2024_2025": 22.4,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 313361.04,
+            "y2024_2025": -5.06,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0,
+          "y2024_2025": null
+        }
+      }
+    },
     "2024": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:22:23.067655",
+        "scraped_at": "2026-01-26T21:41:04.868585",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "32041932",
         "financial_year": "2024",
@@ -384,12 +644,12 @@
         }
       }
     },
-    "2020": {
+    "2022": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:22:23.053075",
+        "scraped_at": "2026-01-26T21:41:04.928199",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "32041932",
-        "financial_year": "2020",
+        "financial_year": "2022",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -404,76 +664,6 @@
         {
           "sno": 1,
           "country": "BANGLADESH PR",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.0,
-            "pct_growth": 162.07
-          },
-          "values_quantity": {
-            "y2023_2024": 1505,
-            "y2024_2025": 980,
-            "pct_growth": -34.88
-          }
-        },
-        {
-          "sno": 2,
-          "country": "BRAZIL",
-          "values_usd": {
-            "y2023_2024": 0.02,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 2500,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 3,
-          "country": "GHANA",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.01,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 1300,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 4,
-          "country": "INDONESIA",
-          "values_usd": {
-            "y2023_2024": 0.03,
-            "y2024_2025": 0.01,
-            "pct_growth": -80.88
-          },
-          "values_quantity": {
-            "y2023_2024": 5400,
-            "y2024_2025": 1000,
-            "pct_growth": -81.48
-          }
-        },
-        {
-          "sno": 5,
-          "country": "MYANMAR",
-          "values_usd": {
-            "y2023_2024": 0.03,
-            "y2024_2025": 0.09,
-            "pct_growth": 192.99
-          },
-          "values_quantity": {
-            "y2023_2024": 5550,
-            "y2024_2025": 11550,
-            "pct_growth": 108.11
-          }
-        },
-        {
-          "sno": 6,
-          "country": "U K",
           "values_usd": {
             "y2023_2024": 0.0,
             "y2024_2025": null,
@@ -484,129 +674,90 @@
             "y2024_2025": null,
             "pct_growth": null
           }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.1,
-            "y2024_2025": 18.03,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 291808.48,
-            "y2024_2025": -6.88,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0,
-          "y2024_2025": null
-        }
-      }
-    },
-    "2019": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:22:23.184972",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "32041932",
-        "financial_year": "2019",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "32041932",
-        "description": "AZOIC DIAZO COMPNT 2(FST ORNG G/GC BASE)",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "BANGLADESH PR",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 1505,
-            "pct_growth": null
-          }
         },
         {
           "sno": 2,
           "country": "BRAZIL",
           "values_usd": {
-            "y2023_2024": 0.02,
+            "y2023_2024": 0.01,
             "y2024_2025": 0.02,
-            "pct_growth": 23.06
+            "pct_growth": 112.07
           },
           "values_quantity": {
-            "y2023_2024": 2000,
-            "y2024_2025": 2500,
-            "pct_growth": 25.0
+            "y2023_2024": 1200,
+            "y2024_2025": 2000,
+            "pct_growth": 66.67
           }
         },
         {
           "sno": 3,
-          "country": "INDONESIA",
+          "country": "CHINA P RP",
           "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": 0.03,
-            "pct_growth": 120.07
+            "y2023_2024": null,
+            "y2024_2025": 0.01,
+            "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": 2475,
-            "y2024_2025": 5400,
-            "pct_growth": 118.18
+            "y2023_2024": null,
+            "y2024_2025": 1000,
+            "pct_growth": null
           }
         },
         {
           "sno": 4,
-          "country": "MYANMAR",
+          "country": "GHANA",
           "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.03,
-            "pct_growth": 537.08
+            "y2023_2024": 0.01,
+            "y2024_2025": 0.0,
+            "pct_growth": -89.74
           },
           "values_quantity": {
-            "y2023_2024": 1000,
-            "y2024_2025": 5550,
-            "pct_growth": 455.0
+            "y2023_2024": 2300,
+            "y2024_2025": 200,
+            "pct_growth": -91.3
           }
         },
         {
           "sno": 5,
-          "country": "U K",
+          "country": "INDONESIA",
           "values_usd": {
-            "y2023_2024": 0.03,
-            "y2024_2025": 0.0,
-            "pct_growth": -88.83
+            "y2023_2024": 0.01,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 1300,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 6,
+          "country": "MYANMAR",
+          "values_usd": {
+            "y2023_2024": 0.04,
+            "y2024_2025": 0.01,
+            "pct_growth": -63.89
           },
           "values_quantity": {
             "y2023_2024": 4500,
-            "y2024_2025": 500,
-            "pct_growth": -88.89
+            "y2024_2025": 1500,
+            "pct_growth": -66.67
           }
         }
       ],
       "totals": {
         "total": {
           "values_usd": {
-            "y2023_2024": 0.09,
-            "y2024_2025": 22.4,
+            "y2023_2024": 0.04,
+            "y2024_2025": -30.35,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 313361.04,
-            "y2024_2025": -5.06,
+            "y2023_2024": 451070.0,
+            "y2024_2025": 6.89,
             "pct_growth": null
           }
         },
@@ -618,7 +769,7 @@
     },
     "2021": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:22:23.221616",
+        "scraped_at": "2026-01-26T21:41:04.902388",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "32041932",
         "financial_year": "2021",
@@ -724,161 +875,10 @@
           "y2024_2025": null
         }
       }
-    },
-    "2023": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:22:23.286419",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "32041932",
-        "financial_year": "2023",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "32041932",
-        "description": "AZOIC DIAZO COMPNT 2(FST ORNG G/GC BASE)",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "BANGLADESH PR",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 1000,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 2,
-          "country": "BRAZIL",
-          "values_usd": {
-            "y2023_2024": 0.02,
-            "y2024_2025": 0.03,
-            "pct_growth": 28.99
-          },
-          "values_quantity": {
-            "y2023_2024": 2000,
-            "y2024_2025": 3500,
-            "pct_growth": 75.0
-          }
-        },
-        {
-          "sno": 3,
-          "country": "CHINA P RP",
-          "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 1000,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 4,
-          "country": "GHANA",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.0,
-            "pct_growth": 7.1
-          },
-          "values_quantity": {
-            "y2023_2024": 200,
-            "y2024_2025": 300,
-            "pct_growth": 50.0
-          }
-        },
-        {
-          "sno": 5,
-          "country": "INDONESIA",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 1120,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 6,
-          "country": "MALAYSIA",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.02,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 2500,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 7,
-          "country": "MYANMAR",
-          "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": 0.0,
-            "pct_growth": -67.22
-          },
-          "values_quantity": {
-            "y2023_2024": 1500,
-            "y2024_2025": 1000,
-            "pct_growth": -33.33
-          }
-        },
-        {
-          "sno": 8,
-          "country": "THAILAND",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.01,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 4000,
-            "pct_growth": null
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.08,
-            "y2024_2025": 68.42,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 437072.03,
-            "y2024_2025": -3.1,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0,
-          "y2024_2025": null
-        }
-      }
     }
   },
   "metadata": {
-    "consolidated_at": "2026-01-26T20:22:23.337831",
+    "consolidated_at": "2026-01-26T21:41:05.020402",
     "trade_type": "export",
     "years_count": 7,
     "schema_version": "2.0"

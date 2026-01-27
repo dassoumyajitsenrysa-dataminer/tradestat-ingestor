@@ -3,7 +3,7 @@
   "years": {
     "2022": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:11:56.767593",
+        "scraped_at": "2026-01-26T21:31:28.544109",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "12102000",
         "financial_year": "2022",
@@ -138,107 +138,12 @@
         }
       }
     },
-    "2019": {
+    "2024": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:11:56.886163",
+        "scraped_at": "2026-01-26T21:31:28.746488",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "12102000",
-        "financial_year": "2019",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "12102000",
-        "description": "HOP CONS FRSH/DRID GRND PWDRD/PELETS LUPLN",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "BANGLADESH PR",
-          "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": 0.0,
-            "pct_growth": -46.44
-          },
-          "values_quantity": {
-            "y2023_2024": 1060,
-            "y2024_2025": 70,
-            "pct_growth": -93.4
-          }
-        },
-        {
-          "sno": 2,
-          "country": "BHUTAN",
-          "values_usd": {
-            "y2023_2024": 0.18,
-            "y2024_2025": 0.22,
-            "pct_growth": 20.51
-          },
-          "values_quantity": {
-            "y2023_2024": 4911,
-            "y2024_2025": 5138,
-            "pct_growth": 4.62
-          }
-        },
-        {
-          "sno": 3,
-          "country": "CZECH REPUBLIC",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 25,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 4,
-          "country": "NEPAL",
-          "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": 0.0,
-            "pct_growth": -48.05
-          },
-          "values_quantity": {
-            "y2023_2024": 290,
-            "y2024_2025": 157,
-            "pct_growth": -45.86
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.22,
-            "y2024_2025": 16.33,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 313361.04,
-            "y2024_2025": -5.06,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0001,
-          "y2024_2025": null
-        }
-      }
-    },
-    "2018": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:11:56.935368",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "12102000",
-        "financial_year": "2018",
+        "financial_year": "2024",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -260,7 +165,7 @@
           },
           "values_quantity": {
             "y2023_2024": null,
-            "y2024_2025": 1060,
+            "y2024_2025": 600,
             "pct_growth": null
           }
         },
@@ -268,19 +173,33 @@
           "sno": 2,
           "country": "BHUTAN",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.18,
-            "pct_growth": null
+            "y2023_2024": 0.09,
+            "y2024_2025": 0.04,
+            "pct_growth": -53.24
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 4911,
-            "pct_growth": null
+            "y2023_2024": 2900,
+            "y2024_2025": 1795,
+            "pct_growth": -38.1
           }
         },
         {
           "sno": 3,
-          "country": "CZECH REPUBLIC",
+          "country": "NEPAL",
+          "values_usd": {
+            "y2023_2024": 0.01,
+            "y2024_2025": 0.02,
+            "pct_growth": 69.76
+          },
+          "values_quantity": {
+            "y2023_2024": 630,
+            "y2024_2025": 1080,
+            "pct_growth": 71.43
+          }
+        },
+        {
+          "sno": 4,
+          "country": "RUSSIA",
           "values_usd": {
             "y2023_2024": null,
             "y2024_2025": 0.0,
@@ -288,22 +207,22 @@
           },
           "values_quantity": {
             "y2023_2024": null,
-            "y2024_2025": 25,
+            "y2024_2025": 5,
             "pct_growth": null
           }
         },
         {
-          "sno": 4,
-          "country": "NEPAL",
+          "sno": 5,
+          "country": "SRI LANKA DSR",
           "values_usd": {
-            "y2023_2024": 0.04,
-            "y2024_2025": 0.01,
-            "pct_growth": -84.81
+            "y2023_2024": 0.26,
+            "y2024_2025": 0.12,
+            "pct_growth": -54.03
           },
           "values_quantity": {
-            "y2023_2024": 1520,
-            "y2024_2025": 290,
-            "pct_growth": -80.92
+            "y2023_2024": 15000,
+            "y2024_2025": 7500,
+            "pct_growth": -50.0
           }
         }
       ],
@@ -311,26 +230,26 @@
         "total": {
           "values_usd": {
             "y2023_2024": 0.19,
-            "y2024_2025": 419.66,
+            "y2024_2025": -47.6,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 330078.09,
-            "y2024_2025": 8.75,
+            "y2023_2024": 437704.58,
+            "y2024_2025": 0.14,
             "pct_growth": null
           }
         },
         "pct_share": {
-          "y2023_2024": 0.0001,
+          "y2023_2024": 0.0,
           "y2024_2025": null
         }
       }
     },
     "2021": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:11:56.925917",
+        "scraped_at": "2026-01-26T21:31:28.830659",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "12102000",
         "financial_year": "2021",
@@ -451,118 +370,9 @@
         }
       }
     },
-    "2024": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:11:56.898325",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "12102000",
-        "financial_year": "2024",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "12102000",
-        "description": "HOP CONS FRSH/DRID GRND PWDRD/PELETS LUPLN",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "BANGLADESH PR",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.01,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 600,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 2,
-          "country": "BHUTAN",
-          "values_usd": {
-            "y2023_2024": 0.09,
-            "y2024_2025": 0.04,
-            "pct_growth": -53.24
-          },
-          "values_quantity": {
-            "y2023_2024": 2900,
-            "y2024_2025": 1795,
-            "pct_growth": -38.1
-          }
-        },
-        {
-          "sno": 3,
-          "country": "NEPAL",
-          "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": 0.02,
-            "pct_growth": 69.76
-          },
-          "values_quantity": {
-            "y2023_2024": 630,
-            "y2024_2025": 1080,
-            "pct_growth": 71.43
-          }
-        },
-        {
-          "sno": 4,
-          "country": "RUSSIA",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 5,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 5,
-          "country": "SRI LANKA DSR",
-          "values_usd": {
-            "y2023_2024": 0.26,
-            "y2024_2025": 0.12,
-            "pct_growth": -54.03
-          },
-          "values_quantity": {
-            "y2023_2024": 15000,
-            "y2024_2025": 7500,
-            "pct_growth": -50.0
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.19,
-            "y2024_2025": -47.6,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 437704.58,
-            "y2024_2025": 0.14,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0,
-          "y2024_2025": null
-        }
-      }
-    },
     "2023": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:11:56.943577",
+        "scraped_at": "2026-01-26T21:31:28.832340",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "12102000",
         "financial_year": "2023",
@@ -671,7 +481,7 @@
     },
     "2020": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:11:56.955508",
+        "scraped_at": "2026-01-26T21:31:28.875308",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "12102000",
         "financial_year": "2020",
@@ -763,10 +573,200 @@
           "y2024_2025": null
         }
       }
+    },
+    "2019": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:31:29.082420",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "12102000",
+        "financial_year": "2019",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "12102000",
+        "description": "HOP CONS FRSH/DRID GRND PWDRD/PELETS LUPLN",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "BANGLADESH PR",
+          "values_usd": {
+            "y2023_2024": 0.01,
+            "y2024_2025": 0.0,
+            "pct_growth": -46.44
+          },
+          "values_quantity": {
+            "y2023_2024": 1060,
+            "y2024_2025": 70,
+            "pct_growth": -93.4
+          }
+        },
+        {
+          "sno": 2,
+          "country": "BHUTAN",
+          "values_usd": {
+            "y2023_2024": 0.18,
+            "y2024_2025": 0.22,
+            "pct_growth": 20.51
+          },
+          "values_quantity": {
+            "y2023_2024": 4911,
+            "y2024_2025": 5138,
+            "pct_growth": 4.62
+          }
+        },
+        {
+          "sno": 3,
+          "country": "CZECH REPUBLIC",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 25,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 4,
+          "country": "NEPAL",
+          "values_usd": {
+            "y2023_2024": 0.01,
+            "y2024_2025": 0.0,
+            "pct_growth": -48.05
+          },
+          "values_quantity": {
+            "y2023_2024": 290,
+            "y2024_2025": 157,
+            "pct_growth": -45.86
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.22,
+            "y2024_2025": 16.33,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 313361.04,
+            "y2024_2025": -5.06,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0001,
+          "y2024_2025": null
+        }
+      }
+    },
+    "2018": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:31:30.046379",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "12102000",
+        "financial_year": "2018",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "12102000",
+        "description": "HOP CONS FRSH/DRID GRND PWDRD/PELETS LUPLN",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "BANGLADESH PR",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.01,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 1060,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 2,
+          "country": "BHUTAN",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.18,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 4911,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 3,
+          "country": "CZECH REPUBLIC",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 25,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 4,
+          "country": "NEPAL",
+          "values_usd": {
+            "y2023_2024": 0.04,
+            "y2024_2025": 0.01,
+            "pct_growth": -84.81
+          },
+          "values_quantity": {
+            "y2023_2024": 1520,
+            "y2024_2025": 290,
+            "pct_growth": -80.92
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.19,
+            "y2024_2025": 419.66,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 330078.09,
+            "y2024_2025": 8.75,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0001,
+          "y2024_2025": null
+        }
+      }
     }
   },
   "metadata": {
-    "consolidated_at": "2026-01-26T20:11:56.964312",
+    "consolidated_at": "2026-01-26T21:31:30.169158",
     "trade_type": "export",
     "years_count": 7,
     "schema_version": "2.0"

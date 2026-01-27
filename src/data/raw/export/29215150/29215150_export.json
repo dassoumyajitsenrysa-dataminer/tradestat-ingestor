@@ -1,9 +1,76 @@
 {
   "hsn_code": "29215150",
   "years": {
+    "2019": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:37:57.845117",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "29215150",
+        "financial_year": "2019",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "29215150",
+        "description": "M-DIAMINOTOLUENE",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "U S A",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 2,
+          "country": "VIETNAM SOC REP",
+          "values_usd": {
+            "y2023_2024": 0.01,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 1400,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": -98.23,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 313361.04,
+            "y2024_2025": -5.06,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0,
+          "y2024_2025": null
+        }
+      }
+    },
     "2024": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:18:34.899461",
+        "scraped_at": "2026-01-26T21:37:57.888565",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29215150",
         "financial_year": "2024",
@@ -110,12 +177,12 @@
         }
       }
     },
-    "2023": {
+    "2021": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:18:34.953404",
+        "scraped_at": "2026-01-26T21:37:57.958901",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29215150",
-        "financial_year": "2023",
+        "financial_year": "2021",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -129,43 +196,43 @@
       "countries": [
         {
           "sno": 1,
-          "country": "CHINA P RP",
+          "country": "MALAYSIA",
           "values_usd": {
             "y2023_2024": null,
-            "y2024_2025": 0.01,
+            "y2024_2025": 0.04,
             "pct_growth": null
           },
           "values_quantity": {
             "y2023_2024": null,
-            "y2024_2025": 2000,
+            "y2024_2025": 12000,
             "pct_growth": null
           }
         },
         {
           "sno": 2,
-          "country": "JAPAN",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.11,
-            "pct_growth": 5643.98
-          },
-          "values_quantity": {
-            "y2023_2024": 200,
-            "y2024_2025": 32000,
-            "pct_growth": 15900.0
-          }
-        },
-        {
-          "sno": 3,
-          "country": "SAUDI ARAB",
+          "country": "THAILAND",
           "values_usd": {
             "y2023_2024": null,
-            "y2024_2025": 0.01,
+            "y2024_2025": 0.1,
             "pct_growth": null
           },
           "values_quantity": {
             "y2023_2024": null,
-            "y2024_2025": 2460,
+            "y2024_2025": 32000,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 3,
+          "country": "U S A",
+          "values_usd": {
+            "y2023_2024": 0.09,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 5000,
+            "y2024_2025": null,
             "pct_growth": null
           }
         }
@@ -174,14 +241,14 @@
         "total": {
           "values_usd": {
             "y2023_2024": 0.14,
-            "y2024_2025": 6912.61,
+            "y2024_2025": 55.36,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 437072.03,
-            "y2024_2025": -3.1,
+            "y2023_2024": 422004.4,
+            "y2024_2025": 44.62,
             "pct_growth": null
           }
         },
@@ -193,7 +260,7 @@
     },
     "2022": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:18:35.146280",
+        "scraped_at": "2026-01-26T21:37:57.970494",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29215150",
         "financial_year": "2022",
@@ -272,12 +339,12 @@
         }
       }
     },
-    "2020": {
+    "2023": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:18:35.198759",
+        "scraped_at": "2026-01-26T21:37:58.064484",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29215150",
-        "financial_year": "2020",
+        "financial_year": "2023",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -291,82 +358,43 @@
       "countries": [
         {
           "sno": 1,
-          "country": "U S A",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.09,
-            "pct_growth": 94094.89
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 5000,
-            "pct_growth": null
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.09,
-            "y2024_2025": 94094.89,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 291808.48,
-            "y2024_2025": -6.88,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0,
-          "y2024_2025": null
-        }
-      }
-    },
-    "2019": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:18:35.238442",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "29215150",
-        "financial_year": "2019",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "29215150",
-        "description": "M-DIAMINOTOLUENE",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "U S A",
+          "country": "CHINA P RP",
           "values_usd": {
             "y2023_2024": null,
-            "y2024_2025": 0.0,
+            "y2024_2025": 0.01,
             "pct_growth": null
           },
           "values_quantity": {
             "y2023_2024": null,
-            "y2024_2025": null,
+            "y2024_2025": 2000,
             "pct_growth": null
           }
         },
         {
           "sno": 2,
-          "country": "VIETNAM SOC REP",
+          "country": "JAPAN",
           "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": null,
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.11,
+            "pct_growth": 5643.98
+          },
+          "values_quantity": {
+            "y2023_2024": 200,
+            "y2024_2025": 32000,
+            "pct_growth": 15900.0
+          }
+        },
+        {
+          "sno": 3,
+          "country": "SAUDI ARAB",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.01,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": 1400,
-            "y2024_2025": null,
+            "y2023_2024": null,
+            "y2024_2025": 2460,
             "pct_growth": null
           }
         }
@@ -374,15 +402,15 @@
       "totals": {
         "total": {
           "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": -98.23,
+            "y2023_2024": 0.14,
+            "y2024_2025": 6912.61,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 313361.04,
-            "y2024_2025": -5.06,
+            "y2023_2024": 437072.03,
+            "y2024_2025": -3.1,
             "pct_growth": null
           }
         },
@@ -394,7 +422,7 @@
     },
     "2018": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:18:35.262371",
+        "scraped_at": "2026-01-26T21:37:58.061487",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29215150",
         "financial_year": "2018",
@@ -445,12 +473,12 @@
         }
       }
     },
-    "2021": {
+    "2020": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:18:35.300653",
+        "scraped_at": "2026-01-26T21:37:58.093627",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29215150",
-        "financial_year": "2021",
+        "financial_year": "2020",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -464,43 +492,15 @@
       "countries": [
         {
           "sno": 1,
-          "country": "MALAYSIA",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.04,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 12000,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 2,
-          "country": "THAILAND",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.1,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 32000,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 3,
           "country": "U S A",
           "values_usd": {
-            "y2023_2024": 0.09,
-            "y2024_2025": null,
-            "pct_growth": null
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.09,
+            "pct_growth": 94094.89
           },
           "values_quantity": {
-            "y2023_2024": 5000,
-            "y2024_2025": null,
+            "y2023_2024": null,
+            "y2024_2025": 5000,
             "pct_growth": null
           }
         }
@@ -508,15 +508,15 @@
       "totals": {
         "total": {
           "values_usd": {
-            "y2023_2024": 0.14,
-            "y2024_2025": 55.36,
+            "y2023_2024": 0.09,
+            "y2024_2025": 94094.89,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 422004.4,
-            "y2024_2025": 44.62,
+            "y2023_2024": 291808.48,
+            "y2024_2025": -6.88,
             "pct_growth": null
           }
         },
@@ -528,7 +528,7 @@
     }
   },
   "metadata": {
-    "consolidated_at": "2026-01-26T20:18:35.324716",
+    "consolidated_at": "2026-01-26T21:37:58.099712",
     "trade_type": "export",
     "years_count": 7,
     "schema_version": "2.0"

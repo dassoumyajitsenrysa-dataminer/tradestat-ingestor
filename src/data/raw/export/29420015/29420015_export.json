@@ -1,12 +1,12 @@
 {
   "hsn_code": "29420015",
   "years": {
-    "2019": {
+    "2023": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:19:53.806534",
+        "scraped_at": "2026-01-26T21:39:09.943597",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29420015",
-        "financial_year": "2019",
+        "financial_year": "2023",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -20,58 +20,273 @@
       "countries": [
         {
           "sno": 1,
-          "country": "KENYA",
+          "country": "CYPRUS",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.01,
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
             "pct_growth": null
           },
           "values_quantity": {
             "y2023_2024": null,
-            "y2024_2025": 250,
+            "y2024_2025": null,
             "pct_growth": null
           }
         },
         {
           "sno": 2,
-          "country": "KOREA RP",
+          "country": "ECUADOR",
           "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.01,
-            "pct_growth": 77.53
+            "y2023_2024": 0.02,
+            "y2024_2025": null,
+            "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": 500,
-            "y2024_2025": 900,
-            "pct_growth": 80.0
+            "y2023_2024": 1500,
+            "y2024_2025": null,
+            "pct_growth": null
           }
         },
         {
           "sno": 3,
+          "country": "SPAIN",
+          "values_usd": {
+            "y2023_2024": 0.44,
+            "y2024_2025": 0.52,
+            "pct_growth": 18.4
+          },
+          "values_quantity": {
+            "y2023_2024": 47048,
+            "y2024_2025": 58810,
+            "pct_growth": 25.0
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.52,
+            "y2024_2025": 14.02,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 437072.03,
+            "y2024_2025": -3.1,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0001,
+          "y2024_2025": null
+        }
+      }
+    },
+    "2018": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:39:10.356606",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "29420015",
+        "financial_year": "2018",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "29420015",
+        "description": "DANES SALT OF D (-) PHENYL GLYCINE",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "KOREA RP",
+          "values_usd": {
+            "y2023_2024": 0.01,
+            "y2024_2025": 0.0,
+            "pct_growth": -39.02
+          },
+          "values_quantity": {
+            "y2023_2024": 886,
+            "y2024_2025": 500,
+            "pct_growth": -43.57
+          }
+        },
+        {
+          "sno": 2,
           "country": "NEPAL",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 300,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 3,
+          "country": "SPAIN",
+          "values_usd": {
+            "y2023_2024": 0.09,
+            "y2024_2025": 0.65,
+            "pct_growth": 653.44
+          },
+          "values_quantity": {
+            "y2023_2024": 11765,
+            "y2024_2025": 82334,
+            "pct_growth": 599.82
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.66,
+            "y2024_2025": 595.12,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 330078.09,
+            "y2024_2025": 8.75,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0002,
+          "y2024_2025": null
+        }
+      }
+    },
+    "2022": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:39:10.374591",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "29420015",
+        "financial_year": "2022",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "29420015",
+        "description": "DANES SALT OF D (-) PHENYL GLYCINE",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "CYPRUS",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 2,
+          "country": "ECUADOR",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.02,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 1500,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 3,
+          "country": "SPAIN",
+          "values_usd": {
+            "y2023_2024": 0.11,
+            "y2024_2025": 0.44,
+            "pct_growth": 290.34
+          },
+          "values_quantity": {
+            "y2023_2024": 12999,
+            "y2024_2025": 47048,
+            "pct_growth": 261.94
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.45,
+            "y2024_2025": 305.35,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 451070.0,
+            "y2024_2025": 6.89,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0001,
+          "y2024_2025": null
+        }
+      }
+    },
+    "2021": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:39:10.389430",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "29420015",
+        "financial_year": "2021",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "29420015",
+        "description": "DANES SALT OF D (-) PHENYL GLYCINE",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "CYPRUS",
           "values_usd": {
             "y2023_2024": 0.0,
             "y2024_2025": null,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": 300,
+            "y2023_2024": 1,
             "y2024_2025": null,
             "pct_growth": null
           }
         },
         {
-          "sno": 4,
+          "sno": 2,
           "country": "SPAIN",
           "values_usd": {
-            "y2023_2024": 0.65,
-            "y2024_2025": 0.09,
-            "pct_growth": -85.73
+            "y2023_2024": 0.28,
+            "y2024_2025": 0.11,
+            "pct_growth": -60.49
           },
           "values_quantity": {
-            "y2023_2024": 82334,
-            "y2024_2025": 11762,
-            "pct_growth": -85.71
+            "y2023_2024": 35286,
+            "y2024_2025": 12999,
+            "pct_growth": -63.16
           }
         }
       ],
@@ -79,14 +294,14 @@
         "total": {
           "values_usd": {
             "y2023_2024": 0.11,
-            "y2024_2025": -83.72,
+            "y2024_2025": -60.71,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 313361.04,
-            "y2024_2025": -5.06,
+            "y2023_2024": 422004.4,
+            "y2024_2025": 44.62,
             "pct_growth": null
           }
         },
@@ -98,7 +313,7 @@
     },
     "2020": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:19:53.868029",
+        "scraped_at": "2026-01-26T21:39:10.423852",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29420015",
         "financial_year": "2020",
@@ -191,12 +406,12 @@
         }
       }
     },
-    "2021": {
+    "2019": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:19:54.033955",
+        "scraped_at": "2026-01-26T21:39:10.414108",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29420015",
-        "financial_year": "2021",
+        "financial_year": "2019",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -210,30 +425,58 @@
       "countries": [
         {
           "sno": 1,
-          "country": "CYPRUS",
+          "country": "KENYA",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.01,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 250,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 2,
+          "country": "KOREA RP",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.01,
+            "pct_growth": 77.53
+          },
+          "values_quantity": {
+            "y2023_2024": 500,
+            "y2024_2025": 900,
+            "pct_growth": 80.0
+          }
+        },
+        {
+          "sno": 3,
+          "country": "NEPAL",
           "values_usd": {
             "y2023_2024": 0.0,
             "y2024_2025": null,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": 1,
+            "y2023_2024": 300,
             "y2024_2025": null,
             "pct_growth": null
           }
         },
         {
-          "sno": 2,
+          "sno": 4,
           "country": "SPAIN",
           "values_usd": {
-            "y2023_2024": 0.28,
-            "y2024_2025": 0.11,
-            "pct_growth": -60.49
+            "y2023_2024": 0.65,
+            "y2024_2025": 0.09,
+            "pct_growth": -85.73
           },
           "values_quantity": {
-            "y2023_2024": 35286,
-            "y2024_2025": 12999,
-            "pct_growth": -63.16
+            "y2023_2024": 82334,
+            "y2024_2025": 11762,
+            "pct_growth": -85.71
           }
         }
       ],
@@ -241,14 +484,14 @@
         "total": {
           "values_usd": {
             "y2023_2024": 0.11,
-            "y2024_2025": -60.71,
+            "y2024_2025": -83.72,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 422004.4,
-            "y2024_2025": 44.62,
+            "y2023_2024": 313361.04,
+            "y2024_2025": -5.06,
             "pct_growth": null
           }
         },
@@ -258,171 +501,9 @@
         }
       }
     },
-    "2018": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:19:54.103310",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "29420015",
-        "financial_year": "2018",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "29420015",
-        "description": "DANES SALT OF D (-) PHENYL GLYCINE",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "KOREA RP",
-          "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": 0.0,
-            "pct_growth": -39.02
-          },
-          "values_quantity": {
-            "y2023_2024": 886,
-            "y2024_2025": 500,
-            "pct_growth": -43.57
-          }
-        },
-        {
-          "sno": 2,
-          "country": "NEPAL",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 300,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 3,
-          "country": "SPAIN",
-          "values_usd": {
-            "y2023_2024": 0.09,
-            "y2024_2025": 0.65,
-            "pct_growth": 653.44
-          },
-          "values_quantity": {
-            "y2023_2024": 11765,
-            "y2024_2025": 82334,
-            "pct_growth": 599.82
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.66,
-            "y2024_2025": 595.12,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 330078.09,
-            "y2024_2025": 8.75,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0002,
-          "y2024_2025": null
-        }
-      }
-    },
-    "2022": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:19:54.100655",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "29420015",
-        "financial_year": "2022",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "29420015",
-        "description": "DANES SALT OF D (-) PHENYL GLYCINE",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "CYPRUS",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 2,
-          "country": "ECUADOR",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.02,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 1500,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 3,
-          "country": "SPAIN",
-          "values_usd": {
-            "y2023_2024": 0.11,
-            "y2024_2025": 0.44,
-            "pct_growth": 290.34
-          },
-          "values_quantity": {
-            "y2023_2024": 12999,
-            "y2024_2025": 47048,
-            "pct_growth": 261.94
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.45,
-            "y2024_2025": 305.35,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 451070.0,
-            "y2024_2025": 6.89,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0001,
-          "y2024_2025": null
-        }
-      }
-    },
     "2024": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:19:54.115893",
+        "scraped_at": "2026-01-26T21:39:10.505244",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29420015",
         "financial_year": "2024",
@@ -500,91 +581,10 @@
           "y2024_2025": null
         }
       }
-    },
-    "2023": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:19:54.160057",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "29420015",
-        "financial_year": "2023",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "29420015",
-        "description": "DANES SALT OF D (-) PHENYL GLYCINE",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "CYPRUS",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 2,
-          "country": "ECUADOR",
-          "values_usd": {
-            "y2023_2024": 0.02,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 1500,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 3,
-          "country": "SPAIN",
-          "values_usd": {
-            "y2023_2024": 0.44,
-            "y2024_2025": 0.52,
-            "pct_growth": 18.4
-          },
-          "values_quantity": {
-            "y2023_2024": 47048,
-            "y2024_2025": 58810,
-            "pct_growth": 25.0
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.52,
-            "y2024_2025": 14.02,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 437072.03,
-            "y2024_2025": -3.1,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0001,
-          "y2024_2025": null
-        }
-      }
     }
   },
   "metadata": {
-    "consolidated_at": "2026-01-26T20:19:54.176699",
+    "consolidated_at": "2026-01-26T21:39:10.531212",
     "trade_type": "export",
     "years_count": 7,
     "schema_version": "2.0"

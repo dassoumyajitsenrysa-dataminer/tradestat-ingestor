@@ -1,9 +1,669 @@
 {
   "hsn_code": "25169020",
   "years": {
+    "2023": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:34:02.794110",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "25169020",
+        "financial_year": "2023",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "25169020",
+        "description": "STONE BOULDERS",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "AUSTRALIA",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 200,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 2,
+          "country": "BANGLADESH PR",
+          "values_usd": {
+            "y2023_2024": 28.7,
+            "y2024_2025": 21.25,
+            "pct_growth": -25.96
+          },
+          "values_quantity": {
+            "y2023_2024": 3297758700,
+            "y2024_2025": 2401810900,
+            "pct_growth": -27.17
+          }
+        },
+        {
+          "sno": 3,
+          "country": "BHUTAN",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 30690,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 4,
+          "country": "GERMANY",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 5,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 5,
+          "country": "JAPAN",
+          "values_usd": {
+            "y2023_2024": 0.04,
+            "y2024_2025": 0.03,
+            "pct_growth": -37.72
+          },
+          "values_quantity": {
+            "y2023_2024": 236186,
+            "y2024_2025": 101492,
+            "pct_growth": -57.03
+          }
+        },
+        {
+          "sno": 6,
+          "country": "KUWAIT",
+          "values_usd": {
+            "y2023_2024": 0.01,
+            "y2024_2025": 0.02,
+            "pct_growth": 34.58
+          },
+          "values_quantity": {
+            "y2023_2024": 38700,
+            "y2024_2025": 132050,
+            "pct_growth": 241.21
+          }
+        },
+        {
+          "sno": 7,
+          "country": "MALDIVES",
+          "values_usd": {
+            "y2023_2024": 13.8,
+            "y2024_2025": 13.27,
+            "pct_growth": -3.87
+          },
+          "values_quantity": {
+            "y2023_2024": 887049980,
+            "y2024_2025": 886982020,
+            "pct_growth": -0.01
+          }
+        },
+        {
+          "sno": 8,
+          "country": "MOZAMBIQUE",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 62,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 9,
+          "country": "NEPAL",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.01,
+            "pct_growth": 241.63
+          },
+          "values_quantity": {
+            "y2023_2024": 45190,
+            "y2024_2025": 160290,
+            "pct_growth": 254.7
+          }
+        },
+        {
+          "sno": 10,
+          "country": "SEYCHELLES",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 10538,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 11,
+          "country": "SINGAPORE",
+          "values_usd": {
+            "y2023_2024": 0.01,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 13250,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 12,
+          "country": "U S A",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 420,
+            "pct_growth": null
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 34.57,
+            "y2024_2025": -18.79,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 437072.03,
+            "y2024_2025": -3.1,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0079,
+          "y2024_2025": null
+        }
+      }
+    },
+    "2021": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:34:02.998171",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "25169020",
+        "financial_year": "2021",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "25169020",
+        "description": "STONE BOULDERS",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "BANGLADESH PR",
+          "values_usd": {
+            "y2023_2024": 38.32,
+            "y2024_2025": 30.19,
+            "pct_growth": -21.22
+          },
+          "values_quantity": {
+            "y2023_2024": 4125899000,
+            "y2024_2025": 4028163100,
+            "pct_growth": -2.37
+          }
+        },
+        {
+          "sno": 2,
+          "country": "BARBADOS",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 225000,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 3,
+          "country": "BELGIUM",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.05,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 545780,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 4,
+          "country": "JAPAN",
+          "values_usd": {
+            "y2023_2024": 0.02,
+            "y2024_2025": 0.04,
+            "pct_growth": 111.16
+          },
+          "values_quantity": {
+            "y2023_2024": 114630,
+            "y2024_2025": 156768,
+            "pct_growth": 36.76
+          }
+        },
+        {
+          "sno": 5,
+          "country": "MALDIVES",
+          "values_usd": {
+            "y2023_2024": 9.15,
+            "y2024_2025": 11.56,
+            "pct_growth": 26.4
+          },
+          "values_quantity": {
+            "y2023_2024": 603378050,
+            "y2024_2025": 737776770,
+            "pct_growth": 22.27
+          }
+        },
+        {
+          "sno": 6,
+          "country": "NEPAL",
+          "values_usd": {
+            "y2023_2024": 0.02,
+            "y2024_2025": 0.0,
+            "pct_growth": -97.83
+          },
+          "values_quantity": {
+            "y2023_2024": 171293,
+            "y2024_2025": 21000,
+            "pct_growth": -87.74
+          }
+        },
+        {
+          "sno": 7,
+          "country": "U K",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.0,
+            "pct_growth": 5825.3
+          },
+          "values_quantity": {
+            "y2023_2024": 100,
+            "y2024_2025": 97660,
+            "pct_growth": 97560.0
+          }
+        },
+        {
+          "sno": 8,
+          "country": "U S A",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 16010,
+            "pct_growth": null
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 41.84,
+            "y2024_2025": -11.93,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 422004.4,
+            "y2024_2025": 44.62,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0099,
+          "y2024_2025": null
+        }
+      }
+    },
+    "2020": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:34:03.191658",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "25169020",
+        "financial_year": "2020",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "25169020",
+        "description": "STONE BOULDERS",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "BANGLADESH PR",
+          "values_usd": {
+            "y2023_2024": 34.48,
+            "y2024_2025": 38.32,
+            "pct_growth": 11.15
+          },
+          "values_quantity": {
+            "y2023_2024": 3754224400,
+            "y2024_2025": 4125899000,
+            "pct_growth": 9.9
+          }
+        },
+        {
+          "sno": 2,
+          "country": "JAPAN",
+          "values_usd": {
+            "y2023_2024": 0.01,
+            "y2024_2025": 0.02,
+            "pct_growth": 43.29
+          },
+          "values_quantity": {
+            "y2023_2024": 91232,
+            "y2024_2025": 114630,
+            "pct_growth": 25.65
+          }
+        },
+        {
+          "sno": 3,
+          "country": "MALDIVES",
+          "values_usd": {
+            "y2023_2024": 5.61,
+            "y2024_2025": 9.15,
+            "pct_growth": 63.03
+          },
+          "values_quantity": {
+            "y2023_2024": 416732000,
+            "y2024_2025": 603378050,
+            "pct_growth": 44.79
+          }
+        },
+        {
+          "sno": 4,
+          "country": "NEPAL",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.02,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 171293,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 5,
+          "country": "SINGAPORE",
+          "values_usd": {
+            "y2023_2024": 0.01,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 23981,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 6,
+          "country": "U K",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 100,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 7,
+          "country": "U S A",
+          "values_usd": {
+            "y2023_2024": 0.02,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 18795,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 47.51,
+            "y2024_2025": 18.39,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 291808.48,
+            "y2024_2025": -6.88,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0163,
+          "y2024_2025": null
+        }
+      }
+    },
+    "2019": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:34:03.246361",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "25169020",
+        "financial_year": "2019",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "25169020",
+        "description": "STONE BOULDERS",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "AUSTRALIA",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 9000,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 2,
+          "country": "BAHARAIN IS",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 13000,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 3,
+          "country": "BANGLADESH PR",
+          "values_usd": {
+            "y2023_2024": 29.86,
+            "y2024_2025": 34.48,
+            "pct_growth": 15.48
+          },
+          "values_quantity": {
+            "y2023_2024": 3270291700,
+            "y2024_2025": 3754224400,
+            "pct_growth": 14.8
+          }
+        },
+        {
+          "sno": 4,
+          "country": "CHINA P RP",
+          "values_usd": {
+            "y2023_2024": 0.04,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 114000,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 5,
+          "country": "JAPAN",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.01,
+            "pct_growth": 290.16
+          },
+          "values_quantity": {
+            "y2023_2024": 42650,
+            "y2024_2025": 91232,
+            "pct_growth": 113.91
+          }
+        },
+        {
+          "sno": 6,
+          "country": "MALDIVES",
+          "values_usd": {
+            "y2023_2024": 7.81,
+            "y2024_2025": 5.61,
+            "pct_growth": -28.12
+          },
+          "values_quantity": {
+            "y2023_2024": 508993980,
+            "y2024_2025": 416732000,
+            "pct_growth": -18.13
+          }
+        },
+        {
+          "sno": 7,
+          "country": "SINGAPORE",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.01,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 23981,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 8,
+          "country": "SRI LANKA DSR",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 5000,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 9,
+          "country": "U S A",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.02,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 18795,
+            "pct_growth": null
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 40.13,
+            "y2024_2025": 6.43,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 313361.04,
+            "y2024_2025": -5.06,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0128,
+          "y2024_2025": null
+        }
+      }
+    },
     "2024": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:14:28.456561",
+        "scraped_at": "2026-01-26T21:34:03.228843",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "25169020",
         "financial_year": "2024",
@@ -222,160 +882,9 @@
         }
       }
     },
-    "2021": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:14:29.461876",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "25169020",
-        "financial_year": "2021",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "25169020",
-        "description": "STONE BOULDERS",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "BANGLADESH PR",
-          "values_usd": {
-            "y2023_2024": 38.32,
-            "y2024_2025": 30.19,
-            "pct_growth": -21.22
-          },
-          "values_quantity": {
-            "y2023_2024": 4125899000,
-            "y2024_2025": 4028163100,
-            "pct_growth": -2.37
-          }
-        },
-        {
-          "sno": 2,
-          "country": "BARBADOS",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 225000,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 3,
-          "country": "BELGIUM",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.05,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 545780,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 4,
-          "country": "JAPAN",
-          "values_usd": {
-            "y2023_2024": 0.02,
-            "y2024_2025": 0.04,
-            "pct_growth": 111.16
-          },
-          "values_quantity": {
-            "y2023_2024": 114630,
-            "y2024_2025": 156768,
-            "pct_growth": 36.76
-          }
-        },
-        {
-          "sno": 5,
-          "country": "MALDIVES",
-          "values_usd": {
-            "y2023_2024": 9.15,
-            "y2024_2025": 11.56,
-            "pct_growth": 26.4
-          },
-          "values_quantity": {
-            "y2023_2024": 603378050,
-            "y2024_2025": 737776770,
-            "pct_growth": 22.27
-          }
-        },
-        {
-          "sno": 6,
-          "country": "NEPAL",
-          "values_usd": {
-            "y2023_2024": 0.02,
-            "y2024_2025": 0.0,
-            "pct_growth": -97.83
-          },
-          "values_quantity": {
-            "y2023_2024": 171293,
-            "y2024_2025": 21000,
-            "pct_growth": -87.74
-          }
-        },
-        {
-          "sno": 7,
-          "country": "U K",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.0,
-            "pct_growth": 5825.3
-          },
-          "values_quantity": {
-            "y2023_2024": 100,
-            "y2024_2025": 97660,
-            "pct_growth": 97560.0
-          }
-        },
-        {
-          "sno": 8,
-          "country": "U S A",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 16010,
-            "pct_growth": null
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 41.84,
-            "y2024_2025": -11.93,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 422004.4,
-            "y2024_2025": 44.62,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0099,
-          "y2024_2025": null
-        }
-      }
-    },
     "2022": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:14:29.515602",
+        "scraped_at": "2026-01-26T21:34:03.280731",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "25169020",
         "financial_year": "2022",
@@ -580,518 +1089,9 @@
         }
       }
     },
-    "2019": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:14:29.561040",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "25169020",
-        "financial_year": "2019",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "25169020",
-        "description": "STONE BOULDERS",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "AUSTRALIA",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 9000,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 2,
-          "country": "BAHARAIN IS",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 13000,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 3,
-          "country": "BANGLADESH PR",
-          "values_usd": {
-            "y2023_2024": 29.86,
-            "y2024_2025": 34.48,
-            "pct_growth": 15.48
-          },
-          "values_quantity": {
-            "y2023_2024": 3270291700,
-            "y2024_2025": 3754224400,
-            "pct_growth": 14.8
-          }
-        },
-        {
-          "sno": 4,
-          "country": "CHINA P RP",
-          "values_usd": {
-            "y2023_2024": 0.04,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 114000,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 5,
-          "country": "JAPAN",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.01,
-            "pct_growth": 290.16
-          },
-          "values_quantity": {
-            "y2023_2024": 42650,
-            "y2024_2025": 91232,
-            "pct_growth": 113.91
-          }
-        },
-        {
-          "sno": 6,
-          "country": "MALDIVES",
-          "values_usd": {
-            "y2023_2024": 7.81,
-            "y2024_2025": 5.61,
-            "pct_growth": -28.12
-          },
-          "values_quantity": {
-            "y2023_2024": 508993980,
-            "y2024_2025": 416732000,
-            "pct_growth": -18.13
-          }
-        },
-        {
-          "sno": 7,
-          "country": "SINGAPORE",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.01,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 23981,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 8,
-          "country": "SRI LANKA DSR",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 5000,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 9,
-          "country": "U S A",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.02,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 18795,
-            "pct_growth": null
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 40.13,
-            "y2024_2025": 6.43,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 313361.04,
-            "y2024_2025": -5.06,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0128,
-          "y2024_2025": null
-        }
-      }
-    },
-    "2020": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:14:29.682801",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "25169020",
-        "financial_year": "2020",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "25169020",
-        "description": "STONE BOULDERS",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "BANGLADESH PR",
-          "values_usd": {
-            "y2023_2024": 34.48,
-            "y2024_2025": 38.32,
-            "pct_growth": 11.15
-          },
-          "values_quantity": {
-            "y2023_2024": 3754224400,
-            "y2024_2025": 4125899000,
-            "pct_growth": 9.9
-          }
-        },
-        {
-          "sno": 2,
-          "country": "JAPAN",
-          "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": 0.02,
-            "pct_growth": 43.29
-          },
-          "values_quantity": {
-            "y2023_2024": 91232,
-            "y2024_2025": 114630,
-            "pct_growth": 25.65
-          }
-        },
-        {
-          "sno": 3,
-          "country": "MALDIVES",
-          "values_usd": {
-            "y2023_2024": 5.61,
-            "y2024_2025": 9.15,
-            "pct_growth": 63.03
-          },
-          "values_quantity": {
-            "y2023_2024": 416732000,
-            "y2024_2025": 603378050,
-            "pct_growth": 44.79
-          }
-        },
-        {
-          "sno": 4,
-          "country": "NEPAL",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.02,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 171293,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 5,
-          "country": "SINGAPORE",
-          "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 23981,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 6,
-          "country": "U K",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 100,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 7,
-          "country": "U S A",
-          "values_usd": {
-            "y2023_2024": 0.02,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 18795,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 47.51,
-            "y2024_2025": 18.39,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 291808.48,
-            "y2024_2025": -6.88,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0163,
-          "y2024_2025": null
-        }
-      }
-    },
-    "2023": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:14:29.704591",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "25169020",
-        "financial_year": "2023",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "25169020",
-        "description": "STONE BOULDERS",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "AUSTRALIA",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 200,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 2,
-          "country": "BANGLADESH PR",
-          "values_usd": {
-            "y2023_2024": 28.7,
-            "y2024_2025": 21.25,
-            "pct_growth": -25.96
-          },
-          "values_quantity": {
-            "y2023_2024": 3297758700,
-            "y2024_2025": 2401810900,
-            "pct_growth": -27.17
-          }
-        },
-        {
-          "sno": 3,
-          "country": "BHUTAN",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 30690,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 4,
-          "country": "GERMANY",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 5,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 5,
-          "country": "JAPAN",
-          "values_usd": {
-            "y2023_2024": 0.04,
-            "y2024_2025": 0.03,
-            "pct_growth": -37.72
-          },
-          "values_quantity": {
-            "y2023_2024": 236186,
-            "y2024_2025": 101492,
-            "pct_growth": -57.03
-          }
-        },
-        {
-          "sno": 6,
-          "country": "KUWAIT",
-          "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": 0.02,
-            "pct_growth": 34.58
-          },
-          "values_quantity": {
-            "y2023_2024": 38700,
-            "y2024_2025": 132050,
-            "pct_growth": 241.21
-          }
-        },
-        {
-          "sno": 7,
-          "country": "MALDIVES",
-          "values_usd": {
-            "y2023_2024": 13.8,
-            "y2024_2025": 13.27,
-            "pct_growth": -3.87
-          },
-          "values_quantity": {
-            "y2023_2024": 887049980,
-            "y2024_2025": 886982020,
-            "pct_growth": -0.01
-          }
-        },
-        {
-          "sno": 8,
-          "country": "MOZAMBIQUE",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 62,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 9,
-          "country": "NEPAL",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.01,
-            "pct_growth": 241.63
-          },
-          "values_quantity": {
-            "y2023_2024": 45190,
-            "y2024_2025": 160290,
-            "pct_growth": 254.7
-          }
-        },
-        {
-          "sno": 10,
-          "country": "SEYCHELLES",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 10538,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 11,
-          "country": "SINGAPORE",
-          "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 13250,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 12,
-          "country": "U S A",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 420,
-            "pct_growth": null
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 34.57,
-            "y2024_2025": -18.79,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 437072.03,
-            "y2024_2025": -3.1,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0079,
-          "y2024_2025": null
-        }
-      }
-    },
     "2018": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:14:29.781024",
+        "scraped_at": "2026-01-26T21:34:03.289340",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "25169020",
         "financial_year": "2018",
@@ -1340,7 +1340,7 @@
     }
   },
   "metadata": {
-    "consolidated_at": "2026-01-26T20:14:29.821355",
+    "consolidated_at": "2026-01-26T21:34:03.413983",
     "trade_type": "export",
     "years_count": 7,
     "schema_version": "2.0"

@@ -1,12 +1,12 @@
 {
   "hsn_code": "29264000",
   "years": {
-    "2023": {
+    "2020": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:19:00.051565",
+        "scraped_at": "2026-01-26T21:38:20.308311",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29264000",
-        "financial_year": "2023",
+        "financial_year": "2020",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -20,14 +20,14 @@
       "countries": [
         {
           "sno": 1,
-          "country": "SRI LANKA DSR",
+          "country": "U S A",
           "values_usd": {
             "y2023_2024": 0.0,
             "y2024_2025": null,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": 510,
+            "y2023_2024": null,
             "y2024_2025": null,
             "pct_growth": null
           }
@@ -43,8 +43,8 @@
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 437072.03,
-            "y2024_2025": -3.1,
+            "y2023_2024": 291808.48,
+            "y2024_2025": -6.88,
             "pct_growth": null
           }
         },
@@ -56,7 +56,7 @@
     },
     "2019": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:19:00.211788",
+        "scraped_at": "2026-01-26T21:38:20.785300",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29264000",
         "financial_year": "2019",
@@ -137,7 +137,7 @@
     },
     "2022": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:19:00.349889",
+        "scraped_at": "2026-01-26T21:38:20.750037",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29264000",
         "financial_year": "2022",
@@ -202,62 +202,9 @@
         }
       }
     },
-    "2020": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:19:00.409243",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "29264000",
-        "financial_year": "2020",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "29264000",
-        "description": "ALPHA-PHENYLACETOACETONITRILE",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "U S A",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 291808.48,
-            "y2024_2025": -6.88,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": null,
-          "y2024_2025": null
-        }
-      }
-    },
     "2021": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:19:00.428697",
+        "scraped_at": "2026-01-26T21:38:20.861243",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29264000",
         "financial_year": "2021",
@@ -308,9 +255,62 @@
         }
       }
     },
+    "2023": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:38:20.920590",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "29264000",
+        "financial_year": "2023",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "29264000",
+        "description": "ALPHA-PHENYLACETOACETONITRILE",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "SRI LANKA DSR",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 510,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 437072.03,
+            "y2024_2025": -3.1,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": null,
+          "y2024_2025": null
+        }
+      }
+    },
     "2018": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:19:00.440045",
+        "scraped_at": "2026-01-26T21:38:20.964058",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29264000",
         "financial_year": "2018",
@@ -377,7 +377,7 @@
     }
   },
   "metadata": {
-    "consolidated_at": "2026-01-26T20:19:00.449466",
+    "consolidated_at": "2026-01-26T21:38:20.988276",
     "trade_type": "export",
     "years_count": 6,
     "schema_version": "2.0"

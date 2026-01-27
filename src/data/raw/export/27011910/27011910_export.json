@@ -1,9 +1,104 @@
 {
   "hsn_code": "27011910",
   "years": {
+    "2019": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:34:37.741609",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "27011910",
+        "financial_year": "2019",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "27011910",
+        "description": "COKING COAL",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "BANGLADESH PR",
+          "values_usd": {
+            "y2023_2024": 0.14,
+            "y2024_2025": 0.02,
+            "pct_growth": -88.91
+          },
+          "values_quantity": {
+            "y2023_2024": 1611,
+            "y2024_2025": 180,
+            "pct_growth": -88.83
+          }
+        },
+        {
+          "sno": 2,
+          "country": "BHUTAN",
+          "values_usd": {
+            "y2023_2024": 0.01,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 30,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 3,
+          "country": "EGYPT A RP",
+          "values_usd": {
+            "y2023_2024": 11.98,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 50000,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 4,
+          "country": "NEPAL",
+          "values_usd": {
+            "y2023_2024": 0.73,
+            "y2024_2025": 0.17,
+            "pct_growth": -76.38
+          },
+          "values_quantity": {
+            "y2023_2024": 8142,
+            "y2024_2025": 1463,
+            "pct_growth": -82.03
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.19,
+            "y2024_2025": -98.53,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 313361.04,
+            "y2024_2025": -5.06,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0001,
+          "y2024_2025": null
+        }
+      }
+    },
     "2020": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:15:03.416175",
+        "scraped_at": "2026-01-26T21:34:38.035886",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "27011910",
         "financial_year": "2020",
@@ -68,12 +163,12 @@
         }
       }
     },
-    "2023": {
+    "2022": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:15:03.479407",
+        "scraped_at": "2026-01-26T21:34:38.097339",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "27011910",
-        "financial_year": "2023",
+        "financial_year": "2022",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -89,108 +184,27 @@
           "sno": 1,
           "country": "BANGLADESH PR",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.09,
+            "y2023_2024": 0.07,
+            "y2024_2025": null,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 952690,
+            "y2023_2024": 1018000,
+            "y2024_2025": null,
             "pct_growth": null
-          }
-        },
-        {
-          "sno": 2,
-          "country": "NEPAL",
-          "values_usd": {
-            "y2023_2024": 0.04,
-            "y2024_2025": 0.06,
-            "pct_growth": 49.01
-          },
-          "values_quantity": {
-            "y2023_2024": 391220,
-            "y2024_2025": 527920,
-            "pct_growth": 34.94
-          }
-        },
-        {
-          "sno": 3,
-          "country": "OMAN",
-          "values_usd": {
-            "y2023_2024": 9.3,
-            "y2024_2025": 27.79,
-            "pct_growth": 198.68
-          },
-          "values_quantity": {
-            "y2023_2024": 26300000,
-            "y2024_2025": 79200000,
-            "pct_growth": 201.14
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 27.95,
-            "y2024_2025": 199.0,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 437072.03,
-            "y2024_2025": -3.1,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0064,
-          "y2024_2025": null
-        }
-      }
-    },
-    "2021": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:15:03.504001",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "27011910",
-        "financial_year": "2021",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "27011910",
-        "description": "COKING COAL",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "BANGLADESH PR",
-          "values_usd": {
-            "y2023_2024": 0.05,
-            "y2024_2025": 0.07,
-            "pct_growth": 41.33
-          },
-          "values_quantity": {
-            "y2023_2024": 739,
-            "y2024_2025": 1018000,
-            "pct_growth": 137653.72
           }
         },
         {
           "sno": 2,
           "country": "GERMANY",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 4360,
+            "y2023_2024": 4360,
+            "y2024_2025": null,
             "pct_growth": null
           }
         },
@@ -198,27 +212,41 @@
           "sno": 3,
           "country": "NEPAL",
           "values_usd": {
-            "y2023_2024": 0.26,
-            "y2024_2025": 0.03,
-            "pct_growth": -90.03
+            "y2023_2024": 0.03,
+            "y2024_2025": 0.04,
+            "pct_growth": 65.47
           },
           "values_quantity": {
-            "y2023_2024": 2460,
-            "y2024_2025": 198000,
-            "pct_growth": 7948.78
+            "y2023_2024": 198000,
+            "y2024_2025": 391220,
+            "pct_growth": 97.59
           }
         },
         {
           "sno": 4,
-          "country": "REUNION",
+          "country": "OMAN",
           "values_usd": {
             "y2023_2024": null,
-            "y2024_2025": 0.0,
+            "y2024_2025": 9.3,
             "pct_growth": null
           },
           "values_quantity": {
             "y2023_2024": null,
-            "y2024_2025": 31,
+            "y2024_2025": 26300000,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 5,
+          "country": "REUNION",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 31,
+            "y2024_2025": null,
             "pct_growth": null
           }
         }
@@ -226,27 +254,122 @@
       "totals": {
         "total": {
           "values_usd": {
-            "y2023_2024": 0.1,
-            "y2024_2025": -68.07,
+            "y2023_2024": 9.35,
+            "y2024_2025": 9245.81,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 422004.4,
-            "y2024_2025": 44.62,
+            "y2023_2024": 451070.0,
+            "y2024_2025": 6.89,
             "pct_growth": null
           }
         },
         "pct_share": {
-          "y2023_2024": 0.0,
+          "y2023_2024": 0.0021,
+          "y2024_2025": null
+        }
+      }
+    },
+    "2018": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:34:38.114433",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "27011910",
+        "financial_year": "2018",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "27011910",
+        "description": "COKING COAL",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "BANGLADESH PR",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.14,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 1611,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 2,
+          "country": "BHUTAN",
+          "values_usd": {
+            "y2023_2024": 0.02,
+            "y2024_2025": 0.01,
+            "pct_growth": -62.18
+          },
+          "values_quantity": {
+            "y2023_2024": 86,
+            "y2024_2025": 30,
+            "pct_growth": -65.12
+          }
+        },
+        {
+          "sno": 3,
+          "country": "EGYPT A RP",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 11.98,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 50000,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 4,
+          "country": "NEPAL",
+          "values_usd": {
+            "y2023_2024": 6.12,
+            "y2024_2025": 0.73,
+            "pct_growth": -88.03
+          },
+          "values_quantity": {
+            "y2023_2024": 67819,
+            "y2024_2025": 8142,
+            "pct_growth": -87.99
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 12.86,
+            "y2024_2025": 109.63,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 330078.09,
+            "y2024_2025": 8.75,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0039,
           "y2024_2025": null
         }
       }
     },
     "2024": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:15:03.564722",
+        "scraped_at": "2026-01-26T21:34:38.102115",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "27011910",
         "financial_year": "2024",
@@ -381,12 +504,12 @@
         }
       }
     },
-    "2022": {
+    "2021": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:15:03.646185",
+        "scraped_at": "2026-01-26T21:34:38.144522",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "27011910",
-        "financial_year": "2022",
+        "financial_year": "2021",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -402,27 +525,27 @@
           "sno": 1,
           "country": "BANGLADESH PR",
           "values_usd": {
-            "y2023_2024": 0.07,
-            "y2024_2025": null,
-            "pct_growth": null
+            "y2023_2024": 0.05,
+            "y2024_2025": 0.07,
+            "pct_growth": 41.33
           },
           "values_quantity": {
-            "y2023_2024": 1018000,
-            "y2024_2025": null,
-            "pct_growth": null
+            "y2023_2024": 739,
+            "y2024_2025": 1018000,
+            "pct_growth": 137653.72
           }
         },
         {
           "sno": 2,
           "country": "GERMANY",
           "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": 4360,
-            "y2024_2025": null,
+            "y2023_2024": null,
+            "y2024_2025": 4360,
             "pct_growth": null
           }
         },
@@ -430,41 +553,27 @@
           "sno": 3,
           "country": "NEPAL",
           "values_usd": {
-            "y2023_2024": 0.03,
-            "y2024_2025": 0.04,
-            "pct_growth": 65.47
+            "y2023_2024": 0.26,
+            "y2024_2025": 0.03,
+            "pct_growth": -90.03
           },
           "values_quantity": {
-            "y2023_2024": 198000,
-            "y2024_2025": 391220,
-            "pct_growth": 97.59
+            "y2023_2024": 2460,
+            "y2024_2025": 198000,
+            "pct_growth": 7948.78
           }
         },
         {
           "sno": 4,
-          "country": "OMAN",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 9.3,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 26300000,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 5,
           "country": "REUNION",
           "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": 31,
-            "y2024_2025": null,
+            "y2023_2024": null,
+            "y2024_2025": 31,
             "pct_growth": null
           }
         }
@@ -472,125 +581,30 @@
       "totals": {
         "total": {
           "values_usd": {
-            "y2023_2024": 9.35,
-            "y2024_2025": 9245.81,
+            "y2023_2024": 0.1,
+            "y2024_2025": -68.07,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 451070.0,
-            "y2024_2025": 6.89,
+            "y2023_2024": 422004.4,
+            "y2024_2025": 44.62,
             "pct_growth": null
           }
         },
         "pct_share": {
-          "y2023_2024": 0.0021,
+          "y2023_2024": 0.0,
           "y2024_2025": null
         }
       }
     },
-    "2019": {
+    "2023": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:15:03.680769",
+        "scraped_at": "2026-01-26T21:34:38.155425",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "27011910",
-        "financial_year": "2019",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "27011910",
-        "description": "COKING COAL",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "BANGLADESH PR",
-          "values_usd": {
-            "y2023_2024": 0.14,
-            "y2024_2025": 0.02,
-            "pct_growth": -88.91
-          },
-          "values_quantity": {
-            "y2023_2024": 1611,
-            "y2024_2025": 180,
-            "pct_growth": -88.83
-          }
-        },
-        {
-          "sno": 2,
-          "country": "BHUTAN",
-          "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 30,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 3,
-          "country": "EGYPT A RP",
-          "values_usd": {
-            "y2023_2024": 11.98,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 50000,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 4,
-          "country": "NEPAL",
-          "values_usd": {
-            "y2023_2024": 0.73,
-            "y2024_2025": 0.17,
-            "pct_growth": -76.38
-          },
-          "values_quantity": {
-            "y2023_2024": 8142,
-            "y2024_2025": 1463,
-            "pct_growth": -82.03
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.19,
-            "y2024_2025": -98.53,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 313361.04,
-            "y2024_2025": -5.06,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0001,
-          "y2024_2025": null
-        }
-      }
-    },
-    "2018": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:15:03.699886",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "27011910",
-        "financial_year": "2018",
+        "financial_year": "2023",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -607,82 +621,68 @@
           "country": "BANGLADESH PR",
           "values_usd": {
             "y2023_2024": null,
-            "y2024_2025": 0.14,
+            "y2024_2025": 0.09,
             "pct_growth": null
           },
           "values_quantity": {
             "y2023_2024": null,
-            "y2024_2025": 1611,
+            "y2024_2025": 952690,
             "pct_growth": null
           }
         },
         {
           "sno": 2,
-          "country": "BHUTAN",
+          "country": "NEPAL",
           "values_usd": {
-            "y2023_2024": 0.02,
-            "y2024_2025": 0.01,
-            "pct_growth": -62.18
+            "y2023_2024": 0.04,
+            "y2024_2025": 0.06,
+            "pct_growth": 49.01
           },
           "values_quantity": {
-            "y2023_2024": 86,
-            "y2024_2025": 30,
-            "pct_growth": -65.12
+            "y2023_2024": 391220,
+            "y2024_2025": 527920,
+            "pct_growth": 34.94
           }
         },
         {
           "sno": 3,
-          "country": "EGYPT A RP",
+          "country": "OMAN",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 11.98,
-            "pct_growth": null
+            "y2023_2024": 9.3,
+            "y2024_2025": 27.79,
+            "pct_growth": 198.68
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 50000,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 4,
-          "country": "NEPAL",
-          "values_usd": {
-            "y2023_2024": 6.12,
-            "y2024_2025": 0.73,
-            "pct_growth": -88.03
-          },
-          "values_quantity": {
-            "y2023_2024": 67819,
-            "y2024_2025": 8142,
-            "pct_growth": -87.99
+            "y2023_2024": 26300000,
+            "y2024_2025": 79200000,
+            "pct_growth": 201.14
           }
         }
       ],
       "totals": {
         "total": {
           "values_usd": {
-            "y2023_2024": 12.86,
-            "y2024_2025": 109.63,
+            "y2023_2024": 27.95,
+            "y2024_2025": 199.0,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 330078.09,
-            "y2024_2025": 8.75,
+            "y2023_2024": 437072.03,
+            "y2024_2025": -3.1,
             "pct_growth": null
           }
         },
         "pct_share": {
-          "y2023_2024": 0.0039,
+          "y2023_2024": 0.0064,
           "y2024_2025": null
         }
       }
     }
   },
   "metadata": {
-    "consolidated_at": "2026-01-26T20:15:03.708577",
+    "consolidated_at": "2026-01-26T21:34:38.161893",
     "trade_type": "export",
     "years_count": 7,
     "schema_version": "2.0"

@@ -3,7 +3,7 @@
   "years": {
     "2024": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:12:44.735718",
+        "scraped_at": "2026-01-26T21:32:17.433981",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "16041320",
         "financial_year": "2024",
@@ -54,9 +54,62 @@
         }
       }
     },
+    "2022": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:32:17.773458",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "16041320",
+        "financial_year": "2022",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "16041320",
+        "description": "SPRTS WHOL/PIECS BT NT MINCD PRPD/PRSVD",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "BHUTAN",
+          "values_usd": {
+            "y2023_2024": 0.01,
+            "y2024_2025": 0.0,
+            "pct_growth": -68.73
+          },
+          "values_quantity": {
+            "y2023_2024": 3824,
+            "y2024_2025": 1279,
+            "pct_growth": -66.55
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": -68.73,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 451070.0,
+            "y2024_2025": 6.89,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0,
+          "y2024_2025": null
+        }
+      }
+    },
     "2023": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:12:45.116611",
+        "scraped_at": "2026-01-26T21:32:18.265451",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "16041320",
         "financial_year": "2023",
@@ -109,7 +162,7 @@
     },
     "2021": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:12:45.134808",
+        "scraped_at": "2026-01-26T21:32:18.095120",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "16041320",
         "financial_year": "2021",
@@ -162,7 +215,7 @@
     },
     "2020": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:12:45.277570",
+        "scraped_at": "2026-01-26T21:32:18.365805",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "16041320",
         "financial_year": "2020",
@@ -213,62 +266,9 @@
         }
       }
     },
-    "2022": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:12:45.297279",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "16041320",
-        "financial_year": "2022",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "16041320",
-        "description": "SPRTS WHOL/PIECS BT NT MINCD PRPD/PRSVD",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "BHUTAN",
-          "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": 0.0,
-            "pct_growth": -68.73
-          },
-          "values_quantity": {
-            "y2023_2024": 3824,
-            "y2024_2025": 1279,
-            "pct_growth": -66.55
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": -68.73,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 451070.0,
-            "y2024_2025": 6.89,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0,
-          "y2024_2025": null
-        }
-      }
-    },
     "2018": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:12:45.338007",
+        "scraped_at": "2026-01-26T21:32:18.331772",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "16041320",
         "financial_year": "2018",
@@ -321,7 +321,7 @@
     }
   },
   "metadata": {
-    "consolidated_at": "2026-01-26T20:12:45.395946",
+    "consolidated_at": "2026-01-26T21:32:18.443470",
     "trade_type": "export",
     "years_count": 6,
     "schema_version": "2.0"

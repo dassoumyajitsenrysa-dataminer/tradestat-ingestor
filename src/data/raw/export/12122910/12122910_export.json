@@ -3,7 +3,7 @@
   "years": {
     "2018": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:12:05.578664",
+        "scraped_at": "2026-01-26T21:31:36.961061",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "12122910",
         "financial_year": "2018",
@@ -54,12 +54,12 @@
         }
       }
     },
-    "2023": {
+    "2022": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:12:05.637038",
+        "scraped_at": "2026-01-26T21:31:37.092835",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "12122910",
-        "financial_year": "2023",
+        "financial_year": "2022",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -75,47 +75,19 @@
           "sno": 1,
           "country": "BANGLADESH PR",
           "values_usd": {
-            "y2023_2024": 0.04,
-            "y2024_2025": null,
-            "pct_growth": null
+            "y2023_2024": 0.01,
+            "y2024_2025": 0.04,
+            "pct_growth": 258.17
           },
           "values_quantity": {
-            "y2023_2024": 66000,
-            "y2024_2025": null,
-            "pct_growth": null
+            "y2023_2024": 10000,
+            "y2024_2025": 66000,
+            "pct_growth": 560.0
           }
         },
         {
           "sno": 2,
           "country": "KENYA",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 50,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 3,
-          "country": "NEW ZEALAND",
-          "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 1202,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 4,
-          "country": "NIGERIA",
           "values_usd": {
             "y2023_2024": null,
             "y2024_2025": 0.0,
@@ -123,7 +95,88 @@
           },
           "values_quantity": {
             "y2023_2024": null,
-            "y2024_2025": 4,
+            "y2024_2025": 50,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 3,
+          "country": "NETHERLAND",
+          "values_usd": {
+            "y2023_2024": 0.07,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 41750,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 4,
+          "country": "NEW ZEALAND",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.01,
+            "pct_growth": 50.76
+          },
+          "values_quantity": {
+            "y2023_2024": 720,
+            "y2024_2025": 1202,
+            "pct_growth": 66.94
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.05,
+            "y2024_2025": -38.5,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 451070.0,
+            "y2024_2025": 6.89,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0,
+          "y2024_2025": null
+        }
+      }
+    },
+    "2019": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:31:37.122186",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "12122910",
+        "financial_year": "2019",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "12122910",
+        "description": "SEAWEEDS",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "HONG KONG",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 1,
             "pct_growth": null
           }
         }
@@ -132,14 +185,14 @@
         "total": {
           "values_usd": {
             "y2023_2024": 0.0,
-            "y2024_2025": -99.88,
+            "y2024_2025": null,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 437072.03,
-            "y2024_2025": -3.1,
+            "y2023_2024": 313361.04,
+            "y2024_2025": -5.06,
             "pct_growth": null
           }
         },
@@ -151,7 +204,7 @@
     },
     "2020": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:12:05.653678",
+        "scraped_at": "2026-01-26T21:31:37.201343",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "12122910",
         "financial_year": "2020",
@@ -244,12 +297,12 @@
         }
       }
     },
-    "2019": {
+    "2023": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:12:05.694499",
+        "scraped_at": "2026-01-26T21:31:37.190825",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "12122910",
-        "financial_year": "2019",
+        "financial_year": "2023",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -263,7 +316,49 @@
       "countries": [
         {
           "sno": 1,
-          "country": "HONG KONG",
+          "country": "BANGLADESH PR",
+          "values_usd": {
+            "y2023_2024": 0.04,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 66000,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 2,
+          "country": "KENYA",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 50,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 3,
+          "country": "NEW ZEALAND",
+          "values_usd": {
+            "y2023_2024": 0.01,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 1202,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 4,
+          "country": "NIGERIA",
           "values_usd": {
             "y2023_2024": null,
             "y2024_2025": 0.0,
@@ -271,7 +366,7 @@
           },
           "values_quantity": {
             "y2023_2024": null,
-            "y2024_2025": 1,
+            "y2024_2025": 4,
             "pct_growth": null
           }
         }
@@ -280,14 +375,14 @@
         "total": {
           "values_usd": {
             "y2023_2024": 0.0,
-            "y2024_2025": null,
+            "y2024_2025": -99.88,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 313361.04,
-            "y2024_2025": -5.06,
+            "y2023_2024": 437072.03,
+            "y2024_2025": -3.1,
             "pct_growth": null
           }
         },
@@ -299,7 +394,7 @@
     },
     "2024": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:12:05.714726",
+        "scraped_at": "2026-01-26T21:31:37.253692",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "12122910",
         "financial_year": "2024",
@@ -352,7 +447,7 @@
     },
     "2021": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:12:05.701922",
+        "scraped_at": "2026-01-26T21:31:37.285894",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "12122910",
         "financial_year": "2021",
@@ -458,105 +553,10 @@
           "y2024_2025": null
         }
       }
-    },
-    "2022": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:12:05.744412",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "12122910",
-        "financial_year": "2022",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "12122910",
-        "description": "SEAWEEDS",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "BANGLADESH PR",
-          "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": 0.04,
-            "pct_growth": 258.17
-          },
-          "values_quantity": {
-            "y2023_2024": 10000,
-            "y2024_2025": 66000,
-            "pct_growth": 560.0
-          }
-        },
-        {
-          "sno": 2,
-          "country": "KENYA",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 50,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 3,
-          "country": "NETHERLAND",
-          "values_usd": {
-            "y2023_2024": 0.07,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 41750,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 4,
-          "country": "NEW ZEALAND",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.01,
-            "pct_growth": 50.76
-          },
-          "values_quantity": {
-            "y2023_2024": 720,
-            "y2024_2025": 1202,
-            "pct_growth": 66.94
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.05,
-            "y2024_2025": -38.5,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 451070.0,
-            "y2024_2025": 6.89,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0,
-          "y2024_2025": null
-        }
-      }
     }
   },
   "metadata": {
-    "consolidated_at": "2026-01-26T20:12:05.749192",
+    "consolidated_at": "2026-01-26T21:31:37.335643",
     "trade_type": "export",
     "years_count": 7,
     "schema_version": "2.0"

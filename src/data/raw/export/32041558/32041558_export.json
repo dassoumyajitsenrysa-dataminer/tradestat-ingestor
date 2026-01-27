@@ -1,9 +1,216 @@
 {
   "hsn_code": "32041558",
   "years": {
+    "2021": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:40:49.890779",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "32041558",
+        "financial_year": "2021",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "32041558",
+        "description": "REDUCED VAT BLUES",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "AFGHANISTAN",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 125,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 2,
+          "country": "AUSTRALIA",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.0,
+            "pct_growth": -6.73
+          },
+          "values_quantity": {
+            "y2023_2024": 50,
+            "y2024_2025": 50,
+            "pct_growth": 0.0
+          }
+        },
+        {
+          "sno": 3,
+          "country": "CAMEROON",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 125,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 4,
+          "country": "GAMBIA",
+          "values_usd": {
+            "y2023_2024": 0.02,
+            "y2024_2025": 0.03,
+            "pct_growth": 51.8
+          },
+          "values_quantity": {
+            "y2023_2024": 1500,
+            "y2024_2025": 2250,
+            "pct_growth": 50.0
+          }
+        },
+        {
+          "sno": 5,
+          "country": "GHANA",
+          "values_usd": {
+            "y2023_2024": 0.01,
+            "y2024_2025": 0.01,
+            "pct_growth": -25.24
+          },
+          "values_quantity": {
+            "y2023_2024": 1000,
+            "y2024_2025": 750,
+            "pct_growth": -25.0
+          }
+        },
+        {
+          "sno": 6,
+          "country": "GUINEA",
+          "values_usd": {
+            "y2023_2024": 0.21,
+            "y2024_2025": 0.34,
+            "pct_growth": 63.75
+          },
+          "values_quantity": {
+            "y2023_2024": 14750,
+            "y2024_2025": 24000,
+            "pct_growth": 62.71
+          }
+        },
+        {
+          "sno": 7,
+          "country": "HONG KONG",
+          "values_usd": {
+            "y2023_2024": 0.05,
+            "y2024_2025": 0.05,
+            "pct_growth": 4.71
+          },
+          "values_quantity": {
+            "y2023_2024": 4000,
+            "y2024_2025": 4000,
+            "pct_growth": 0.0
+          }
+        },
+        {
+          "sno": 8,
+          "country": "INDONESIA",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 30,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 9,
+          "country": "NETHERLAND",
+          "values_usd": {
+            "y2023_2024": 0.15,
+            "y2024_2025": 0.11,
+            "pct_growth": -28.44
+          },
+          "values_quantity": {
+            "y2023_2024": 11000,
+            "y2024_2025": 8000,
+            "pct_growth": -27.27
+          }
+        },
+        {
+          "sno": 10,
+          "country": "NIGERIA",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.02,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 1500,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 11,
+          "country": "TOGO",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.18,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 12500,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 12,
+          "country": "U S A",
+          "values_usd": {
+            "y2023_2024": 0.03,
+            "y2024_2025": 0.03,
+            "pct_growth": -0.76
+          },
+          "values_quantity": {
+            "y2023_2024": 2000,
+            "y2024_2025": 2000,
+            "pct_growth": 0.0
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.78,
+            "y2024_2025": 63.63,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 422004.4,
+            "y2024_2025": 44.62,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0002,
+          "y2024_2025": null
+        }
+      }
+    },
     "2020": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:22:04.483603",
+        "scraped_at": "2026-01-26T21:40:50.240203",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "32041558",
         "financial_year": "2020",
@@ -208,216 +415,9 @@
         }
       }
     },
-    "2023": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:22:04.813195",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "32041558",
-        "financial_year": "2023",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "32041558",
-        "description": "REDUCED VAT BLUES",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "AUSTRALIA",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 50,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 2,
-          "country": "GAMBIA",
-          "values_usd": {
-            "y2023_2024": 0.03,
-            "y2024_2025": 0.08,
-            "pct_growth": 131.68
-          },
-          "values_quantity": {
-            "y2023_2024": 2250,
-            "y2024_2025": 5800,
-            "pct_growth": 157.78
-          }
-        },
-        {
-          "sno": 3,
-          "country": "GHANA",
-          "values_usd": {
-            "y2023_2024": 0.03,
-            "y2024_2025": 0.04,
-            "pct_growth": 28.02
-          },
-          "values_quantity": {
-            "y2023_2024": 2000,
-            "y2024_2025": 3000,
-            "pct_growth": 50.0
-          }
-        },
-        {
-          "sno": 4,
-          "country": "GUATEMALA",
-          "values_usd": {
-            "y2023_2024": 0.07,
-            "y2024_2025": 0.03,
-            "pct_growth": -55.89
-          },
-          "values_quantity": {
-            "y2023_2024": 4000,
-            "y2024_2025": 2000,
-            "pct_growth": -50.0
-          }
-        },
-        {
-          "sno": 5,
-          "country": "GUINEA",
-          "values_usd": {
-            "y2023_2024": 0.4,
-            "y2024_2025": 0.55,
-            "pct_growth": 39.64
-          },
-          "values_quantity": {
-            "y2023_2024": 25500,
-            "y2024_2025": 40500,
-            "pct_growth": 58.82
-          }
-        },
-        {
-          "sno": 6,
-          "country": "IRAN",
-          "values_usd": {
-            "y2023_2024": 0.02,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 1000,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 7,
-          "country": "MALAYSIA",
-          "values_usd": {
-            "y2023_2024": 0.03,
-            "y2024_2025": 0.03,
-            "pct_growth": -13.75
-          },
-          "values_quantity": {
-            "y2023_2024": 2000,
-            "y2024_2025": 2000,
-            "pct_growth": 0.0
-          }
-        },
-        {
-          "sno": 8,
-          "country": "MALI",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 50,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 9,
-          "country": "NETHERLAND",
-          "values_usd": {
-            "y2023_2024": 0.1,
-            "y2024_2025": 0.13,
-            "pct_growth": 30.37
-          },
-          "values_quantity": {
-            "y2023_2024": 7450,
-            "y2024_2025": 10750,
-            "pct_growth": 44.3
-          }
-        },
-        {
-          "sno": 10,
-          "country": "NIGERIA",
-          "values_usd": {
-            "y2023_2024": 0.04,
-            "y2024_2025": 0.03,
-            "pct_growth": -21.03
-          },
-          "values_quantity": {
-            "y2023_2024": 2500,
-            "y2024_2025": 2200,
-            "pct_growth": -12.0
-          }
-        },
-        {
-          "sno": 11,
-          "country": "SIERRA LEONE",
-          "values_usd": {
-            "y2023_2024": 0.13,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 8000,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 12,
-          "country": "TOGO",
-          "values_usd": {
-            "y2023_2024": 0.25,
-            "y2024_2025": 0.23,
-            "pct_growth": -9.01
-          },
-          "values_quantity": {
-            "y2023_2024": 17000,
-            "y2024_2025": 17975,
-            "pct_growth": 5.74
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 1.11,
-            "y2024_2025": 1.82,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 437072.03,
-            "y2024_2025": -3.1,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0003,
-          "y2024_2025": null
-        }
-      }
-    },
     "2024": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:22:04.958895",
+        "scraped_at": "2026-01-26T21:40:50.300436",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "32041558",
         "financial_year": "2024",
@@ -664,216 +664,9 @@
         }
       }
     },
-    "2021": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:22:05.339372",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "32041558",
-        "financial_year": "2021",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "32041558",
-        "description": "REDUCED VAT BLUES",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "AFGHANISTAN",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 125,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 2,
-          "country": "AUSTRALIA",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.0,
-            "pct_growth": -6.73
-          },
-          "values_quantity": {
-            "y2023_2024": 50,
-            "y2024_2025": 50,
-            "pct_growth": 0.0
-          }
-        },
-        {
-          "sno": 3,
-          "country": "CAMEROON",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 125,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 4,
-          "country": "GAMBIA",
-          "values_usd": {
-            "y2023_2024": 0.02,
-            "y2024_2025": 0.03,
-            "pct_growth": 51.8
-          },
-          "values_quantity": {
-            "y2023_2024": 1500,
-            "y2024_2025": 2250,
-            "pct_growth": 50.0
-          }
-        },
-        {
-          "sno": 5,
-          "country": "GHANA",
-          "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": 0.01,
-            "pct_growth": -25.24
-          },
-          "values_quantity": {
-            "y2023_2024": 1000,
-            "y2024_2025": 750,
-            "pct_growth": -25.0
-          }
-        },
-        {
-          "sno": 6,
-          "country": "GUINEA",
-          "values_usd": {
-            "y2023_2024": 0.21,
-            "y2024_2025": 0.34,
-            "pct_growth": 63.75
-          },
-          "values_quantity": {
-            "y2023_2024": 14750,
-            "y2024_2025": 24000,
-            "pct_growth": 62.71
-          }
-        },
-        {
-          "sno": 7,
-          "country": "HONG KONG",
-          "values_usd": {
-            "y2023_2024": 0.05,
-            "y2024_2025": 0.05,
-            "pct_growth": 4.71
-          },
-          "values_quantity": {
-            "y2023_2024": 4000,
-            "y2024_2025": 4000,
-            "pct_growth": 0.0
-          }
-        },
-        {
-          "sno": 8,
-          "country": "INDONESIA",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 30,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 9,
-          "country": "NETHERLAND",
-          "values_usd": {
-            "y2023_2024": 0.15,
-            "y2024_2025": 0.11,
-            "pct_growth": -28.44
-          },
-          "values_quantity": {
-            "y2023_2024": 11000,
-            "y2024_2025": 8000,
-            "pct_growth": -27.27
-          }
-        },
-        {
-          "sno": 10,
-          "country": "NIGERIA",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.02,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 1500,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 11,
-          "country": "TOGO",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.18,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 12500,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 12,
-          "country": "U S A",
-          "values_usd": {
-            "y2023_2024": 0.03,
-            "y2024_2025": 0.03,
-            "pct_growth": -0.76
-          },
-          "values_quantity": {
-            "y2023_2024": 2000,
-            "y2024_2025": 2000,
-            "pct_growth": 0.0
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.78,
-            "y2024_2025": 63.63,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 422004.4,
-            "y2024_2025": 44.62,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0002,
-          "y2024_2025": null
-        }
-      }
-    },
     "2018": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:22:05.403329",
+        "scraped_at": "2026-01-26T21:40:50.365279",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "32041558",
         "financial_year": "2018",
@@ -1024,7 +817,7 @@
     },
     "2022": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:22:05.512600",
+        "scraped_at": "2026-01-26T21:40:50.390806",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "32041558",
         "financial_year": "2022",
@@ -1273,7 +1066,7 @@
     },
     "2019": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:22:05.521886",
+        "scraped_at": "2026-01-26T21:40:50.540371",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "32041558",
         "financial_year": "2019",
@@ -1421,10 +1214,217 @@
           "y2024_2025": null
         }
       }
+    },
+    "2023": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:40:50.669119",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "32041558",
+        "financial_year": "2023",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "32041558",
+        "description": "REDUCED VAT BLUES",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "AUSTRALIA",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 50,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 2,
+          "country": "GAMBIA",
+          "values_usd": {
+            "y2023_2024": 0.03,
+            "y2024_2025": 0.08,
+            "pct_growth": 131.68
+          },
+          "values_quantity": {
+            "y2023_2024": 2250,
+            "y2024_2025": 5800,
+            "pct_growth": 157.78
+          }
+        },
+        {
+          "sno": 3,
+          "country": "GHANA",
+          "values_usd": {
+            "y2023_2024": 0.03,
+            "y2024_2025": 0.04,
+            "pct_growth": 28.02
+          },
+          "values_quantity": {
+            "y2023_2024": 2000,
+            "y2024_2025": 3000,
+            "pct_growth": 50.0
+          }
+        },
+        {
+          "sno": 4,
+          "country": "GUATEMALA",
+          "values_usd": {
+            "y2023_2024": 0.07,
+            "y2024_2025": 0.03,
+            "pct_growth": -55.89
+          },
+          "values_quantity": {
+            "y2023_2024": 4000,
+            "y2024_2025": 2000,
+            "pct_growth": -50.0
+          }
+        },
+        {
+          "sno": 5,
+          "country": "GUINEA",
+          "values_usd": {
+            "y2023_2024": 0.4,
+            "y2024_2025": 0.55,
+            "pct_growth": 39.64
+          },
+          "values_quantity": {
+            "y2023_2024": 25500,
+            "y2024_2025": 40500,
+            "pct_growth": 58.82
+          }
+        },
+        {
+          "sno": 6,
+          "country": "IRAN",
+          "values_usd": {
+            "y2023_2024": 0.02,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 1000,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 7,
+          "country": "MALAYSIA",
+          "values_usd": {
+            "y2023_2024": 0.03,
+            "y2024_2025": 0.03,
+            "pct_growth": -13.75
+          },
+          "values_quantity": {
+            "y2023_2024": 2000,
+            "y2024_2025": 2000,
+            "pct_growth": 0.0
+          }
+        },
+        {
+          "sno": 8,
+          "country": "MALI",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 50,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 9,
+          "country": "NETHERLAND",
+          "values_usd": {
+            "y2023_2024": 0.1,
+            "y2024_2025": 0.13,
+            "pct_growth": 30.37
+          },
+          "values_quantity": {
+            "y2023_2024": 7450,
+            "y2024_2025": 10750,
+            "pct_growth": 44.3
+          }
+        },
+        {
+          "sno": 10,
+          "country": "NIGERIA",
+          "values_usd": {
+            "y2023_2024": 0.04,
+            "y2024_2025": 0.03,
+            "pct_growth": -21.03
+          },
+          "values_quantity": {
+            "y2023_2024": 2500,
+            "y2024_2025": 2200,
+            "pct_growth": -12.0
+          }
+        },
+        {
+          "sno": 11,
+          "country": "SIERRA LEONE",
+          "values_usd": {
+            "y2023_2024": 0.13,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 8000,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 12,
+          "country": "TOGO",
+          "values_usd": {
+            "y2023_2024": 0.25,
+            "y2024_2025": 0.23,
+            "pct_growth": -9.01
+          },
+          "values_quantity": {
+            "y2023_2024": 17000,
+            "y2024_2025": 17975,
+            "pct_growth": 5.74
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 1.11,
+            "y2024_2025": 1.82,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 437072.03,
+            "y2024_2025": -3.1,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0003,
+          "y2024_2025": null
+        }
+      }
     }
   },
   "metadata": {
-    "consolidated_at": "2026-01-26T20:22:05.579227",
+    "consolidated_at": "2026-01-26T21:40:50.756215",
     "trade_type": "export",
     "years_count": 7,
     "schema_version": "2.0"

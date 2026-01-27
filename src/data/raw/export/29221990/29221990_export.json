@@ -3,7 +3,7 @@
   "years": {
     "2019": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:18:41.812782",
+        "scraped_at": "2026-01-26T21:38:04.398800",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29221990",
         "financial_year": "2019",
@@ -1398,12 +1398,12 @@
         }
       }
     },
-    "2018": {
+    "2021": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:18:42.127065",
+        "scraped_at": "2026-01-26T21:38:04.939770",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29221990",
-        "financial_year": "2018",
+        "financial_year": "2021",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -1419,13 +1419,13 @@
           "sno": 1,
           "country": "AFGHANISTAN",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 25,
+            "y2023_2024": 100,
+            "y2024_2025": null,
             "pct_growth": null
           }
         },
@@ -1433,23 +1433,191 @@
           "sno": 2,
           "country": "ALGERIA",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.04,
-            "pct_growth": null
+            "y2023_2024": 0.11,
+            "y2024_2025": 0.17,
+            "pct_growth": 55.76
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 88,
-            "pct_growth": null
+            "y2023_2024": 593,
+            "y2024_2025": 1750,
+            "pct_growth": 195.11
           }
         },
         {
           "sno": 3,
+          "country": "ANGOLA",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 1,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 4,
           "country": "ARGENTINA",
           "values_usd": {
-            "y2023_2024": 0.08,
-            "y2024_2025": 0.04,
-            "pct_growth": -50.46
+            "y2023_2024": 0.15,
+            "y2024_2025": 0.24,
+            "pct_growth": 62.25
+          },
+          "values_quantity": {
+            "y2023_2024": 145,
+            "y2024_2025": 315,
+            "pct_growth": 117.24
+          }
+        },
+        {
+          "sno": 5,
+          "country": "AUSTRALIA",
+          "values_usd": {
+            "y2023_2024": 0.76,
+            "y2024_2025": 1.15,
+            "pct_growth": 50.83
+          },
+          "values_quantity": {
+            "y2023_2024": 326510,
+            "y2024_2025": 348045,
+            "pct_growth": 6.6
+          }
+        },
+        {
+          "sno": 6,
+          "country": "AUSTRIA",
+          "values_usd": {
+            "y2023_2024": 0.62,
+            "y2024_2025": 0.12,
+            "pct_growth": -80.66
+          },
+          "values_quantity": {
+            "y2023_2024": 73,
+            "y2024_2025": 51,
+            "pct_growth": -30.14
+          }
+        },
+        {
+          "sno": 7,
+          "country": "BANGLADESH PR",
+          "values_usd": {
+            "y2023_2024": 0.56,
+            "y2024_2025": 0.78,
+            "pct_growth": 38.84
+          },
+          "values_quantity": {
+            "y2023_2024": 11236,
+            "y2024_2025": 48540,
+            "pct_growth": 332.0
+          }
+        },
+        {
+          "sno": 8,
+          "country": "BELARUS",
+          "values_usd": {
+            "y2023_2024": 0.02,
+            "y2024_2025": 0.03,
+            "pct_growth": 30.84
+          },
+          "values_quantity": {
+            "y2023_2024": 75,
+            "y2024_2025": 100,
+            "pct_growth": 33.33
+          }
+        },
+        {
+          "sno": 9,
+          "country": "BELGIUM",
+          "values_usd": {
+            "y2023_2024": 0.16,
+            "y2024_2025": 0.25,
+            "pct_growth": 53.32
+          },
+          "values_quantity": {
+            "y2023_2024": 18925,
+            "y2024_2025": 37442,
+            "pct_growth": 97.84
+          }
+        },
+        {
+          "sno": 10,
+          "country": "BHUTAN",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.0,
+            "pct_growth": -97.6
+          },
+          "values_quantity": {
+            "y2023_2024": 1007,
+            "y2024_2025": 2,
+            "pct_growth": -99.8
+          }
+        },
+        {
+          "sno": 11,
+          "country": "BOTSWANA",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 1,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 12,
+          "country": "BRAZIL",
+          "values_usd": {
+            "y2023_2024": 0.74,
+            "y2024_2025": 1.47,
+            "pct_growth": 98.09
+          },
+          "values_quantity": {
+            "y2023_2024": 57803,
+            "y2024_2025": 43269,
+            "pct_growth": -25.14
+          }
+        },
+        {
+          "sno": 13,
+          "country": "BULGARIA",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.0,
+            "pct_growth": -3.47
+          },
+          "values_quantity": {
+            "y2023_2024": 51,
+            "y2024_2025": 50,
+            "pct_growth": -1.96
+          }
+        },
+        {
+          "sno": 14,
+          "country": "C AFRI REP",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.05,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 28980,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 15,
+          "country": "CAMBODIA",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
           },
           "values_quantity": {
             "y2023_2024": null,
@@ -1458,22 +1626,8 @@
           }
         },
         {
-          "sno": 4,
-          "country": "AUSTRALIA",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.03,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 11448,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 5,
-          "country": "AUSTRIA",
+          "sno": 16,
+          "country": "CAMEROON",
           "values_usd": {
             "y2023_2024": null,
             "y2024_2025": 0.0,
@@ -1482,180 +1636,208 @@
           "values_quantity": {
             "y2023_2024": null,
             "y2024_2025": 1,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 6,
-          "country": "BANGLADESH PR",
-          "values_usd": {
-            "y2023_2024": 0.14,
-            "y2024_2025": 0.33,
-            "pct_growth": 140.32
-          },
-          "values_quantity": {
-            "y2023_2024": 1800,
-            "y2024_2025": 4338,
-            "pct_growth": 141.0
-          }
-        },
-        {
-          "sno": 7,
-          "country": "BELARUS",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 2,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 8,
-          "country": "BELGIUM",
-          "values_usd": {
-            "y2023_2024": 0.15,
-            "y2024_2025": 0.06,
-            "pct_growth": -62.24
-          },
-          "values_quantity": {
-            "y2023_2024": 26400,
-            "y2024_2025": 16520,
-            "pct_growth": -37.42
-          }
-        },
-        {
-          "sno": 9,
-          "country": "BHUTAN",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 30,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 10,
-          "country": "BRAZIL",
-          "values_usd": {
-            "y2023_2024": 0.02,
-            "y2024_2025": 0.14,
-            "pct_growth": 655.08
-          },
-          "values_quantity": {
-            "y2023_2024": 3202,
-            "y2024_2025": 5262,
-            "pct_growth": 64.33
-          }
-        },
-        {
-          "sno": 11,
-          "country": "CAMBODIA",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.01,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 100,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 12,
-          "country": "CANADA",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.43,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 1286,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 13,
-          "country": "CHINA P RP",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.63,
-            "pct_growth": 20270.74
-          },
-          "values_quantity": {
-            "y2023_2024": 800,
-            "y2024_2025": 34028,
-            "pct_growth": 4153.5
-          }
-        },
-        {
-          "sno": 14,
-          "country": "COLOMBIA",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 30,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 15,
-          "country": "CYPRUS",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.01,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 12,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 16,
-          "country": "CZECH REPUBLIC",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.1,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 1815,
             "pct_growth": null
           }
         },
         {
           "sno": 17,
-          "country": "DOMINIC REP",
+          "country": "CANADA",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
+            "y2023_2024": 0.1,
+            "y2024_2025": 1.96,
+            "pct_growth": 1839.02
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 1,
-            "pct_growth": null
+            "y2023_2024": 131,
+            "y2024_2025": 4971,
+            "pct_growth": 3694.66
           }
         },
         {
           "sno": 18,
+          "country": "CHILE",
+          "values_usd": {
+            "y2023_2024": 0.07,
+            "y2024_2025": 0.04,
+            "pct_growth": -33.09
+          },
+          "values_quantity": {
+            "y2023_2024": 395,
+            "y2024_2025": 210,
+            "pct_growth": -46.84
+          }
+        },
+        {
+          "sno": 19,
+          "country": "CHINA P RP",
+          "values_usd": {
+            "y2023_2024": 3.07,
+            "y2024_2025": 2.03,
+            "pct_growth": -33.8
+          },
+          "values_quantity": {
+            "y2023_2024": 75431,
+            "y2024_2025": 98289,
+            "pct_growth": 30.3
+          }
+        },
+        {
+          "sno": 20,
+          "country": "COLOMBIA",
+          "values_usd": {
+            "y2023_2024": 0.1,
+            "y2024_2025": 0.04,
+            "pct_growth": -59.76
+          },
+          "values_quantity": {
+            "y2023_2024": 22953,
+            "y2024_2025": 776,
+            "pct_growth": -96.62
+          }
+        },
+        {
+          "sno": 21,
+          "country": "CONGO D. REP.",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 462,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 22,
+          "country": "COSTA RICA",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 3,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 23,
+          "country": "CROATIA",
+          "values_usd": {
+            "y2023_2024": 0.06,
+            "y2024_2025": 0.09,
+            "pct_growth": 46.65
+          },
+          "values_quantity": {
+            "y2023_2024": 800,
+            "y2024_2025": 1200,
+            "pct_growth": 50.0
+          }
+        },
+        {
+          "sno": 24,
+          "country": "CYPRUS",
+          "values_usd": {
+            "y2023_2024": 0.01,
+            "y2024_2025": 0.0,
+            "pct_growth": -98.38
+          },
+          "values_quantity": {
+            "y2023_2024": 13,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 25,
+          "country": "CZECH REPUBLIC",
+          "values_usd": {
+            "y2023_2024": 0.25,
+            "y2024_2025": 0.3,
+            "pct_growth": 16.59
+          },
+          "values_quantity": {
+            "y2023_2024": 8358,
+            "y2024_2025": 7433,
+            "pct_growth": -11.07
+          }
+        },
+        {
+          "sno": 26,
+          "country": "DJIBOUTI",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 572,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 27,
+          "country": "DOMINIC REP",
+          "values_usd": {
+            "y2023_2024": 0.01,
+            "y2024_2025": 0.04,
+            "pct_growth": 256.36
+          },
+          "values_quantity": {
+            "y2023_2024": 34,
+            "y2024_2025": 140,
+            "pct_growth": 311.76
+          }
+        },
+        {
+          "sno": 28,
           "country": "ECUADOR",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.0,
+            "pct_growth": -68.0
+          },
+          "values_quantity": {
+            "y2023_2024": 75,
+            "y2024_2025": 16,
+            "pct_growth": -78.67
+          }
+        },
+        {
+          "sno": 29,
+          "country": "EGYPT A RP",
+          "values_usd": {
+            "y2023_2024": 0.92,
+            "y2024_2025": 0.8,
+            "pct_growth": -12.6
+          },
+          "values_quantity": {
+            "y2023_2024": 8532,
+            "y2024_2025": 7102,
+            "pct_growth": -16.76
+          }
+        },
+        {
+          "sno": 30,
+          "country": "EL SALVADOR",
+          "values_usd": {
+            "y2023_2024": 0.07,
+            "y2024_2025": 0.01,
+            "pct_growth": -85.48
+          },
+          "values_quantity": {
+            "y2023_2024": 183,
+            "y2024_2025": 21,
+            "pct_growth": -88.52
+          }
+        },
+        {
+          "sno": 31,
+          "country": "ERITREA",
           "values_usd": {
             "y2023_2024": null,
             "y2024_2025": 0.0,
@@ -1668,35 +1850,35 @@
           }
         },
         {
-          "sno": 19,
-          "country": "EGYPT A RP",
-          "values_usd": {
-            "y2023_2024": 0.05,
-            "y2024_2025": 0.66,
-            "pct_growth": 1309.1
-          },
-          "values_quantity": {
-            "y2023_2024": 37000,
-            "y2024_2025": 1535,
-            "pct_growth": -95.85
-          }
-        },
-        {
-          "sno": 20,
+          "sno": 32,
           "country": "ETHIOPIA",
           "values_usd": {
-            "y2023_2024": null,
+            "y2023_2024": 0.0,
             "y2024_2025": 0.0,
+            "pct_growth": 216.44
+          },
+          "values_quantity": {
+            "y2023_2024": 1,
+            "y2024_2025": 4,
+            "pct_growth": 300.0
+          }
+        },
+        {
+          "sno": 33,
+          "country": "FIJI IS",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 23,
+            "y2023_2024": 1,
+            "y2024_2025": null,
             "pct_growth": null
           }
         },
         {
-          "sno": 21,
+          "sno": 34,
           "country": "FINLAND",
           "values_usd": {
             "y2023_2024": null,
@@ -1705,339 +1887,157 @@
           },
           "values_quantity": {
             "y2023_2024": null,
-            "y2024_2025": 2,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 22,
-          "country": "FRANCE",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 5,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 23,
-          "country": "GERMANY",
-          "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": 0.21,
-            "pct_growth": 3609.0
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 347,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 24,
-          "country": "GREECE",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.0,
-            "pct_growth": 80906.87
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 3,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 25,
-          "country": "HONG KONG",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.01,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 55,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 26,
-          "country": "ICELAND",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.01,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 27,
-          "country": "INDONESIA",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.25,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 4558,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 28,
-          "country": "IRAN",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.04,
-            "pct_growth": 468532.28
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 2151,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 29,
-          "country": "IRAQ",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 8,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 30,
-          "country": "IRELAND",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 2,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 31,
-          "country": "ISRAEL",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.08,
-            "pct_growth": 768428.25
-          },
-          "values_quantity": {
-            "y2023_2024": 5,
-            "y2024_2025": 105,
-            "pct_growth": 2000.0
-          }
-        },
-        {
-          "sno": 32,
-          "country": "ITALY",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.11,
-            "pct_growth": 2427.96
-          },
-          "values_quantity": {
-            "y2023_2024": 1205,
-            "y2024_2025": 19542,
-            "pct_growth": 1521.74
-          }
-        },
-        {
-          "sno": 33,
-          "country": "JAPAN",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.09,
-            "pct_growth": 1929605.31
-          },
-          "values_quantity": {
-            "y2023_2024": 1,
-            "y2024_2025": 291,
-            "pct_growth": 29000.0
-          }
-        },
-        {
-          "sno": 34,
-          "country": "JORDAN",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.03,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 31,
+            "y2024_2025": 812,
             "pct_growth": null
           }
         },
         {
           "sno": 35,
-          "country": "KENYA",
+          "country": "FRANCE",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
+            "y2023_2024": 0.12,
+            "y2024_2025": 0.29,
+            "pct_growth": 141.73
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 466,
-            "pct_growth": null
+            "y2023_2024": 36250,
+            "y2024_2025": 39175,
+            "pct_growth": 8.07
           }
         },
         {
           "sno": 36,
-          "country": "KOREA RP",
+          "country": "GABON",
           "values_usd": {
-            "y2023_2024": 0.06,
-            "y2024_2025": 0.07,
-            "pct_growth": 20.27
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.0,
+            "pct_growth": -12.03
           },
           "values_quantity": {
-            "y2023_2024": 11202,
-            "y2024_2025": 14018,
-            "pct_growth": 25.14
+            "y2023_2024": 1,
+            "y2024_2025": 3,
+            "pct_growth": 200.0
           }
         },
         {
           "sno": 37,
-          "country": "KUWAIT",
+          "country": "GEORGIA",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 11,
+            "y2023_2024": 1,
+            "y2024_2025": null,
             "pct_growth": null
           }
         },
         {
           "sno": 38,
-          "country": "LEBANON",
+          "country": "GERMANY",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.02,
-            "pct_growth": null
+            "y2023_2024": 0.72,
+            "y2024_2025": 1.13,
+            "pct_growth": 57.39
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 1005,
-            "pct_growth": null
+            "y2023_2024": 19963,
+            "y2024_2025": 53436,
+            "pct_growth": 167.68
           }
         },
         {
           "sno": 39,
-          "country": "MALAYSIA",
+          "country": "GHANA",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.05,
-            "pct_growth": null
+            "y2023_2024": 0.03,
+            "y2024_2025": 0.0,
+            "pct_growth": -98.72
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 4048,
-            "pct_growth": null
+            "y2023_2024": 803,
+            "y2024_2025": 17,
+            "pct_growth": -97.88
           }
         },
         {
           "sno": 40,
-          "country": "MALDIVES",
+          "country": "GREECE",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
+            "y2023_2024": 0.05,
+            "y2024_2025": 0.26,
+            "pct_growth": 391.06
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 100,
-            "pct_growth": null
+            "y2023_2024": 108,
+            "y2024_2025": 245,
+            "pct_growth": 126.85
           }
         },
         {
           "sno": 41,
-          "country": "MALTA",
+          "country": "GUATEMALA",
           "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.04,
-            "pct_growth": 795.14
+            "y2023_2024": 0.02,
+            "y2024_2025": 0.05,
+            "pct_growth": 136.1
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 2,
-            "pct_growth": null
+            "y2023_2024": 50,
+            "y2024_2025": 725,
+            "pct_growth": 1350.0
           }
         },
         {
           "sno": 42,
-          "country": "MEXICO",
+          "country": "HONDURAS",
           "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": 0.09,
-            "pct_growth": 1189.75
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.01,
+            "pct_growth": 180.62
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 98,
-            "pct_growth": null
+            "y2023_2024": 10,
+            "y2024_2025": 50,
+            "pct_growth": 400.0
           }
         },
         {
           "sno": 43,
-          "country": "MONGOLIA",
+          "country": "HONG KONG",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.03,
+            "pct_growth": 905.02
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 2,
-            "pct_growth": null
+            "y2023_2024": 50,
+            "y2024_2025": 225,
+            "pct_growth": 350.0
           }
         },
         {
           "sno": 44,
-          "country": "MOROCCO",
+          "country": "HUNGARY",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.05,
-            "pct_growth": null
+            "y2023_2024": 0.11,
+            "y2024_2025": 0.65,
+            "pct_growth": 474.17
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 30,
-            "pct_growth": null
+            "y2023_2024": 2000,
+            "y2024_2025": 1315,
+            "pct_growth": -34.25
           }
         },
         {
           "sno": 45,
-          "country": "MOZAMBIQUE",
+          "country": "ICELAND",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
+            "y2023_2024": 0.01,
+            "y2024_2025": 0.02,
+            "pct_growth": 134.92
           },
           "values_quantity": {
             "y2023_2024": null,
@@ -2047,7 +2047,217 @@
         },
         {
           "sno": 46,
-          "country": "MYANMAR",
+          "country": "INDONESIA",
+          "values_usd": {
+            "y2023_2024": 0.26,
+            "y2024_2025": 0.19,
+            "pct_growth": -26.57
+          },
+          "values_quantity": {
+            "y2023_2024": 91786,
+            "y2024_2025": 533,
+            "pct_growth": -99.42
+          }
+        },
+        {
+          "sno": 47,
+          "country": "IRAN",
+          "values_usd": {
+            "y2023_2024": 0.75,
+            "y2024_2025": 0.09,
+            "pct_growth": -88.47
+          },
+          "values_quantity": {
+            "y2023_2024": 23710,
+            "y2024_2025": 3791,
+            "pct_growth": -84.01
+          }
+        },
+        {
+          "sno": 48,
+          "country": "IRAQ",
+          "values_usd": {
+            "y2023_2024": 0.04,
+            "y2024_2025": 0.0,
+            "pct_growth": -96.7
+          },
+          "values_quantity": {
+            "y2023_2024": 1575,
+            "y2024_2025": 51,
+            "pct_growth": -96.76
+          }
+        },
+        {
+          "sno": 49,
+          "country": "IRELAND",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.01,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 1360,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 50,
+          "country": "ISRAEL",
+          "values_usd": {
+            "y2023_2024": 0.13,
+            "y2024_2025": 0.28,
+            "pct_growth": 116.55
+          },
+          "values_quantity": {
+            "y2023_2024": 445,
+            "y2024_2025": 578,
+            "pct_growth": 29.89
+          }
+        },
+        {
+          "sno": 51,
+          "country": "ITALY",
+          "values_usd": {
+            "y2023_2024": 1.67,
+            "y2024_2025": 2.93,
+            "pct_growth": 75.24
+          },
+          "values_quantity": {
+            "y2023_2024": 55949,
+            "y2024_2025": 41384,
+            "pct_growth": -26.03
+          }
+        },
+        {
+          "sno": 52,
+          "country": "JAPAN",
+          "values_usd": {
+            "y2023_2024": 0.13,
+            "y2024_2025": 0.1,
+            "pct_growth": -24.57
+          },
+          "values_quantity": {
+            "y2023_2024": 876,
+            "y2024_2025": 2329,
+            "pct_growth": 165.87
+          }
+        },
+        {
+          "sno": 53,
+          "country": "JORDAN",
+          "values_usd": {
+            "y2023_2024": 0.12,
+            "y2024_2025": 0.04,
+            "pct_growth": -65.16
+          },
+          "values_quantity": {
+            "y2023_2024": 268,
+            "y2024_2025": 306,
+            "pct_growth": 14.18
+          }
+        },
+        {
+          "sno": 54,
+          "country": "KAZAKHSTAN",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 11,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 55,
+          "country": "KENYA",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.01,
+            "pct_growth": 98.84
+          },
+          "values_quantity": {
+            "y2023_2024": 29,
+            "y2024_2025": 222,
+            "pct_growth": 665.52
+          }
+        },
+        {
+          "sno": 56,
+          "country": "KOREA RP",
+          "values_usd": {
+            "y2023_2024": 0.77,
+            "y2024_2025": 0.52,
+            "pct_growth": -32.59
+          },
+          "values_quantity": {
+            "y2023_2024": 121634,
+            "y2024_2025": 95006,
+            "pct_growth": -21.89
+          }
+        },
+        {
+          "sno": 57,
+          "country": "KUWAIT",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 2,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 58,
+          "country": "LATVIA",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 59,
+          "country": "LEBANON",
+          "values_usd": {
+            "y2023_2024": 0.05,
+            "y2024_2025": 0.07,
+            "pct_growth": 33.52
+          },
+          "values_quantity": {
+            "y2023_2024": 12351,
+            "y2024_2025": 752,
+            "pct_growth": -93.91
+          }
+        },
+        {
+          "sno": 60,
+          "country": "LIBERIA",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 100,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 61,
+          "country": "MACEDONIA",
           "values_usd": {
             "y2023_2024": null,
             "y2024_2025": 0.0,
@@ -2055,41 +2265,55 @@
           },
           "values_quantity": {
             "y2023_2024": null,
-            "y2024_2025": 3,
+            "y2024_2025": 80,
             "pct_growth": null
           }
         },
         {
-          "sno": 47,
-          "country": "NEPAL",
+          "sno": 62,
+          "country": "MALAWI",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.04,
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 2191,
+            "y2023_2024": 10,
+            "y2024_2025": null,
             "pct_growth": null
           }
         },
         {
-          "sno": 48,
-          "country": "NETHERLAND",
+          "sno": 63,
+          "country": "MALAYSIA",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.03,
-            "pct_growth": null
+            "y2023_2024": 0.15,
+            "y2024_2025": 0.13,
+            "pct_growth": -15.15
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 21607,
+            "y2023_2024": 112320,
+            "y2024_2025": 79142,
+            "pct_growth": -29.54
+          }
+        },
+        {
+          "sno": 64,
+          "country": "MALTA",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.0,
+            "pct_growth": -44.28
+          },
+          "values_quantity": {
+            "y2023_2024": 2,
+            "y2024_2025": null,
             "pct_growth": null
           }
         },
         {
-          "sno": 49,
-          "country": "NICARAGUA",
+          "sno": 65,
+          "country": "MAURITIUS",
           "values_usd": {
             "y2023_2024": null,
             "y2024_2025": 0.0,
@@ -2102,22 +2326,106 @@
           }
         },
         {
-          "sno": 50,
-          "country": "NIGERIA",
+          "sno": 66,
+          "country": "MEXICO",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.01,
+            "y2023_2024": 0.36,
+            "y2024_2025": 0.44,
+            "pct_growth": 21.68
+          },
+          "values_quantity": {
+            "y2023_2024": 113633,
+            "y2024_2025": 2719,
+            "pct_growth": -97.61
+          }
+        },
+        {
+          "sno": 67,
+          "country": "MOLDOVA",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.0,
+            "pct_growth": -18.7
+          },
+          "values_quantity": {
+            "y2023_2024": 15,
+            "y2024_2025": 15,
+            "pct_growth": 0.0
+          }
+        },
+        {
+          "sno": 68,
+          "country": "MOROCCO",
+          "values_usd": {
+            "y2023_2024": 0.03,
+            "y2024_2025": null,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 281,
+            "y2023_2024": 1153,
+            "y2024_2025": null,
             "pct_growth": null
           }
         },
         {
-          "sno": 51,
-          "country": "OMAN",
+          "sno": 69,
+          "country": "MYANMAR",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.01,
+            "pct_growth": 79.03
+          },
+          "values_quantity": {
+            "y2023_2024": 39,
+            "y2024_2025": 2,
+            "pct_growth": -94.87
+          }
+        },
+        {
+          "sno": 70,
+          "country": "NEPAL",
+          "values_usd": {
+            "y2023_2024": 0.04,
+            "y2024_2025": 0.03,
+            "pct_growth": -13.29
+          },
+          "values_quantity": {
+            "y2023_2024": 1856,
+            "y2024_2025": 1144,
+            "pct_growth": -38.36
+          }
+        },
+        {
+          "sno": 71,
+          "country": "NETHERLAND",
+          "values_usd": {
+            "y2023_2024": 1.95,
+            "y2024_2025": 24.36,
+            "pct_growth": 1147.71
+          },
+          "values_quantity": {
+            "y2023_2024": 267175,
+            "y2024_2025": 999709,
+            "pct_growth": 274.18
+          }
+        },
+        {
+          "sno": 72,
+          "country": "NEW ZEALAND",
+          "values_usd": {
+            "y2023_2024": 0.1,
+            "y2024_2025": 0.1,
+            "pct_growth": -0.16
+          },
+          "values_quantity": {
+            "y2023_2024": 15600,
+            "y2024_2025": 15600,
+            "pct_growth": 0.0
+          }
+        },
+        {
+          "sno": 73,
+          "country": "NICARAGUA",
           "values_usd": {
             "y2023_2024": null,
             "y2024_2025": 0.0,
@@ -2125,41 +2433,503 @@
           },
           "values_quantity": {
             "y2023_2024": null,
-            "y2024_2025": 48,
+            "y2024_2025": 50,
             "pct_growth": null
           }
         },
         {
-          "sno": 52,
+          "sno": 74,
+          "country": "NIGERIA",
+          "values_usd": {
+            "y2023_2024": 0.05,
+            "y2024_2025": 0.03,
+            "pct_growth": -36.31
+          },
+          "values_quantity": {
+            "y2023_2024": 3305,
+            "y2024_2025": 1400,
+            "pct_growth": -57.64
+          }
+        },
+        {
+          "sno": 75,
+          "country": "OMAN",
+          "values_usd": {
+            "y2023_2024": 0.05,
+            "y2024_2025": 0.07,
+            "pct_growth": 48.54
+          },
+          "values_quantity": {
+            "y2023_2024": 9944,
+            "y2024_2025": 45601,
+            "pct_growth": 358.58
+          }
+        },
+        {
+          "sno": 76,
           "country": "PAKISTAN IR",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.23,
-            "pct_growth": null
+            "y2023_2024": 1.17,
+            "y2024_2025": 1.01,
+            "pct_growth": -13.53
+          },
+          "values_quantity": {
+            "y2023_2024": 50244,
+            "y2024_2025": 32517,
+            "pct_growth": -35.28
+          }
+        },
+        {
+          "sno": 77,
+          "country": "PANAMA REPUBLIC",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.0,
+            "pct_growth": 67247.48
           },
           "values_quantity": {
             "y2023_2024": null,
-            "y2024_2025": 17089,
+            "y2024_2025": 20,
             "pct_growth": null
           }
         },
         {
-          "sno": 53,
+          "sno": 78,
+          "country": "PARAGUAY",
+          "values_usd": {
+            "y2023_2024": 0.07,
+            "y2024_2025": 0.08,
+            "pct_growth": 17.05
+          },
+          "values_quantity": {
+            "y2023_2024": 2500,
+            "y2024_2025": 2891,
+            "pct_growth": 15.64
+          }
+        },
+        {
+          "sno": 79,
           "country": "PERU",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.02,
-            "pct_growth": null
+            "y2023_2024": 0.07,
+            "y2024_2025": 0.11,
+            "pct_growth": 59.39
+          },
+          "values_quantity": {
+            "y2023_2024": 717,
+            "y2024_2025": 1843,
+            "pct_growth": 157.04
+          }
+        },
+        {
+          "sno": 80,
+          "country": "PHILIPPINES",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.04,
+            "pct_growth": 829.8
+          },
+          "values_quantity": {
+            "y2023_2024": 67,
+            "y2024_2025": 202,
+            "pct_growth": 201.49
+          }
+        },
+        {
+          "sno": 81,
+          "country": "POLAND",
+          "values_usd": {
+            "y2023_2024": 0.05,
+            "y2024_2025": 0.58,
+            "pct_growth": 977.2
+          },
+          "values_quantity": {
+            "y2023_2024": 275,
+            "y2024_2025": 8040,
+            "pct_growth": 2823.64
+          }
+        },
+        {
+          "sno": 82,
+          "country": "PORTUGAL",
+          "values_usd": {
+            "y2023_2024": 0.06,
+            "y2024_2025": 0.14,
+            "pct_growth": 111.25
+          },
+          "values_quantity": {
+            "y2023_2024": 150,
+            "y2024_2025": 1450,
+            "pct_growth": 866.67
+          }
+        },
+        {
+          "sno": 83,
+          "country": "QATAR",
+          "values_usd": {
+            "y2023_2024": 0.05,
+            "y2024_2025": 0.01,
+            "pct_growth": -79.78
+          },
+          "values_quantity": {
+            "y2023_2024": 15400,
+            "y2024_2025": 2798,
+            "pct_growth": -81.83
+          }
+        },
+        {
+          "sno": 84,
+          "country": "ROMANIA",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.01,
+            "pct_growth": 184373.09
           },
           "values_quantity": {
             "y2023_2024": null,
-            "y2024_2025": 57,
+            "y2024_2025": 25,
             "pct_growth": null
           }
         },
         {
-          "sno": 54,
-          "country": "PHILIPPINES",
+          "sno": 85,
+          "country": "RUSSIA",
+          "values_usd": {
+            "y2023_2024": 1.46,
+            "y2024_2025": 1.13,
+            "pct_growth": -22.61
+          },
+          "values_quantity": {
+            "y2023_2024": 6881,
+            "y2024_2025": 4172,
+            "pct_growth": -39.37
+          }
+        },
+        {
+          "sno": 86,
+          "country": "SAUDI ARAB",
+          "values_usd": {
+            "y2023_2024": 0.08,
+            "y2024_2025": 0.01,
+            "pct_growth": -81.32
+          },
+          "values_quantity": {
+            "y2023_2024": 94,
+            "y2024_2025": 3,
+            "pct_growth": -96.81
+          }
+        },
+        {
+          "sno": 87,
+          "country": "SERBIA",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 75,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 88,
+          "country": "SINGAPORE",
+          "values_usd": {
+            "y2023_2024": 0.05,
+            "y2024_2025": 0.09,
+            "pct_growth": 66.93
+          },
+          "values_quantity": {
+            "y2023_2024": 8895,
+            "y2024_2025": 6933,
+            "pct_growth": -22.06
+          }
+        },
+        {
+          "sno": 89,
+          "country": "SLOVAK REP",
+          "values_usd": {
+            "y2023_2024": 0.03,
+            "y2024_2025": 0.01,
+            "pct_growth": -56.73
+          },
+          "values_quantity": {
+            "y2023_2024": 42,
+            "y2024_2025": 3,
+            "pct_growth": -92.86
+          }
+        },
+        {
+          "sno": 90,
+          "country": "SLOVENIA",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.01,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 91,
+          "country": "SOUTH AFRICA",
+          "values_usd": {
+            "y2023_2024": 0.04,
+            "y2024_2025": 0.14,
+            "pct_growth": 249.79
+          },
+          "values_quantity": {
+            "y2023_2024": 15308,
+            "y2024_2025": 41275,
+            "pct_growth": 169.63
+          }
+        },
+        {
+          "sno": 92,
+          "country": "SPAIN",
+          "values_usd": {
+            "y2023_2024": 0.04,
+            "y2024_2025": 0.94,
+            "pct_growth": 2220.04
+          },
+          "values_quantity": {
+            "y2023_2024": 387,
+            "y2024_2025": 153711,
+            "pct_growth": 39618.6
+          }
+        },
+        {
+          "sno": 93,
+          "country": "SRI LANKA DSR",
+          "values_usd": {
+            "y2023_2024": 0.05,
+            "y2024_2025": 0.01,
+            "pct_growth": -80.22
+          },
+          "values_quantity": {
+            "y2023_2024": 9,
+            "y2024_2025": 1147,
+            "pct_growth": 12644.44
+          }
+        },
+        {
+          "sno": 94,
+          "country": "SUDAN",
+          "values_usd": {
+            "y2023_2024": 0.02,
+            "y2024_2025": 0.02,
+            "pct_growth": 27.47
+          },
+          "values_quantity": {
+            "y2023_2024": 51,
+            "y2024_2025": 68,
+            "pct_growth": 33.33
+          }
+        },
+        {
+          "sno": 95,
+          "country": "SWITZERLAND",
+          "values_usd": {
+            "y2023_2024": 14.53,
+            "y2024_2025": 1.67,
+            "pct_growth": -88.49
+          },
+          "values_quantity": {
+            "y2023_2024": 363196,
+            "y2024_2025": 28354,
+            "pct_growth": -92.19
+          }
+        },
+        {
+          "sno": 96,
+          "country": "SYRIA",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.0,
+            "pct_growth": 34.61
+          },
+          "values_quantity": {
+            "y2023_2024": 101,
+            "y2024_2025": 175,
+            "pct_growth": 73.27
+          }
+        },
+        {
+          "sno": 97,
+          "country": "TAIWAN",
+          "values_usd": {
+            "y2023_2024": 0.3,
+            "y2024_2025": 0.4,
+            "pct_growth": 33.11
+          },
+          "values_quantity": {
+            "y2023_2024": 25271,
+            "y2024_2025": 12300,
+            "pct_growth": -51.33
+          }
+        },
+        {
+          "sno": 98,
+          "country": "THAILAND",
+          "values_usd": {
+            "y2023_2024": 0.47,
+            "y2024_2025": 0.36,
+            "pct_growth": -23.9
+          },
+          "values_quantity": {
+            "y2023_2024": 94934,
+            "y2024_2025": 49454,
+            "pct_growth": -47.91
+          }
+        },
+        {
+          "sno": 99,
+          "country": "TUNISIA",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.01,
+            "pct_growth": 243.15
+          },
+          "values_quantity": {
+            "y2023_2024": 5,
+            "y2024_2025": 53,
+            "pct_growth": 960.0
+          }
+        },
+        {
+          "sno": 100,
+          "country": "TURKEY",
+          "values_usd": {
+            "y2023_2024": 0.38,
+            "y2024_2025": 1.36,
+            "pct_growth": 256.65
+          },
+          "values_quantity": {
+            "y2023_2024": 41223,
+            "y2024_2025": 126773,
+            "pct_growth": 207.53
+          }
+        },
+        {
+          "sno": 101,
+          "country": "U ARAB EMTS",
+          "values_usd": {
+            "y2023_2024": 0.24,
+            "y2024_2025": 0.24,
+            "pct_growth": -3.66
+          },
+          "values_quantity": {
+            "y2023_2024": 30855,
+            "y2024_2025": 75012,
+            "pct_growth": 143.11
+          }
+        },
+        {
+          "sno": 102,
+          "country": "U K",
+          "values_usd": {
+            "y2023_2024": 0.08,
+            "y2024_2025": 0.13,
+            "pct_growth": 70.01
+          },
+          "values_quantity": {
+            "y2023_2024": 15222,
+            "y2024_2025": 15604,
+            "pct_growth": 2.51
+          }
+        },
+        {
+          "sno": 103,
+          "country": "U S A",
+          "values_usd": {
+            "y2023_2024": 5.83,
+            "y2024_2025": 8.27,
+            "pct_growth": 41.84
+          },
+          "values_quantity": {
+            "y2023_2024": 527781,
+            "y2024_2025": 567445,
+            "pct_growth": 7.52
+          }
+        },
+        {
+          "sno": 104,
+          "country": "UGANDA",
+          "values_usd": {
+            "y2023_2024": 0.01,
+            "y2024_2025": 0.02,
+            "pct_growth": 53.86
+          },
+          "values_quantity": {
+            "y2023_2024": 377,
+            "y2024_2025": 367,
+            "pct_growth": -2.65
+          }
+        },
+        {
+          "sno": 105,
+          "country": "UKRAINE",
+          "values_usd": {
+            "y2023_2024": 0.02,
+            "y2024_2025": 0.02,
+            "pct_growth": -37.79
+          },
+          "values_quantity": {
+            "y2023_2024": 647,
+            "y2024_2025": 200,
+            "pct_growth": -69.09
+          }
+        },
+        {
+          "sno": 106,
+          "country": "URUGUAY",
+          "values_usd": {
+            "y2023_2024": 0.01,
+            "y2024_2025": 0.02,
+            "pct_growth": 50.65
+          },
+          "values_quantity": {
+            "y2023_2024": 195,
+            "y2024_2025": 380,
+            "pct_growth": 94.87
+          }
+        },
+        {
+          "sno": 107,
+          "country": "UZBEKISTAN",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.03,
+            "pct_growth": 658.15
+          },
+          "values_quantity": {
+            "y2023_2024": 50,
+            "y2024_2025": 456,
+            "pct_growth": 812.0
+          }
+        },
+        {
+          "sno": 108,
+          "country": "VIETNAM SOC REP",
+          "values_usd": {
+            "y2023_2024": 0.47,
+            "y2024_2025": 0.05,
+            "pct_growth": -89.0
+          },
+          "values_quantity": {
+            "y2023_2024": 394027,
+            "y2024_2025": 326,
+            "pct_growth": -99.92
+          }
+        },
+        {
+          "sno": 109,
+          "country": "YEMEN REPUBLC",
           "values_usd": {
             "y2023_2024": null,
             "y2024_2025": 0.0,
@@ -2172,422 +2942,30 @@
           }
         },
         {
-          "sno": 55,
-          "country": "POLAND",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.01,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 15,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 56,
-          "country": "QATAR",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.11,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 32400,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 57,
-          "country": "RUSSIA",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.77,
-            "pct_growth": 38308.09
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 2141,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 58,
-          "country": "SAUDI ARAB",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.02,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 2785,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 59,
-          "country": "SERBIA",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 60,
-          "country": "SINGAPORE",
-          "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 61,
-          "country": "SLOVAK REP",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.01,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 11,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 62,
-          "country": "SOUTH AFRICA",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.07,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 32002,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 63,
-          "country": "SPAIN",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.11,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 1402,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 64,
-          "country": "SRI LANKA DSR",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 219,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 65,
-          "country": "SUDAN",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 1,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 66,
-          "country": "SWEDEN",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.07,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 3000,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 67,
-          "country": "SWITZERLAND",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.01,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 103,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 68,
-          "country": "SYRIA",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.01,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 15,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 69,
-          "country": "TAIWAN",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.04,
-            "pct_growth": 1373.85
-          },
-          "values_quantity": {
-            "y2023_2024": 800,
-            "y2024_2025": 51,
-            "pct_growth": -93.63
-          }
-        },
-        {
-          "sno": 70,
-          "country": "TANZANIA REP",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.01,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 4000,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 71,
-          "country": "THAILAND",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.04,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 7543,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 72,
-          "country": "TUNISIA",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.02,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 7,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 73,
-          "country": "TURKEY",
-          "values_usd": {
-            "y2023_2024": 0.14,
-            "y2024_2025": 0.07,
-            "pct_growth": -52.07
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 173,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 74,
-          "country": "U ARAB EMTS",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.02,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 4474,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 75,
-          "country": "U K",
-          "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": 0.3,
-            "pct_growth": 5066.32
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 1725,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 76,
-          "country": "U S A",
-          "values_usd": {
-            "y2023_2024": 0.37,
-            "y2024_2025": 3.26,
-            "pct_growth": 792.51
-          },
-          "values_quantity": {
-            "y2023_2024": 46706,
-            "y2024_2025": 54322,
-            "pct_growth": 16.31
-          }
-        },
-        {
-          "sno": 77,
-          "country": "UGANDA",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 78,
-          "country": "UKRAINE",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.01,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 7,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 79,
-          "country": "UNSPECIFIED",
-          "values_usd": {
-            "y2023_2024": 0.02,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 18000,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 80,
-          "country": "UZBEKISTAN",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 4,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 81,
-          "country": "VIETNAM SOC REP",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 1.13,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 692589,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 82,
-          "country": "YEMEN REPUBLC",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 5,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 83,
+          "sno": 110,
           "country": "ZAMBIA",
           "values_usd": {
-            "y2023_2024": null,
+            "y2023_2024": 0.0,
             "y2024_2025": 0.0,
-            "pct_growth": null
+            "pct_growth": 4459.14
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 4,
-            "pct_growth": null
+            "y2023_2024": 1,
+            "y2024_2025": 32,
+            "pct_growth": 3100.0
           }
         },
         {
-          "sno": 84,
+          "sno": 111,
           "country": "ZIMBABWE",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 70,
+            "y2023_2024": 72,
+            "y2024_2025": null,
             "pct_growth": null
           }
         }
@@ -2595,27 +2973,27 @@
       "totals": {
         "total": {
           "values_usd": {
-            "y2023_2024": 10.08,
-            "y2024_2025": 851.77,
+            "y2023_2024": 58.32,
+            "y2024_2025": 41.71,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 330078.09,
-            "y2024_2025": 8.75,
+            "y2023_2024": 422004.4,
+            "y2024_2025": 44.62,
             "pct_growth": null
           }
         },
         "pct_share": {
-          "y2023_2024": 0.0031,
+          "y2023_2024": 0.0138,
           "y2024_2025": null
         }
       }
     },
     "2022": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:18:42.264452",
+        "scraped_at": "2026-01-26T21:38:04.951154",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29221990",
         "financial_year": "2022",
@@ -4194,7 +4572,7 @@
     },
     "2024": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:18:42.257254",
+        "scraped_at": "2026-01-26T21:38:05.068659",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29221990",
         "financial_year": "2024",
@@ -5925,9 +6303,1224 @@
         }
       }
     },
+    "2018": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:38:05.100065",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "29221990",
+        "financial_year": "2018",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "29221990",
+        "description": "OTHER",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "AFGHANISTAN",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 25,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 2,
+          "country": "ALGERIA",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.04,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 88,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 3,
+          "country": "ARGENTINA",
+          "values_usd": {
+            "y2023_2024": 0.08,
+            "y2024_2025": 0.04,
+            "pct_growth": -50.46
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 25,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 4,
+          "country": "AUSTRALIA",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.03,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 11448,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 5,
+          "country": "AUSTRIA",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 1,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 6,
+          "country": "BANGLADESH PR",
+          "values_usd": {
+            "y2023_2024": 0.14,
+            "y2024_2025": 0.33,
+            "pct_growth": 140.32
+          },
+          "values_quantity": {
+            "y2023_2024": 1800,
+            "y2024_2025": 4338,
+            "pct_growth": 141.0
+          }
+        },
+        {
+          "sno": 7,
+          "country": "BELARUS",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 2,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 8,
+          "country": "BELGIUM",
+          "values_usd": {
+            "y2023_2024": 0.15,
+            "y2024_2025": 0.06,
+            "pct_growth": -62.24
+          },
+          "values_quantity": {
+            "y2023_2024": 26400,
+            "y2024_2025": 16520,
+            "pct_growth": -37.42
+          }
+        },
+        {
+          "sno": 9,
+          "country": "BHUTAN",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 30,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 10,
+          "country": "BRAZIL",
+          "values_usd": {
+            "y2023_2024": 0.02,
+            "y2024_2025": 0.14,
+            "pct_growth": 655.08
+          },
+          "values_quantity": {
+            "y2023_2024": 3202,
+            "y2024_2025": 5262,
+            "pct_growth": 64.33
+          }
+        },
+        {
+          "sno": 11,
+          "country": "CAMBODIA",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.01,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 100,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 12,
+          "country": "CANADA",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.43,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 1286,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 13,
+          "country": "CHINA P RP",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.63,
+            "pct_growth": 20270.74
+          },
+          "values_quantity": {
+            "y2023_2024": 800,
+            "y2024_2025": 34028,
+            "pct_growth": 4153.5
+          }
+        },
+        {
+          "sno": 14,
+          "country": "COLOMBIA",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 30,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 15,
+          "country": "CYPRUS",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.01,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 12,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 16,
+          "country": "CZECH REPUBLIC",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.1,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 1815,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 17,
+          "country": "DOMINIC REP",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 1,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 18,
+          "country": "ECUADOR",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 1,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 19,
+          "country": "EGYPT A RP",
+          "values_usd": {
+            "y2023_2024": 0.05,
+            "y2024_2025": 0.66,
+            "pct_growth": 1309.1
+          },
+          "values_quantity": {
+            "y2023_2024": 37000,
+            "y2024_2025": 1535,
+            "pct_growth": -95.85
+          }
+        },
+        {
+          "sno": 20,
+          "country": "ETHIOPIA",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 23,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 21,
+          "country": "FINLAND",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.01,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 2,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 22,
+          "country": "FRANCE",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 5,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 23,
+          "country": "GERMANY",
+          "values_usd": {
+            "y2023_2024": 0.01,
+            "y2024_2025": 0.21,
+            "pct_growth": 3609.0
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 347,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 24,
+          "country": "GREECE",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.0,
+            "pct_growth": 80906.87
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 3,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 25,
+          "country": "HONG KONG",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.01,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 55,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 26,
+          "country": "ICELAND",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.01,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 27,
+          "country": "INDONESIA",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.25,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 4558,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 28,
+          "country": "IRAN",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.04,
+            "pct_growth": 468532.28
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 2151,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 29,
+          "country": "IRAQ",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 8,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 30,
+          "country": "IRELAND",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 2,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 31,
+          "country": "ISRAEL",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.08,
+            "pct_growth": 768428.25
+          },
+          "values_quantity": {
+            "y2023_2024": 5,
+            "y2024_2025": 105,
+            "pct_growth": 2000.0
+          }
+        },
+        {
+          "sno": 32,
+          "country": "ITALY",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.11,
+            "pct_growth": 2427.96
+          },
+          "values_quantity": {
+            "y2023_2024": 1205,
+            "y2024_2025": 19542,
+            "pct_growth": 1521.74
+          }
+        },
+        {
+          "sno": 33,
+          "country": "JAPAN",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.09,
+            "pct_growth": 1929605.31
+          },
+          "values_quantity": {
+            "y2023_2024": 1,
+            "y2024_2025": 291,
+            "pct_growth": 29000.0
+          }
+        },
+        {
+          "sno": 34,
+          "country": "JORDAN",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.03,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 31,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 35,
+          "country": "KENYA",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 466,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 36,
+          "country": "KOREA RP",
+          "values_usd": {
+            "y2023_2024": 0.06,
+            "y2024_2025": 0.07,
+            "pct_growth": 20.27
+          },
+          "values_quantity": {
+            "y2023_2024": 11202,
+            "y2024_2025": 14018,
+            "pct_growth": 25.14
+          }
+        },
+        {
+          "sno": 37,
+          "country": "KUWAIT",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 11,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 38,
+          "country": "LEBANON",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.02,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 1005,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 39,
+          "country": "MALAYSIA",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.05,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 4048,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 40,
+          "country": "MALDIVES",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 100,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 41,
+          "country": "MALTA",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.04,
+            "pct_growth": 795.14
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 2,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 42,
+          "country": "MEXICO",
+          "values_usd": {
+            "y2023_2024": 0.01,
+            "y2024_2025": 0.09,
+            "pct_growth": 1189.75
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 98,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 43,
+          "country": "MONGOLIA",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 2,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 44,
+          "country": "MOROCCO",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.05,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 30,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 45,
+          "country": "MOZAMBIQUE",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 46,
+          "country": "MYANMAR",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 3,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 47,
+          "country": "NEPAL",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.04,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 2191,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 48,
+          "country": "NETHERLAND",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.03,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 21607,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 49,
+          "country": "NICARAGUA",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 50,
+          "country": "NIGERIA",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.01,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 281,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 51,
+          "country": "OMAN",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 48,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 52,
+          "country": "PAKISTAN IR",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.23,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 17089,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 53,
+          "country": "PERU",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.02,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 57,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 54,
+          "country": "PHILIPPINES",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 10,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 55,
+          "country": "POLAND",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.01,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 15,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 56,
+          "country": "QATAR",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.11,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 32400,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 57,
+          "country": "RUSSIA",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.77,
+            "pct_growth": 38308.09
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 2141,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 58,
+          "country": "SAUDI ARAB",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.02,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 2785,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 59,
+          "country": "SERBIA",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 60,
+          "country": "SINGAPORE",
+          "values_usd": {
+            "y2023_2024": 0.01,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 61,
+          "country": "SLOVAK REP",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.01,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 11,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 62,
+          "country": "SOUTH AFRICA",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.07,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 32002,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 63,
+          "country": "SPAIN",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.11,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 1402,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 64,
+          "country": "SRI LANKA DSR",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 219,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 65,
+          "country": "SUDAN",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 1,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 66,
+          "country": "SWEDEN",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.07,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 3000,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 67,
+          "country": "SWITZERLAND",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.01,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 103,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 68,
+          "country": "SYRIA",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.01,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 15,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 69,
+          "country": "TAIWAN",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": 0.04,
+            "pct_growth": 1373.85
+          },
+          "values_quantity": {
+            "y2023_2024": 800,
+            "y2024_2025": 51,
+            "pct_growth": -93.63
+          }
+        },
+        {
+          "sno": 70,
+          "country": "TANZANIA REP",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.01,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 4000,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 71,
+          "country": "THAILAND",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.04,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 7543,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 72,
+          "country": "TUNISIA",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.02,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 7,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 73,
+          "country": "TURKEY",
+          "values_usd": {
+            "y2023_2024": 0.14,
+            "y2024_2025": 0.07,
+            "pct_growth": -52.07
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 173,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 74,
+          "country": "U ARAB EMTS",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.02,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 4474,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 75,
+          "country": "U K",
+          "values_usd": {
+            "y2023_2024": 0.01,
+            "y2024_2025": 0.3,
+            "pct_growth": 5066.32
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 1725,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 76,
+          "country": "U S A",
+          "values_usd": {
+            "y2023_2024": 0.37,
+            "y2024_2025": 3.26,
+            "pct_growth": 792.51
+          },
+          "values_quantity": {
+            "y2023_2024": 46706,
+            "y2024_2025": 54322,
+            "pct_growth": 16.31
+          }
+        },
+        {
+          "sno": 77,
+          "country": "UGANDA",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 78,
+          "country": "UKRAINE",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.01,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 7,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 79,
+          "country": "UNSPECIFIED",
+          "values_usd": {
+            "y2023_2024": 0.02,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 18000,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 80,
+          "country": "UZBEKISTAN",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 4,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 81,
+          "country": "VIETNAM SOC REP",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 1.13,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 692589,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 82,
+          "country": "YEMEN REPUBLC",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 5,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 83,
+          "country": "ZAMBIA",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 4,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 84,
+          "country": "ZIMBABWE",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 70,
+            "pct_growth": null
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 10.08,
+            "y2024_2025": 851.77,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 330078.09,
+            "y2024_2025": 8.75,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0031,
+          "y2024_2025": null
+        }
+      }
+    },
     "2023": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:18:42.433058",
+        "scraped_at": "2026-01-26T21:38:05.151064",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29221990",
         "financial_year": "2023",
@@ -7560,1602 +9153,9 @@
         }
       }
     },
-    "2021": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:18:42.567272",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "29221990",
-        "financial_year": "2021",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "29221990",
-        "description": "OTHER",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "AFGHANISTAN",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 100,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 2,
-          "country": "ALGERIA",
-          "values_usd": {
-            "y2023_2024": 0.11,
-            "y2024_2025": 0.17,
-            "pct_growth": 55.76
-          },
-          "values_quantity": {
-            "y2023_2024": 593,
-            "y2024_2025": 1750,
-            "pct_growth": 195.11
-          }
-        },
-        {
-          "sno": 3,
-          "country": "ANGOLA",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 1,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 4,
-          "country": "ARGENTINA",
-          "values_usd": {
-            "y2023_2024": 0.15,
-            "y2024_2025": 0.24,
-            "pct_growth": 62.25
-          },
-          "values_quantity": {
-            "y2023_2024": 145,
-            "y2024_2025": 315,
-            "pct_growth": 117.24
-          }
-        },
-        {
-          "sno": 5,
-          "country": "AUSTRALIA",
-          "values_usd": {
-            "y2023_2024": 0.76,
-            "y2024_2025": 1.15,
-            "pct_growth": 50.83
-          },
-          "values_quantity": {
-            "y2023_2024": 326510,
-            "y2024_2025": 348045,
-            "pct_growth": 6.6
-          }
-        },
-        {
-          "sno": 6,
-          "country": "AUSTRIA",
-          "values_usd": {
-            "y2023_2024": 0.62,
-            "y2024_2025": 0.12,
-            "pct_growth": -80.66
-          },
-          "values_quantity": {
-            "y2023_2024": 73,
-            "y2024_2025": 51,
-            "pct_growth": -30.14
-          }
-        },
-        {
-          "sno": 7,
-          "country": "BANGLADESH PR",
-          "values_usd": {
-            "y2023_2024": 0.56,
-            "y2024_2025": 0.78,
-            "pct_growth": 38.84
-          },
-          "values_quantity": {
-            "y2023_2024": 11236,
-            "y2024_2025": 48540,
-            "pct_growth": 332.0
-          }
-        },
-        {
-          "sno": 8,
-          "country": "BELARUS",
-          "values_usd": {
-            "y2023_2024": 0.02,
-            "y2024_2025": 0.03,
-            "pct_growth": 30.84
-          },
-          "values_quantity": {
-            "y2023_2024": 75,
-            "y2024_2025": 100,
-            "pct_growth": 33.33
-          }
-        },
-        {
-          "sno": 9,
-          "country": "BELGIUM",
-          "values_usd": {
-            "y2023_2024": 0.16,
-            "y2024_2025": 0.25,
-            "pct_growth": 53.32
-          },
-          "values_quantity": {
-            "y2023_2024": 18925,
-            "y2024_2025": 37442,
-            "pct_growth": 97.84
-          }
-        },
-        {
-          "sno": 10,
-          "country": "BHUTAN",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.0,
-            "pct_growth": -97.6
-          },
-          "values_quantity": {
-            "y2023_2024": 1007,
-            "y2024_2025": 2,
-            "pct_growth": -99.8
-          }
-        },
-        {
-          "sno": 11,
-          "country": "BOTSWANA",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 1,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 12,
-          "country": "BRAZIL",
-          "values_usd": {
-            "y2023_2024": 0.74,
-            "y2024_2025": 1.47,
-            "pct_growth": 98.09
-          },
-          "values_quantity": {
-            "y2023_2024": 57803,
-            "y2024_2025": 43269,
-            "pct_growth": -25.14
-          }
-        },
-        {
-          "sno": 13,
-          "country": "BULGARIA",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.0,
-            "pct_growth": -3.47
-          },
-          "values_quantity": {
-            "y2023_2024": 51,
-            "y2024_2025": 50,
-            "pct_growth": -1.96
-          }
-        },
-        {
-          "sno": 14,
-          "country": "C AFRI REP",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.05,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 28980,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 15,
-          "country": "CAMBODIA",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 25,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 16,
-          "country": "CAMEROON",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 1,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 17,
-          "country": "CANADA",
-          "values_usd": {
-            "y2023_2024": 0.1,
-            "y2024_2025": 1.96,
-            "pct_growth": 1839.02
-          },
-          "values_quantity": {
-            "y2023_2024": 131,
-            "y2024_2025": 4971,
-            "pct_growth": 3694.66
-          }
-        },
-        {
-          "sno": 18,
-          "country": "CHILE",
-          "values_usd": {
-            "y2023_2024": 0.07,
-            "y2024_2025": 0.04,
-            "pct_growth": -33.09
-          },
-          "values_quantity": {
-            "y2023_2024": 395,
-            "y2024_2025": 210,
-            "pct_growth": -46.84
-          }
-        },
-        {
-          "sno": 19,
-          "country": "CHINA P RP",
-          "values_usd": {
-            "y2023_2024": 3.07,
-            "y2024_2025": 2.03,
-            "pct_growth": -33.8
-          },
-          "values_quantity": {
-            "y2023_2024": 75431,
-            "y2024_2025": 98289,
-            "pct_growth": 30.3
-          }
-        },
-        {
-          "sno": 20,
-          "country": "COLOMBIA",
-          "values_usd": {
-            "y2023_2024": 0.1,
-            "y2024_2025": 0.04,
-            "pct_growth": -59.76
-          },
-          "values_quantity": {
-            "y2023_2024": 22953,
-            "y2024_2025": 776,
-            "pct_growth": -96.62
-          }
-        },
-        {
-          "sno": 21,
-          "country": "CONGO D. REP.",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 462,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 22,
-          "country": "COSTA RICA",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 3,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 23,
-          "country": "CROATIA",
-          "values_usd": {
-            "y2023_2024": 0.06,
-            "y2024_2025": 0.09,
-            "pct_growth": 46.65
-          },
-          "values_quantity": {
-            "y2023_2024": 800,
-            "y2024_2025": 1200,
-            "pct_growth": 50.0
-          }
-        },
-        {
-          "sno": 24,
-          "country": "CYPRUS",
-          "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": 0.0,
-            "pct_growth": -98.38
-          },
-          "values_quantity": {
-            "y2023_2024": 13,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 25,
-          "country": "CZECH REPUBLIC",
-          "values_usd": {
-            "y2023_2024": 0.25,
-            "y2024_2025": 0.3,
-            "pct_growth": 16.59
-          },
-          "values_quantity": {
-            "y2023_2024": 8358,
-            "y2024_2025": 7433,
-            "pct_growth": -11.07
-          }
-        },
-        {
-          "sno": 26,
-          "country": "DJIBOUTI",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 572,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 27,
-          "country": "DOMINIC REP",
-          "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": 0.04,
-            "pct_growth": 256.36
-          },
-          "values_quantity": {
-            "y2023_2024": 34,
-            "y2024_2025": 140,
-            "pct_growth": 311.76
-          }
-        },
-        {
-          "sno": 28,
-          "country": "ECUADOR",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.0,
-            "pct_growth": -68.0
-          },
-          "values_quantity": {
-            "y2023_2024": 75,
-            "y2024_2025": 16,
-            "pct_growth": -78.67
-          }
-        },
-        {
-          "sno": 29,
-          "country": "EGYPT A RP",
-          "values_usd": {
-            "y2023_2024": 0.92,
-            "y2024_2025": 0.8,
-            "pct_growth": -12.6
-          },
-          "values_quantity": {
-            "y2023_2024": 8532,
-            "y2024_2025": 7102,
-            "pct_growth": -16.76
-          }
-        },
-        {
-          "sno": 30,
-          "country": "EL SALVADOR",
-          "values_usd": {
-            "y2023_2024": 0.07,
-            "y2024_2025": 0.01,
-            "pct_growth": -85.48
-          },
-          "values_quantity": {
-            "y2023_2024": 183,
-            "y2024_2025": 21,
-            "pct_growth": -88.52
-          }
-        },
-        {
-          "sno": 31,
-          "country": "ERITREA",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 1,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 32,
-          "country": "ETHIOPIA",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.0,
-            "pct_growth": 216.44
-          },
-          "values_quantity": {
-            "y2023_2024": 1,
-            "y2024_2025": 4,
-            "pct_growth": 300.0
-          }
-        },
-        {
-          "sno": 33,
-          "country": "FIJI IS",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 1,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 34,
-          "country": "FINLAND",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.01,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 812,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 35,
-          "country": "FRANCE",
-          "values_usd": {
-            "y2023_2024": 0.12,
-            "y2024_2025": 0.29,
-            "pct_growth": 141.73
-          },
-          "values_quantity": {
-            "y2023_2024": 36250,
-            "y2024_2025": 39175,
-            "pct_growth": 8.07
-          }
-        },
-        {
-          "sno": 36,
-          "country": "GABON",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.0,
-            "pct_growth": -12.03
-          },
-          "values_quantity": {
-            "y2023_2024": 1,
-            "y2024_2025": 3,
-            "pct_growth": 200.0
-          }
-        },
-        {
-          "sno": 37,
-          "country": "GEORGIA",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 1,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 38,
-          "country": "GERMANY",
-          "values_usd": {
-            "y2023_2024": 0.72,
-            "y2024_2025": 1.13,
-            "pct_growth": 57.39
-          },
-          "values_quantity": {
-            "y2023_2024": 19963,
-            "y2024_2025": 53436,
-            "pct_growth": 167.68
-          }
-        },
-        {
-          "sno": 39,
-          "country": "GHANA",
-          "values_usd": {
-            "y2023_2024": 0.03,
-            "y2024_2025": 0.0,
-            "pct_growth": -98.72
-          },
-          "values_quantity": {
-            "y2023_2024": 803,
-            "y2024_2025": 17,
-            "pct_growth": -97.88
-          }
-        },
-        {
-          "sno": 40,
-          "country": "GREECE",
-          "values_usd": {
-            "y2023_2024": 0.05,
-            "y2024_2025": 0.26,
-            "pct_growth": 391.06
-          },
-          "values_quantity": {
-            "y2023_2024": 108,
-            "y2024_2025": 245,
-            "pct_growth": 126.85
-          }
-        },
-        {
-          "sno": 41,
-          "country": "GUATEMALA",
-          "values_usd": {
-            "y2023_2024": 0.02,
-            "y2024_2025": 0.05,
-            "pct_growth": 136.1
-          },
-          "values_quantity": {
-            "y2023_2024": 50,
-            "y2024_2025": 725,
-            "pct_growth": 1350.0
-          }
-        },
-        {
-          "sno": 42,
-          "country": "HONDURAS",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.01,
-            "pct_growth": 180.62
-          },
-          "values_quantity": {
-            "y2023_2024": 10,
-            "y2024_2025": 50,
-            "pct_growth": 400.0
-          }
-        },
-        {
-          "sno": 43,
-          "country": "HONG KONG",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.03,
-            "pct_growth": 905.02
-          },
-          "values_quantity": {
-            "y2023_2024": 50,
-            "y2024_2025": 225,
-            "pct_growth": 350.0
-          }
-        },
-        {
-          "sno": 44,
-          "country": "HUNGARY",
-          "values_usd": {
-            "y2023_2024": 0.11,
-            "y2024_2025": 0.65,
-            "pct_growth": 474.17
-          },
-          "values_quantity": {
-            "y2023_2024": 2000,
-            "y2024_2025": 1315,
-            "pct_growth": -34.25
-          }
-        },
-        {
-          "sno": 45,
-          "country": "ICELAND",
-          "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": 0.02,
-            "pct_growth": 134.92
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 46,
-          "country": "INDONESIA",
-          "values_usd": {
-            "y2023_2024": 0.26,
-            "y2024_2025": 0.19,
-            "pct_growth": -26.57
-          },
-          "values_quantity": {
-            "y2023_2024": 91786,
-            "y2024_2025": 533,
-            "pct_growth": -99.42
-          }
-        },
-        {
-          "sno": 47,
-          "country": "IRAN",
-          "values_usd": {
-            "y2023_2024": 0.75,
-            "y2024_2025": 0.09,
-            "pct_growth": -88.47
-          },
-          "values_quantity": {
-            "y2023_2024": 23710,
-            "y2024_2025": 3791,
-            "pct_growth": -84.01
-          }
-        },
-        {
-          "sno": 48,
-          "country": "IRAQ",
-          "values_usd": {
-            "y2023_2024": 0.04,
-            "y2024_2025": 0.0,
-            "pct_growth": -96.7
-          },
-          "values_quantity": {
-            "y2023_2024": 1575,
-            "y2024_2025": 51,
-            "pct_growth": -96.76
-          }
-        },
-        {
-          "sno": 49,
-          "country": "IRELAND",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.01,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 1360,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 50,
-          "country": "ISRAEL",
-          "values_usd": {
-            "y2023_2024": 0.13,
-            "y2024_2025": 0.28,
-            "pct_growth": 116.55
-          },
-          "values_quantity": {
-            "y2023_2024": 445,
-            "y2024_2025": 578,
-            "pct_growth": 29.89
-          }
-        },
-        {
-          "sno": 51,
-          "country": "ITALY",
-          "values_usd": {
-            "y2023_2024": 1.67,
-            "y2024_2025": 2.93,
-            "pct_growth": 75.24
-          },
-          "values_quantity": {
-            "y2023_2024": 55949,
-            "y2024_2025": 41384,
-            "pct_growth": -26.03
-          }
-        },
-        {
-          "sno": 52,
-          "country": "JAPAN",
-          "values_usd": {
-            "y2023_2024": 0.13,
-            "y2024_2025": 0.1,
-            "pct_growth": -24.57
-          },
-          "values_quantity": {
-            "y2023_2024": 876,
-            "y2024_2025": 2329,
-            "pct_growth": 165.87
-          }
-        },
-        {
-          "sno": 53,
-          "country": "JORDAN",
-          "values_usd": {
-            "y2023_2024": 0.12,
-            "y2024_2025": 0.04,
-            "pct_growth": -65.16
-          },
-          "values_quantity": {
-            "y2023_2024": 268,
-            "y2024_2025": 306,
-            "pct_growth": 14.18
-          }
-        },
-        {
-          "sno": 54,
-          "country": "KAZAKHSTAN",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 11,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 55,
-          "country": "KENYA",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.01,
-            "pct_growth": 98.84
-          },
-          "values_quantity": {
-            "y2023_2024": 29,
-            "y2024_2025": 222,
-            "pct_growth": 665.52
-          }
-        },
-        {
-          "sno": 56,
-          "country": "KOREA RP",
-          "values_usd": {
-            "y2023_2024": 0.77,
-            "y2024_2025": 0.52,
-            "pct_growth": -32.59
-          },
-          "values_quantity": {
-            "y2023_2024": 121634,
-            "y2024_2025": 95006,
-            "pct_growth": -21.89
-          }
-        },
-        {
-          "sno": 57,
-          "country": "KUWAIT",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 2,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 58,
-          "country": "LATVIA",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 59,
-          "country": "LEBANON",
-          "values_usd": {
-            "y2023_2024": 0.05,
-            "y2024_2025": 0.07,
-            "pct_growth": 33.52
-          },
-          "values_quantity": {
-            "y2023_2024": 12351,
-            "y2024_2025": 752,
-            "pct_growth": -93.91
-          }
-        },
-        {
-          "sno": 60,
-          "country": "LIBERIA",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 100,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 61,
-          "country": "MACEDONIA",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 80,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 62,
-          "country": "MALAWI",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 10,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 63,
-          "country": "MALAYSIA",
-          "values_usd": {
-            "y2023_2024": 0.15,
-            "y2024_2025": 0.13,
-            "pct_growth": -15.15
-          },
-          "values_quantity": {
-            "y2023_2024": 112320,
-            "y2024_2025": 79142,
-            "pct_growth": -29.54
-          }
-        },
-        {
-          "sno": 64,
-          "country": "MALTA",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.0,
-            "pct_growth": -44.28
-          },
-          "values_quantity": {
-            "y2023_2024": 2,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 65,
-          "country": "MAURITIUS",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 66,
-          "country": "MEXICO",
-          "values_usd": {
-            "y2023_2024": 0.36,
-            "y2024_2025": 0.44,
-            "pct_growth": 21.68
-          },
-          "values_quantity": {
-            "y2023_2024": 113633,
-            "y2024_2025": 2719,
-            "pct_growth": -97.61
-          }
-        },
-        {
-          "sno": 67,
-          "country": "MOLDOVA",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.0,
-            "pct_growth": -18.7
-          },
-          "values_quantity": {
-            "y2023_2024": 15,
-            "y2024_2025": 15,
-            "pct_growth": 0.0
-          }
-        },
-        {
-          "sno": 68,
-          "country": "MOROCCO",
-          "values_usd": {
-            "y2023_2024": 0.03,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 1153,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 69,
-          "country": "MYANMAR",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.01,
-            "pct_growth": 79.03
-          },
-          "values_quantity": {
-            "y2023_2024": 39,
-            "y2024_2025": 2,
-            "pct_growth": -94.87
-          }
-        },
-        {
-          "sno": 70,
-          "country": "NEPAL",
-          "values_usd": {
-            "y2023_2024": 0.04,
-            "y2024_2025": 0.03,
-            "pct_growth": -13.29
-          },
-          "values_quantity": {
-            "y2023_2024": 1856,
-            "y2024_2025": 1144,
-            "pct_growth": -38.36
-          }
-        },
-        {
-          "sno": 71,
-          "country": "NETHERLAND",
-          "values_usd": {
-            "y2023_2024": 1.95,
-            "y2024_2025": 24.36,
-            "pct_growth": 1147.71
-          },
-          "values_quantity": {
-            "y2023_2024": 267175,
-            "y2024_2025": 999709,
-            "pct_growth": 274.18
-          }
-        },
-        {
-          "sno": 72,
-          "country": "NEW ZEALAND",
-          "values_usd": {
-            "y2023_2024": 0.1,
-            "y2024_2025": 0.1,
-            "pct_growth": -0.16
-          },
-          "values_quantity": {
-            "y2023_2024": 15600,
-            "y2024_2025": 15600,
-            "pct_growth": 0.0
-          }
-        },
-        {
-          "sno": 73,
-          "country": "NICARAGUA",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 50,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 74,
-          "country": "NIGERIA",
-          "values_usd": {
-            "y2023_2024": 0.05,
-            "y2024_2025": 0.03,
-            "pct_growth": -36.31
-          },
-          "values_quantity": {
-            "y2023_2024": 3305,
-            "y2024_2025": 1400,
-            "pct_growth": -57.64
-          }
-        },
-        {
-          "sno": 75,
-          "country": "OMAN",
-          "values_usd": {
-            "y2023_2024": 0.05,
-            "y2024_2025": 0.07,
-            "pct_growth": 48.54
-          },
-          "values_quantity": {
-            "y2023_2024": 9944,
-            "y2024_2025": 45601,
-            "pct_growth": 358.58
-          }
-        },
-        {
-          "sno": 76,
-          "country": "PAKISTAN IR",
-          "values_usd": {
-            "y2023_2024": 1.17,
-            "y2024_2025": 1.01,
-            "pct_growth": -13.53
-          },
-          "values_quantity": {
-            "y2023_2024": 50244,
-            "y2024_2025": 32517,
-            "pct_growth": -35.28
-          }
-        },
-        {
-          "sno": 77,
-          "country": "PANAMA REPUBLIC",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.0,
-            "pct_growth": 67247.48
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 20,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 78,
-          "country": "PARAGUAY",
-          "values_usd": {
-            "y2023_2024": 0.07,
-            "y2024_2025": 0.08,
-            "pct_growth": 17.05
-          },
-          "values_quantity": {
-            "y2023_2024": 2500,
-            "y2024_2025": 2891,
-            "pct_growth": 15.64
-          }
-        },
-        {
-          "sno": 79,
-          "country": "PERU",
-          "values_usd": {
-            "y2023_2024": 0.07,
-            "y2024_2025": 0.11,
-            "pct_growth": 59.39
-          },
-          "values_quantity": {
-            "y2023_2024": 717,
-            "y2024_2025": 1843,
-            "pct_growth": 157.04
-          }
-        },
-        {
-          "sno": 80,
-          "country": "PHILIPPINES",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.04,
-            "pct_growth": 829.8
-          },
-          "values_quantity": {
-            "y2023_2024": 67,
-            "y2024_2025": 202,
-            "pct_growth": 201.49
-          }
-        },
-        {
-          "sno": 81,
-          "country": "POLAND",
-          "values_usd": {
-            "y2023_2024": 0.05,
-            "y2024_2025": 0.58,
-            "pct_growth": 977.2
-          },
-          "values_quantity": {
-            "y2023_2024": 275,
-            "y2024_2025": 8040,
-            "pct_growth": 2823.64
-          }
-        },
-        {
-          "sno": 82,
-          "country": "PORTUGAL",
-          "values_usd": {
-            "y2023_2024": 0.06,
-            "y2024_2025": 0.14,
-            "pct_growth": 111.25
-          },
-          "values_quantity": {
-            "y2023_2024": 150,
-            "y2024_2025": 1450,
-            "pct_growth": 866.67
-          }
-        },
-        {
-          "sno": 83,
-          "country": "QATAR",
-          "values_usd": {
-            "y2023_2024": 0.05,
-            "y2024_2025": 0.01,
-            "pct_growth": -79.78
-          },
-          "values_quantity": {
-            "y2023_2024": 15400,
-            "y2024_2025": 2798,
-            "pct_growth": -81.83
-          }
-        },
-        {
-          "sno": 84,
-          "country": "ROMANIA",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.01,
-            "pct_growth": 184373.09
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 25,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 85,
-          "country": "RUSSIA",
-          "values_usd": {
-            "y2023_2024": 1.46,
-            "y2024_2025": 1.13,
-            "pct_growth": -22.61
-          },
-          "values_quantity": {
-            "y2023_2024": 6881,
-            "y2024_2025": 4172,
-            "pct_growth": -39.37
-          }
-        },
-        {
-          "sno": 86,
-          "country": "SAUDI ARAB",
-          "values_usd": {
-            "y2023_2024": 0.08,
-            "y2024_2025": 0.01,
-            "pct_growth": -81.32
-          },
-          "values_quantity": {
-            "y2023_2024": 94,
-            "y2024_2025": 3,
-            "pct_growth": -96.81
-          }
-        },
-        {
-          "sno": 87,
-          "country": "SERBIA",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 75,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 88,
-          "country": "SINGAPORE",
-          "values_usd": {
-            "y2023_2024": 0.05,
-            "y2024_2025": 0.09,
-            "pct_growth": 66.93
-          },
-          "values_quantity": {
-            "y2023_2024": 8895,
-            "y2024_2025": 6933,
-            "pct_growth": -22.06
-          }
-        },
-        {
-          "sno": 89,
-          "country": "SLOVAK REP",
-          "values_usd": {
-            "y2023_2024": 0.03,
-            "y2024_2025": 0.01,
-            "pct_growth": -56.73
-          },
-          "values_quantity": {
-            "y2023_2024": 42,
-            "y2024_2025": 3,
-            "pct_growth": -92.86
-          }
-        },
-        {
-          "sno": 90,
-          "country": "SLOVENIA",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.01,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 91,
-          "country": "SOUTH AFRICA",
-          "values_usd": {
-            "y2023_2024": 0.04,
-            "y2024_2025": 0.14,
-            "pct_growth": 249.79
-          },
-          "values_quantity": {
-            "y2023_2024": 15308,
-            "y2024_2025": 41275,
-            "pct_growth": 169.63
-          }
-        },
-        {
-          "sno": 92,
-          "country": "SPAIN",
-          "values_usd": {
-            "y2023_2024": 0.04,
-            "y2024_2025": 0.94,
-            "pct_growth": 2220.04
-          },
-          "values_quantity": {
-            "y2023_2024": 387,
-            "y2024_2025": 153711,
-            "pct_growth": 39618.6
-          }
-        },
-        {
-          "sno": 93,
-          "country": "SRI LANKA DSR",
-          "values_usd": {
-            "y2023_2024": 0.05,
-            "y2024_2025": 0.01,
-            "pct_growth": -80.22
-          },
-          "values_quantity": {
-            "y2023_2024": 9,
-            "y2024_2025": 1147,
-            "pct_growth": 12644.44
-          }
-        },
-        {
-          "sno": 94,
-          "country": "SUDAN",
-          "values_usd": {
-            "y2023_2024": 0.02,
-            "y2024_2025": 0.02,
-            "pct_growth": 27.47
-          },
-          "values_quantity": {
-            "y2023_2024": 51,
-            "y2024_2025": 68,
-            "pct_growth": 33.33
-          }
-        },
-        {
-          "sno": 95,
-          "country": "SWITZERLAND",
-          "values_usd": {
-            "y2023_2024": 14.53,
-            "y2024_2025": 1.67,
-            "pct_growth": -88.49
-          },
-          "values_quantity": {
-            "y2023_2024": 363196,
-            "y2024_2025": 28354,
-            "pct_growth": -92.19
-          }
-        },
-        {
-          "sno": 96,
-          "country": "SYRIA",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.0,
-            "pct_growth": 34.61
-          },
-          "values_quantity": {
-            "y2023_2024": 101,
-            "y2024_2025": 175,
-            "pct_growth": 73.27
-          }
-        },
-        {
-          "sno": 97,
-          "country": "TAIWAN",
-          "values_usd": {
-            "y2023_2024": 0.3,
-            "y2024_2025": 0.4,
-            "pct_growth": 33.11
-          },
-          "values_quantity": {
-            "y2023_2024": 25271,
-            "y2024_2025": 12300,
-            "pct_growth": -51.33
-          }
-        },
-        {
-          "sno": 98,
-          "country": "THAILAND",
-          "values_usd": {
-            "y2023_2024": 0.47,
-            "y2024_2025": 0.36,
-            "pct_growth": -23.9
-          },
-          "values_quantity": {
-            "y2023_2024": 94934,
-            "y2024_2025": 49454,
-            "pct_growth": -47.91
-          }
-        },
-        {
-          "sno": 99,
-          "country": "TUNISIA",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.01,
-            "pct_growth": 243.15
-          },
-          "values_quantity": {
-            "y2023_2024": 5,
-            "y2024_2025": 53,
-            "pct_growth": 960.0
-          }
-        },
-        {
-          "sno": 100,
-          "country": "TURKEY",
-          "values_usd": {
-            "y2023_2024": 0.38,
-            "y2024_2025": 1.36,
-            "pct_growth": 256.65
-          },
-          "values_quantity": {
-            "y2023_2024": 41223,
-            "y2024_2025": 126773,
-            "pct_growth": 207.53
-          }
-        },
-        {
-          "sno": 101,
-          "country": "U ARAB EMTS",
-          "values_usd": {
-            "y2023_2024": 0.24,
-            "y2024_2025": 0.24,
-            "pct_growth": -3.66
-          },
-          "values_quantity": {
-            "y2023_2024": 30855,
-            "y2024_2025": 75012,
-            "pct_growth": 143.11
-          }
-        },
-        {
-          "sno": 102,
-          "country": "U K",
-          "values_usd": {
-            "y2023_2024": 0.08,
-            "y2024_2025": 0.13,
-            "pct_growth": 70.01
-          },
-          "values_quantity": {
-            "y2023_2024": 15222,
-            "y2024_2025": 15604,
-            "pct_growth": 2.51
-          }
-        },
-        {
-          "sno": 103,
-          "country": "U S A",
-          "values_usd": {
-            "y2023_2024": 5.83,
-            "y2024_2025": 8.27,
-            "pct_growth": 41.84
-          },
-          "values_quantity": {
-            "y2023_2024": 527781,
-            "y2024_2025": 567445,
-            "pct_growth": 7.52
-          }
-        },
-        {
-          "sno": 104,
-          "country": "UGANDA",
-          "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": 0.02,
-            "pct_growth": 53.86
-          },
-          "values_quantity": {
-            "y2023_2024": 377,
-            "y2024_2025": 367,
-            "pct_growth": -2.65
-          }
-        },
-        {
-          "sno": 105,
-          "country": "UKRAINE",
-          "values_usd": {
-            "y2023_2024": 0.02,
-            "y2024_2025": 0.02,
-            "pct_growth": -37.79
-          },
-          "values_quantity": {
-            "y2023_2024": 647,
-            "y2024_2025": 200,
-            "pct_growth": -69.09
-          }
-        },
-        {
-          "sno": 106,
-          "country": "URUGUAY",
-          "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": 0.02,
-            "pct_growth": 50.65
-          },
-          "values_quantity": {
-            "y2023_2024": 195,
-            "y2024_2025": 380,
-            "pct_growth": 94.87
-          }
-        },
-        {
-          "sno": 107,
-          "country": "UZBEKISTAN",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.03,
-            "pct_growth": 658.15
-          },
-          "values_quantity": {
-            "y2023_2024": 50,
-            "y2024_2025": 456,
-            "pct_growth": 812.0
-          }
-        },
-        {
-          "sno": 108,
-          "country": "VIETNAM SOC REP",
-          "values_usd": {
-            "y2023_2024": 0.47,
-            "y2024_2025": 0.05,
-            "pct_growth": -89.0
-          },
-          "values_quantity": {
-            "y2023_2024": 394027,
-            "y2024_2025": 326,
-            "pct_growth": -99.92
-          }
-        },
-        {
-          "sno": 109,
-          "country": "YEMEN REPUBLC",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 10,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 110,
-          "country": "ZAMBIA",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": 0.0,
-            "pct_growth": 4459.14
-          },
-          "values_quantity": {
-            "y2023_2024": 1,
-            "y2024_2025": 32,
-            "pct_growth": 3100.0
-          }
-        },
-        {
-          "sno": 111,
-          "country": "ZIMBABWE",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 72,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 58.32,
-            "y2024_2025": 41.71,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 422004.4,
-            "y2024_2025": 44.62,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0138,
-          "y2024_2025": null
-        }
-      }
-    },
     "2020": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:18:42.556557",
+        "scraped_at": "2026-01-26T21:38:05.163739",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "29221990",
         "financial_year": "2020",
@@ -10706,7 +10706,7 @@
     }
   },
   "metadata": {
-    "consolidated_at": "2026-01-26T20:18:42.666234",
+    "consolidated_at": "2026-01-26T21:38:05.569516",
     "trade_type": "export",
     "years_count": 7,
     "schema_version": "2.0"

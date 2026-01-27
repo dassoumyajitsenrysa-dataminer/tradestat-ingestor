@@ -1,12 +1,12 @@
 {
   "hsn_code": "20093100",
   "years": {
-    "2023": {
+    "2019": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:13:22.787591",
+        "scraped_at": "2026-01-26T21:32:59.156776",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "20093100",
-        "financial_year": "2023",
+        "financial_year": "2019",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -20,49 +20,21 @@
       "countries": [
         {
           "sno": 1,
-          "country": "AUSTRALIA",
+          "country": "BANGLADESH PR",
           "values_usd": {
-            "y2023_2024": 0.09,
-            "y2024_2025": 0.11,
-            "pct_growth": 32.44
+            "y2023_2024": 0.01,
+            "y2024_2025": null,
+            "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": 30820,
-            "y2024_2025": 36913,
-            "pct_growth": 19.77
+            "y2023_2024": 380,
+            "y2024_2025": null,
+            "pct_growth": null
           }
         },
         {
           "sno": 2,
-          "country": "BHUTAN",
-          "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": 0.01,
-            "pct_growth": 93.12
-          },
-          "values_quantity": {
-            "y2023_2024": 12445,
-            "y2024_2025": 20059,
-            "pct_growth": 61.18
-          }
-        },
-        {
-          "sno": 3,
-          "country": "GERMANY",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.01,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 5558,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 4,
-          "country": "HONG KONG",
+          "country": "CHINA P RP",
           "values_usd": {
             "y2023_2024": null,
             "y2024_2025": 0.0,
@@ -70,63 +42,35 @@
           },
           "values_quantity": {
             "y2023_2024": null,
-            "y2024_2025": 96,
+            "y2024_2025": null,
             "pct_growth": null
           }
         },
         {
-          "sno": 5,
+          "sno": 3,
           "country": "JAPAN",
           "values_usd": {
-            "y2023_2024": 0.74,
-            "y2024_2025": 1.32,
-            "pct_growth": 77.23
+            "y2023_2024": 0.79,
+            "y2024_2025": 0.83,
+            "pct_growth": 4.42
           },
           "values_quantity": {
-            "y2023_2024": 722784,
-            "y2024_2025": 1173144,
-            "pct_growth": 62.31
+            "y2023_2024": 478852,
+            "y2024_2025": 383863,
+            "pct_growth": -19.84
           }
         },
         {
-          "sno": 6,
-          "country": "NEW ZEALAND",
-          "values_usd": {
-            "y2023_2024": 0.11,
-            "y2024_2025": 0.02,
-            "pct_growth": -78.56
-          },
-          "values_quantity": {
-            "y2023_2024": 41753,
-            "y2024_2025": 8748,
-            "pct_growth": -79.05
-          }
-        },
-        {
-          "sno": 7,
-          "country": "QATAR",
+          "sno": 4,
+          "country": "U S A",
           "values_usd": {
             "y2023_2024": 0.0,
             "y2024_2025": null,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": 246,
+            "y2023_2024": 20,
             "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 8,
-          "country": "SEYCHELLES",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 120,
             "pct_growth": null
           }
         }
@@ -134,15 +78,15 @@
       "totals": {
         "total": {
           "values_usd": {
-            "y2023_2024": 1.48,
-            "y2024_2025": 56.15,
+            "y2023_2024": 0.83,
+            "y2024_2025": 3.41,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 437072.03,
-            "y2024_2025": -3.1,
+            "y2023_2024": 313361.04,
+            "y2024_2025": -5.06,
             "pct_growth": null
           }
         },
@@ -152,9 +96,90 @@
         }
       }
     },
+    "2018": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:32:59.637173",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "20093100",
+        "financial_year": "2018",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "20093100",
+        "description": "OTHER SINGLE CITRUS FRUIT JUICE VALUE NOT EXC.20",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "BANGLADESH PR",
+          "values_usd": {
+            "y2023_2024": 0.01,
+            "y2024_2025": 0.01,
+            "pct_growth": -30.8
+          },
+          "values_quantity": {
+            "y2023_2024": 515,
+            "y2024_2025": 380,
+            "pct_growth": -26.21
+          }
+        },
+        {
+          "sno": 2,
+          "country": "JAPAN",
+          "values_usd": {
+            "y2023_2024": 0.64,
+            "y2024_2025": 0.79,
+            "pct_growth": 23.48
+          },
+          "values_quantity": {
+            "y2023_2024": 366145,
+            "y2024_2025": 478852,
+            "pct_growth": 30.78
+          }
+        },
+        {
+          "sno": 3,
+          "country": "U S A",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 20,
+            "pct_growth": null
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.8,
+            "y2024_2025": 22.62,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 330078.09,
+            "y2024_2025": 8.75,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0002,
+          "y2024_2025": null
+        }
+      }
+    },
     "2024": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:13:22.719587",
+        "scraped_at": "2026-01-26T21:32:59.249611",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "20093100",
         "financial_year": "2024",
@@ -359,188 +384,12 @@
         }
       }
     },
-    "2020": {
+    "2023": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:13:22.878989",
+        "scraped_at": "2026-01-26T21:32:59.884018",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "20093100",
-        "financial_year": "2020",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "20093100",
-        "description": "OTHER SINGLE CITRUS FRUIT JUICE VALUE NOT EXC.20",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "CHINA P RP",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 2,
-          "country": "JAPAN",
-          "values_usd": {
-            "y2023_2024": 0.83,
-            "y2024_2025": 0.74,
-            "pct_growth": -10.35
-          },
-          "values_quantity": {
-            "y2023_2024": 383863,
-            "y2024_2025": 317670,
-            "pct_growth": -17.24
-          }
-        },
-        {
-          "sno": 3,
-          "country": "MADAGASCAR",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 570,
-            "pct_growth": null
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.74,
-            "y2024_2025": -10.24,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 291808.48,
-            "y2024_2025": -6.88,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0003,
-          "y2024_2025": null
-        }
-      }
-    },
-    "2019": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:13:22.971569",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "20093100",
-        "financial_year": "2019",
-        "schema_version": "1.0",
-        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
-        "last_updated": "2025-10-21 13:40:42"
-      },
-      "commodity": {
-        "hsn_code": "20093100",
-        "description": "OTHER SINGLE CITRUS FRUIT JUICE VALUE NOT EXC.20",
-        "unit": "KGS"
-      },
-      "report_date": "27 Jan 2026",
-      "countries": [
-        {
-          "sno": 1,
-          "country": "BANGLADESH PR",
-          "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 380,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 2,
-          "country": "CHINA P RP",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.0,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 3,
-          "country": "JAPAN",
-          "values_usd": {
-            "y2023_2024": 0.79,
-            "y2024_2025": 0.83,
-            "pct_growth": 4.42
-          },
-          "values_quantity": {
-            "y2023_2024": 478852,
-            "y2024_2025": 383863,
-            "pct_growth": -19.84
-          }
-        },
-        {
-          "sno": 4,
-          "country": "U S A",
-          "values_usd": {
-            "y2023_2024": 0.0,
-            "y2024_2025": null,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": 20,
-            "y2024_2025": null,
-            "pct_growth": null
-          }
-        }
-      ],
-      "totals": {
-        "total": {
-          "values_usd": {
-            "y2023_2024": 0.83,
-            "y2024_2025": 3.41,
-            "pct_growth": null
-          }
-        },
-        "india_total": {
-          "values_usd": {
-            "y2023_2024": 313361.04,
-            "y2024_2025": -5.06,
-            "pct_growth": null
-          }
-        },
-        "pct_share": {
-          "y2023_2024": 0.0003,
-          "y2024_2025": null
-        }
-      }
-    },
-    "2021": {
-      "metadata": {
-        "scraped_at": "2026-01-26T20:13:22.977960",
-        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
-        "hsn_code": "20093100",
-        "financial_year": "2021",
+        "financial_year": "2023",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -556,75 +405,103 @@
           "sno": 1,
           "country": "AUSTRALIA",
           "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.07,
-            "pct_growth": null
+            "y2023_2024": 0.09,
+            "y2024_2025": 0.11,
+            "pct_growth": 32.44
           },
           "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 29367,
-            "pct_growth": null
+            "y2023_2024": 30820,
+            "y2024_2025": 36913,
+            "pct_growth": 19.77
           }
         },
         {
           "sno": 2,
           "country": "BHUTAN",
           "values_usd": {
+            "y2023_2024": 0.01,
+            "y2024_2025": 0.01,
+            "pct_growth": 93.12
+          },
+          "values_quantity": {
+            "y2023_2024": 12445,
+            "y2024_2025": 20059,
+            "pct_growth": 61.18
+          }
+        },
+        {
+          "sno": 3,
+          "country": "GERMANY",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.01,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 5558,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 4,
+          "country": "HONG KONG",
+          "values_usd": {
             "y2023_2024": null,
             "y2024_2025": 0.0,
             "pct_growth": null
           },
           "values_quantity": {
             "y2023_2024": null,
-            "y2024_2025": 26,
+            "y2024_2025": 96,
             "pct_growth": null
           }
         },
         {
-          "sno": 3,
+          "sno": 5,
           "country": "JAPAN",
           "values_usd": {
             "y2023_2024": 0.74,
-            "y2024_2025": 0.93,
-            "pct_growth": 26.4
+            "y2024_2025": 1.32,
+            "pct_growth": 77.23
           },
           "values_quantity": {
-            "y2023_2024": 317670,
-            "y2024_2025": 922584,
-            "pct_growth": 190.42
+            "y2023_2024": 722784,
+            "y2024_2025": 1173144,
+            "pct_growth": 62.31
           }
         },
         {
-          "sno": 4,
-          "country": "MADAGASCAR",
+          "sno": 6,
+          "country": "NEW ZEALAND",
+          "values_usd": {
+            "y2023_2024": 0.11,
+            "y2024_2025": 0.02,
+            "pct_growth": -78.56
+          },
+          "values_quantity": {
+            "y2023_2024": 41753,
+            "y2024_2025": 8748,
+            "pct_growth": -79.05
+          }
+        },
+        {
+          "sno": 7,
+          "country": "QATAR",
           "values_usd": {
             "y2023_2024": 0.0,
             "y2024_2025": null,
             "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": 570,
+            "y2023_2024": 246,
             "y2024_2025": null,
             "pct_growth": null
           }
         },
         {
-          "sno": 5,
-          "country": "NEW ZEALAND",
-          "values_usd": {
-            "y2023_2024": null,
-            "y2024_2025": 0.07,
-            "pct_growth": null
-          },
-          "values_quantity": {
-            "y2023_2024": null,
-            "y2024_2025": 26945,
-            "pct_growth": null
-          }
-        },
-        {
-          "sno": 6,
-          "country": "SINGAPORE",
+          "sno": 8,
+          "country": "SEYCHELLES",
           "values_usd": {
             "y2023_2024": null,
             "y2024_2025": 0.0,
@@ -632,7 +509,7 @@
           },
           "values_quantity": {
             "y2023_2024": null,
-            "y2024_2025": 702,
+            "y2024_2025": 120,
             "pct_growth": null
           }
         }
@@ -640,15 +517,15 @@
       "totals": {
         "total": {
           "values_usd": {
-            "y2023_2024": 1.08,
-            "y2024_2025": 46.12,
+            "y2023_2024": 1.48,
+            "y2024_2025": 56.15,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 422004.4,
-            "y2024_2025": 44.62,
+            "y2023_2024": 437072.03,
+            "y2024_2025": -3.1,
             "pct_growth": null
           }
         },
@@ -660,7 +537,7 @@
     },
     "2022": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:13:23.016559",
+        "scraped_at": "2026-01-26T21:32:59.916985",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "20093100",
         "financial_year": "2022",
@@ -781,12 +658,12 @@
         }
       }
     },
-    "2018": {
+    "2021": {
       "metadata": {
-        "scraped_at": "2026-01-26T20:13:23.070850",
+        "scraped_at": "2026-01-26T21:33:00.010947",
         "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
         "hsn_code": "20093100",
-        "financial_year": "2018",
+        "financial_year": "2021",
         "schema_version": "1.0",
         "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
         "last_updated": "2025-10-21 13:40:42"
@@ -800,35 +677,21 @@
       "countries": [
         {
           "sno": 1,
-          "country": "BANGLADESH PR",
+          "country": "AUSTRALIA",
           "values_usd": {
-            "y2023_2024": 0.01,
-            "y2024_2025": 0.01,
-            "pct_growth": -30.8
+            "y2023_2024": null,
+            "y2024_2025": 0.07,
+            "pct_growth": null
           },
           "values_quantity": {
-            "y2023_2024": 515,
-            "y2024_2025": 380,
-            "pct_growth": -26.21
+            "y2023_2024": null,
+            "y2024_2025": 29367,
+            "pct_growth": null
           }
         },
         {
           "sno": 2,
-          "country": "JAPAN",
-          "values_usd": {
-            "y2023_2024": 0.64,
-            "y2024_2025": 0.79,
-            "pct_growth": 23.48
-          },
-          "values_quantity": {
-            "y2023_2024": 366145,
-            "y2024_2025": 478852,
-            "pct_growth": 30.78
-          }
-        },
-        {
-          "sno": 3,
-          "country": "U S A",
+          "country": "BHUTAN",
           "values_usd": {
             "y2023_2024": null,
             "y2024_2025": 0.0,
@@ -836,7 +699,63 @@
           },
           "values_quantity": {
             "y2023_2024": null,
-            "y2024_2025": 20,
+            "y2024_2025": 26,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 3,
+          "country": "JAPAN",
+          "values_usd": {
+            "y2023_2024": 0.74,
+            "y2024_2025": 0.93,
+            "pct_growth": 26.4
+          },
+          "values_quantity": {
+            "y2023_2024": 317670,
+            "y2024_2025": 922584,
+            "pct_growth": 190.42
+          }
+        },
+        {
+          "sno": 4,
+          "country": "MADAGASCAR",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": 570,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 5,
+          "country": "NEW ZEALAND",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.07,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 26945,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 6,
+          "country": "SINGAPORE",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 702,
             "pct_growth": null
           }
         }
@@ -844,27 +763,108 @@
       "totals": {
         "total": {
           "values_usd": {
-            "y2023_2024": 0.8,
-            "y2024_2025": 22.62,
+            "y2023_2024": 1.08,
+            "y2024_2025": 46.12,
             "pct_growth": null
           }
         },
         "india_total": {
           "values_usd": {
-            "y2023_2024": 330078.09,
-            "y2024_2025": 8.75,
+            "y2023_2024": 422004.4,
+            "y2024_2025": 44.62,
             "pct_growth": null
           }
         },
         "pct_share": {
-          "y2023_2024": 0.0002,
+          "y2023_2024": 0.0003,
+          "y2024_2025": null
+        }
+      }
+    },
+    "2020": {
+      "metadata": {
+        "scraped_at": "2026-01-26T21:33:00.035741",
+        "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_all_countries_export",
+        "hsn_code": "20093100",
+        "financial_year": "2020",
+        "schema_version": "1.0",
+        "data_availability": "2017-2018 to 2025-2026 (Apr-Aug)",
+        "last_updated": "2025-10-21 13:40:42"
+      },
+      "commodity": {
+        "hsn_code": "20093100",
+        "description": "OTHER SINGLE CITRUS FRUIT JUICE VALUE NOT EXC.20",
+        "unit": "KGS"
+      },
+      "report_date": "27 Jan 2026",
+      "countries": [
+        {
+          "sno": 1,
+          "country": "CHINA P RP",
+          "values_usd": {
+            "y2023_2024": 0.0,
+            "y2024_2025": null,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": null,
+            "pct_growth": null
+          }
+        },
+        {
+          "sno": 2,
+          "country": "JAPAN",
+          "values_usd": {
+            "y2023_2024": 0.83,
+            "y2024_2025": 0.74,
+            "pct_growth": -10.35
+          },
+          "values_quantity": {
+            "y2023_2024": 383863,
+            "y2024_2025": 317670,
+            "pct_growth": -17.24
+          }
+        },
+        {
+          "sno": 3,
+          "country": "MADAGASCAR",
+          "values_usd": {
+            "y2023_2024": null,
+            "y2024_2025": 0.0,
+            "pct_growth": null
+          },
+          "values_quantity": {
+            "y2023_2024": null,
+            "y2024_2025": 570,
+            "pct_growth": null
+          }
+        }
+      ],
+      "totals": {
+        "total": {
+          "values_usd": {
+            "y2023_2024": 0.74,
+            "y2024_2025": -10.24,
+            "pct_growth": null
+          }
+        },
+        "india_total": {
+          "values_usd": {
+            "y2023_2024": 291808.48,
+            "y2024_2025": -6.88,
+            "pct_growth": null
+          }
+        },
+        "pct_share": {
+          "y2023_2024": 0.0003,
           "y2024_2025": null
         }
       }
     }
   },
   "metadata": {
-    "consolidated_at": "2026-01-26T20:13:23.089784",
+    "consolidated_at": "2026-01-26T21:33:00.132123",
     "trade_type": "export",
     "years_count": 7,
     "schema_version": "2.0"
