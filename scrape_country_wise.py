@@ -22,7 +22,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent / "src"))
 
 from tradestat_ingestor.core.session import TradeStatSession
-from tradestat_ingestor.scrapers.country_wise import (
+from tradestat_ingestor.scrapers.eidb.country_wise import (
     fetch_country_data,
     get_base_url,
     get_country_name,
@@ -154,7 +154,7 @@ def main():
     parser.add_argument("--type", choices=["export", "import"], default="export")
     parser.add_argument("--value-type", choices=["usd", "inr"], default="usd")
     parser.add_argument("--country", type=str, help="Country name or code (e.g., 'usa', 'U S A', '423')")
-    parser.add_argument("--output", type=str, default="./src/data/raw/country_wise")
+    parser.add_argument("--output", type=str, default="./src/data/raw/eidb/country_wise")
     parser.add_argument("--list-countries", action="store_true")
     parser.add_argument("--delay", type=float, default=1.0)
     
