@@ -16,12 +16,12 @@ sys.path.insert(0, 'src')
 
 from tradestat_ingestor.core.session import TradeStatSession
 from tradestat_ingestor.core.change_detector import ChangeDetector
-from tradestat_ingestor.scrapers.commodity_wise_all_countries import (
+from tradestat_ingestor.scrapers.eidb.commodity_wise_all_countries import (
     scrape_commodity_export,
     scrape_commodity_import
 )
-from tradestat_ingestor.scrapers.commodity_wise_all_countries.parser import parse_commodity_html
-from tradestat_ingestor.scrapers.commodity_wise_all_countries.consolidator import consolidate_years
+from tradestat_ingestor.scrapers.eidb.commodity_wise_all_countries.parser import parse_commodity_html
+from tradestat_ingestor.scrapers.eidb.commodity_wise_all_countries.consolidator import consolidate_years
 from tradestat_ingestor.config.settings import settings
 from tradestat_ingestor.utils.constants import EXPORT_PATH
 
@@ -32,7 +32,7 @@ AVAILABLE_YEARS = ["2024", "2023", "2022", "2021", "2020", "2019", "2018"]
 
 def get_default_output_path(feature: str, trade_type: str, hsn: str, year: str = None) -> Path:
     """Generate default output path based on feature and trade type."""
-    output_dir = Path("src/data/raw") / feature / trade_type
+    output_dir = Path("src/data/raw/eidb") / feature / trade_type
     output_dir.mkdir(parents=True, exist_ok=True)
     
     if year:

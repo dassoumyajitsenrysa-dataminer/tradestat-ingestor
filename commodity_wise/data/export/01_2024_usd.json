@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "extraction": {
+      "scraped_at": "2026-02-03T08:15:08.629282",
+      "feature": "commodity_wise",
+      "hscode": "01",
+      "digit_level": 2,
+      "financial_year": "2024",
+      "fiscal_year_range": "2024-2025",
+      "trade_type": "export",
+      "value_type": "usd",
+      "value_unit": "US $ Million",
+      "source_url": "https://tradestat.commerce.gov.in/eidb/commodity_wise_export",
+      "report_date": "03 Feb 2026",
+      "response_size_bytes": 40629
+    },
+    "data": {
+      "data_source": "DGCI&S (Directorate General of Commercial Intelligence and Statistics)",
+      "data_provider": "Ministry of Commerce and Industry, Government of India",
+      "data_classification": "PUBLIC",
+      "temporal_granularity": "Annual (Financial Year: Apr-Mar)",
+      "geographic_coverage": "India"
+    }
+  },
+  "year_columns": {
+    "prev_year": "2023 - 2024",
+    "curr_year": "2024 - 2025"
+  },
+  "commodities": [
+    {
+      "sno": 1,
+      "hscode": "01",
+      "commodity": "LIVE ANIMALS.",
+      "prev_year_value": 12.37,
+      "prev_year_share_pct": 0.0028,
+      "curr_year_value": 19.7,
+      "curr_year_share_pct": 0.0045,
+      "growth_pct": 59.17
+    }
+  ],
+  "india_total": {
+    "prev_year_value": 437072.03,
+    "curr_year_value": 437704.58,
+    "growth_pct": 0.14
+  },
+  "data_quality": {
+    "total_records": 1,
+    "records_with_complete_data": 1,
+    "extraction_completeness_percent": 100.0,
+    "extraction_duration_seconds": 0.0,
+    "validation_status": "VALID",
+    "checksum_md5": "8efe90c9fad3977d53a521e4629a52c0"
+  }
+}

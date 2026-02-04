@@ -21,14 +21,14 @@ from pathlib import Path
 sys.path.insert(0, 'src')
 
 from tradestat_ingestor.core.session import TradeStatSession
-from tradestat_ingestor.scrapers.commodity_wise.scraper import (
+from tradestat_ingestor.scrapers.eidb.commodity_wise.scraper import (
     scrape_commodity_wise,
     scrape_commodity_wise_all,
     COMMODITY_WISE_EXPORT_PATH,
     COMMODITY_WISE_IMPORT_PATH
 )
-from tradestat_ingestor.scrapers.commodity_wise.parser import parse_commodity_wise_html
-from tradestat_ingestor.scrapers.commodity_wise.storage import (
+from tradestat_ingestor.scrapers.eidb.commodity_wise.parser import parse_commodity_wise_html
+from tradestat_ingestor.scrapers.eidb.commodity_wise.storage import (
     save_commodity_wise_data,
     save_all_commodities_data
 )
